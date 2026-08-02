@@ -1,0 +1,1001 @@
+crime_id,date,time,hour,day_of_week,month,year,latitude,longitude,zone,district,crime_type,crime_severity,weather,is_festival_day,is_weekend,is_night,nearby_police_station_distance_km,population_density,street_lighting,unemployment_index,alcohol_outlet_nearby,crime_occurred
+CR000001,2020-09-08,05:16:26,5,Tuesday,9,2020,13.098928,80.294397,North,Washermanpet,Fraud,7,Foggy,0,0,1,4.7,High,Poor,0.08,1,1
+CR000002,2020-10-18,12:48:36,12,Sunday,10,2020,13.04143,80.243404,Central,Nungambakkam,Drug-offense,8,Clear,1,1,0,4.14,Very High,Moderate,0.25,1,1
+CR000003,2024-12-17,08:01:53,8,Tuesday,12,2024,13.10251,80.172935,West,Ambattur,Robbery,8,Hot,0,0,0,4.75,High,Moderate,0.22,1,1
+CR000004,2024-12-05,00:33:30,0,Thursday,12,2024,13.110547,80.231432,North,Perambur,Murder,8,Clear,0,0,1,5.36,Low,Moderate,0.07,1,1
+CR000005,2024-08-10,13:38:00,13,Saturday,8,2024,13.02235,80.30418,East,Marina,Theft,6,Foggy,0,1,0,4.65,Low,Good,0.19,1,1
+CR000006,2023-08-25,15:43:27,15,Friday,8,2023,13.019509,80.296691,East,Besant Nagar,Eve-teasing,2,Clear,0,0,0,1.67,Medium,Moderate,0.31,1,1
+CR000007,2019-11-13,21:29:58,21,Wednesday,11,2019,13.044725,80.065376,West,Porur,Vehicle-theft,5,Rainy,0,0,1,3.14,Low,Good,0.34,0,1
+CR000008,2022-06-17,10:13:09,10,Friday,6,2022,13.027229,80.260774,Central,Triplicane,Theft,6,Clear,0,0,0,2.29,Low,Good,0.36,1,1
+CR000009,2024-04-02,11:00:33,11,Tuesday,4,2024,12.997749,80.265247,South,Adyar,Kidnapping,8,Hot,0,0,0,0.59,Medium,Good,0.25,1,1
+CR000010,2023-08-02,04:59:58,4,Wednesday,8,2023,13.076866,80.267198,Central,Triplicane,Assault,6,Clear,0,0,1,3.04,High,Good,0.15,0,1
+CR000011,2020-11-15,08:04:30,8,Sunday,11,2020,13.142159,80.267098,North,Washermanpet,Burglary,6,Clear,1,1,0,2.02,Low,Moderate,0.3,1,1
+CR000012,2021-08-14,20:03:15,20,Saturday,8,2021,12.971086,80.276442,East,Thiruvanmiyur,Vehicle-theft,6,Clear,0,1,1,3.37,Medium,Moderate,0.27,1,1
+CR000013,2024-02-06,12:19:20,12,Tuesday,2,2024,13.03075,80.26597,East,Marina,Murder,8,Clear,0,0,0,3.88,Medium,Good,0.25,1,1
+CR000014,2024-05-05,19:44:09,19,Sunday,5,2024,12.989832,80.218827,South,Velachery,Robbery,7,Clear,0,1,1,5.68,Low,Poor,0.35,0,1
+CR000015,2020-12-29,12:36:30,12,Tuesday,12,2020,13.058603,80.230425,Central,Egmore,Assault,8,Hot,0,0,0,3.65,Medium,Moderate,0.19,1,1
+CR000016,2019-01-12,01:23:49,1,Saturday,1,2019,13.147083,80.251884,North,Perambur,Assault,5,Hot,0,1,1,1.1,Low,Poor,0.06,1,1
+CR000017,2019-07-30,21:22:02,21,Tuesday,7,2019,13.154313,80.310647,North,Tiruvottiyur,Vehicle-theft,4,Rainy,0,0,1,2.83,Medium,Moderate,0.39,0,1
+CR000018,2023-08-04,15:35:40,15,Friday,8,2023,12.975952,80.224861,South,Velachery,Assault,8,Foggy,0,0,0,4.58,Medium,Good,0.22,0,1
+CR000019,2022-08-03,06:01:59,6,Wednesday,8,2022,13.023505,80.1951,West,K.K. Nagar,Drug-offense,6,Foggy,0,0,0,0.76,Medium,Good,0.1,0,1
+CR000020,2023-09-30,09:33:18,9,Saturday,9,2023,12.960018,80.263343,East,Thiruvanmiyur,Vehicle-theft,4,Rainy,0,1,0,1.75,Low,Moderate,0.13,1,1
+CR000021,2021-08-03,13:34:47,13,Tuesday,8,2021,13.012808,80.067258,West,Porur,Eve-teasing,3,Foggy,0,0,0,1.8,Low,Moderate,0.23,0,1
+CR000022,2019-02-20,08:26:16,8,Wednesday,2,2019,12.909801,80.139969,South,Tambaram,Vehicle-theft,5,Clear,0,0,0,5.77,Low,Poor,0.1,0,1
+CR000023,2019-03-23,20:08:47,20,Saturday,3,2019,13.071378,80.304459,Central,Triplicane,Robbery,7,Clear,0,1,1,5.08,High,Moderate,0.07,0,1
+CR000024,2023-08-12,09:48:58,9,Saturday,8,2023,13.079047,80.266313,Central,Egmore,Vehicle-theft,7,Hot,0,1,0,1.96,Very High,Good,0.35,0,1
+CR000025,2019-03-14,19:53:41,19,Thursday,3,2019,13.041198,80.26976,Central,Mylapore,Vehicle-theft,4,Rainy,0,0,1,1.8,Medium,Good,0.07,0,1
+CR000026,2021-12-23,10:43:03,10,Thursday,12,2021,13.081696,80.301439,North,Washermanpet,Vehicle-theft,6,Foggy,0,0,0,1.4,Low,Poor,0.17,0,1
+CR000027,2020-03-18,19:28:57,19,Wednesday,3,2020,13.082266,80.219869,West,Anna Nagar,Burglary,5,Rainy,0,0,1,4.19,Low,Good,0.29,1,1
+CR000028,2023-03-31,04:24:46,4,Friday,3,2023,12.943247,80.114949,South,Tambaram,Murder,9,Rainy,0,0,1,2.52,Medium,Moderate,0.37,0,1
+CR000029,2019-04-04,10:19:42,10,Thursday,4,2019,13.129858,80.306863,North,Royapuram,Kidnapping,10,Clear,0,0,0,1.6,Low,Poor,0.07,0,1
+CR000030,2023-04-11,11:13:01,11,Tuesday,4,2023,13.08223,80.2844,Central,Egmore,Fraud,6,Rainy,0,0,0,1.3,Low,Moderate,0.18,1,1
+CR000031,2024-12-05,00:04:04,0,Thursday,12,2024,12.998693,80.225013,South,Guindy,Kidnapping,9,Hot,0,0,1,4.03,Very High,Poor,0.24,1,1
+CR000032,2023-08-14,06:55:25,6,Monday,8,2023,13.015271,80.242732,East,Thiruvanmiyur,Vehicle-theft,4,Rainy,0,0,0,2.78,Medium,Good,0.13,0,1
+CR000033,2024-05-02,03:02:52,3,Thursday,5,2024,12.959271,80.200027,South,Velachery,Vehicle-theft,5,Rainy,0,0,1,1.14,Medium,Good,0.38,1,1
+CR000034,2019-08-21,02:06:14,2,Wednesday,8,2019,12.987878,80.232384,South,Velachery,Burglary,5,Foggy,0,0,1,0.52,Medium,Good,0.29,0,1
+CR000035,2022-11-29,09:02:27,9,Tuesday,11,2022,12.987457,80.221756,South,Velachery,Vehicle-theft,5,Rainy,0,0,0,3.36,Low,Good,0.28,0,1
+CR000036,2023-12-21,00:18:45,0,Thursday,12,2023,13.080012,80.261723,Central,Egmore,Vehicle-theft,7,Rainy,0,0,1,4.06,Low,Poor,0.09,1,1
+CR000037,2019-09-19,07:50:14,7,Thursday,9,2019,13.042098,80.257694,Central,Nungambakkam,Theft,5,Foggy,0,0,0,2.36,High,Poor,0.27,1,1
+CR000038,2024-12-02,11:24:54,11,Monday,12,2024,13.011792,80.253974,Central,Mylapore,Assault,6,Foggy,0,0,0,4.52,Low,Good,0.06,1,1
+CR000039,2020-07-29,19:47:42,19,Wednesday,7,2020,13.005134,80.237228,South,Adyar,Vehicle-theft,6,Rainy,0,0,1,0.64,Medium,Moderate,0.34,0,1
+CR000040,2021-06-30,11:26:02,11,Wednesday,6,2021,13.123554,80.14157,West,Ambattur,Murder,8,Foggy,0,0,0,0.83,Low,Poor,0.21,0,1
+CR000041,2019-11-16,07:18:51,7,Saturday,11,2019,12.99015,80.262316,East,Thiruvanmiyur,Vehicle-theft,7,Rainy,1,1,0,2.5,Medium,Poor,0.09,1,1
+CR000042,2020-10-06,03:36:56,3,Tuesday,10,2020,12.915287,80.128863,South,Tambaram,Fraud,5,Rainy,0,0,1,1.33,Medium,Good,0.1,0,1
+CR000043,2019-06-22,20:52:57,20,Saturday,6,2019,12.926999,80.120746,South,Tambaram,Murder,10,Foggy,0,1,1,2.76,Low,Poor,0.26,0,1
+CR000044,2024-09-16,07:13:25,7,Monday,9,2024,13.012433,80.237242,South,Adyar,Theft,4,Clear,0,0,0,2.74,Medium,Good,0.15,1,1
+CR000045,2021-01-04,20:02:58,20,Monday,1,2021,13.049855,80.263738,East,Marina,Vehicle-theft,7,Foggy,0,0,1,4.28,Medium,Moderate,0.28,1,1
+CR000046,2021-02-10,19:36:23,19,Wednesday,2,2021,13.004039,80.182364,West,K.K. Nagar,Burglary,8,Foggy,0,0,1,4.27,Medium,Poor,0.21,0,1
+CR000047,2021-04-04,11:38:31,11,Sunday,4,2021,12.937126,80.137326,South,Tambaram,Drug-offense,9,Foggy,0,1,0,5.79,Medium,Poor,0.13,1,1
+CR000048,2023-12-17,18:10:01,18,Sunday,12,2023,13.110901,80.121523,West,Ambattur,Theft,4,Rainy,0,1,0,4.05,Low,Poor,0.23,1,1
+CR000049,2020-01-28,11:45:29,11,Tuesday,1,2020,13.001716,80.266969,East,Besant Nagar,Eve-teasing,2,Hot,0,0,0,1.51,Low,Moderate,0.2,0,1
+CR000050,2020-10-13,11:15:21,11,Tuesday,10,2020,13.124826,80.139835,West,Ambattur,Kidnapping,9,Clear,0,0,0,3.95,Medium,Moderate,0.29,0,1
+CR000051,2024-02-17,10:56:40,10,Saturday,2,2024,13.12366,80.286751,North,Washermanpet,Burglary,7,Foggy,0,1,0,1.63,Low,Moderate,0.09,0,1
+CR000052,2022-07-21,15:51:17,15,Thursday,7,2022,13.009817,80.266588,South,Adyar,Vehicle-theft,7,Hot,0,0,0,5.17,Medium,Good,0.09,0,1
+CR000053,2022-11-15,10:36:14,10,Tuesday,11,2022,13.031354,80.265282,Central,Mylapore,Drug-offense,9,Clear,1,0,0,3.88,Low,Poor,0.06,1,1
+CR000054,2022-12-10,05:33:39,5,Saturday,12,2022,13.046349,80.290347,East,Marina,Vehicle-theft,7,Rainy,0,1,1,1.54,Low,Moderate,0.38,1,1
+CR000055,2020-07-07,21:39:29,21,Tuesday,7,2020,12.983929,80.271886,South,Adyar,Kidnapping,8,Rainy,0,0,1,0.94,Low,Good,0.38,0,1
+CR000056,2023-01-19,07:04:27,7,Thursday,1,2023,13.114664,80.252471,North,Perambur,Assault,8,Hot,0,0,0,0.91,Low,Moderate,0.18,0,1
+CR000057,2019-12-06,07:50:45,7,Friday,12,2019,13.030198,80.281455,Central,Triplicane,Assault,9,Foggy,0,0,0,0.73,Medium,Moderate,0.18,1,1
+CR000058,2021-03-02,20:16:00,20,Tuesday,3,2021,13.126296,80.273222,North,Royapuram,Assault,6,Rainy,0,0,1,3.92,Medium,Poor,0.14,1,1
+CR000059,2019-10-20,23:34:42,23,Sunday,10,2019,13.046706,80.27844,East,Marina,Drug-offense,8,Foggy,1,1,1,4.74,Medium,Moderate,0.06,1,1
+CR000060,2022-11-09,08:21:52,8,Wednesday,11,2022,12.922963,80.150004,South,Tambaram,Fraud,4,Hot,0,0,0,4.57,Medium,Moderate,0.21,1,1
+CR000061,2020-02-29,13:39:42,13,Saturday,2,2020,13.09866,80.251738,North,Perambur,Robbery,6,Clear,0,1,0,5.2,Medium,Poor,0.11,1,1
+CR000062,2022-08-18,23:31:38,23,Thursday,8,2022,13.015068,80.055503,West,Porur,Vehicle-theft,5,Rainy,0,0,1,4.44,Low,Moderate,0.38,1,1
+CR000063,2020-08-06,08:14:10,8,Thursday,8,2020,13.046433,80.256157,East,Marina,Theft,6,Hot,0,0,0,5.81,Medium,Good,0.21,0,1
+CR000064,2023-09-25,16:16:01,16,Monday,9,2023,13.031047,80.049476,West,Porur,Kidnapping,10,Clear,0,0,0,0.71,Low,Moderate,0.24,1,1
+CR000065,2020-10-05,17:58:15,17,Monday,10,2020,13.012541,80.241886,South,Guindy,Murder,9,Clear,0,0,0,1.39,Medium,Good,0.14,1,1
+CR000066,2024-08-28,10:05:16,10,Wednesday,8,2024,13.112932,80.13651,West,Ambattur,Murder,9,Foggy,0,0,0,3.81,Low,Good,0.22,1,1
+CR000067,2019-08-04,08:24:33,8,Sunday,8,2019,13.035373,80.278022,Central,Triplicane,Eve-teasing,3,Foggy,0,1,0,4.71,Very High,Good,0.16,0,1
+CR000068,2024-02-18,09:53:15,9,Sunday,2,2024,13.109938,80.124979,West,Ambattur,Burglary,6,Foggy,0,1,0,5.58,Very High,Moderate,0.39,1,1
+CR000069,2024-01-26,06:05:51,6,Friday,1,2024,13.12923,80.142824,West,Ambattur,Drug-offense,7,Hot,0,0,0,4.6,High,Good,0.32,1,1
+CR000070,2023-03-27,22:25:55,22,Monday,3,2023,13.091825,80.265583,North,Perambur,Eve-teasing,2,Rainy,0,0,1,2.45,Low,Good,0.19,0,1
+CR000071,2022-10-12,10:36:57,10,Wednesday,10,2022,13.109908,80.152297,West,Ambattur,Fraud,6,Hot,0,0,0,2.97,Medium,Good,0.13,0,1
+CR000072,2023-01-30,19:00:28,19,Monday,1,2023,13.029008,80.268345,East,Besant Nagar,Robbery,7,Rainy,0,0,1,4.78,Low,Moderate,0.29,1,1
+CR000073,2022-09-12,03:17:18,3,Monday,9,2022,12.95637,80.20745,South,Velachery,Drug-offense,7,Clear,0,0,1,4.17,Low,Moderate,0.36,0,1
+CR000074,2019-06-07,21:14:20,21,Friday,6,2019,13.046134,80.297375,Central,Egmore,Fraud,5,Rainy,0,0,1,0.88,High,Good,0.35,0,1
+CR000075,2021-10-07,00:39:08,0,Thursday,10,2021,13.000864,80.277518,East,Besant Nagar,Assault,9,Clear,0,0,1,3.26,Medium,Good,0.11,1,1
+CR000076,2021-05-29,22:28:48,22,Saturday,5,2021,13.032415,80.290262,Central,Triplicane,Murder,8,Hot,0,1,1,2.64,Low,Good,0.05,0,1
+CR000077,2024-05-10,17:30:57,17,Friday,5,2024,13.147726,80.311114,North,Tiruvottiyur,Assault,7,Rainy,0,0,0,5.55,Medium,Moderate,0.09,1,1
+CR000078,2022-01-13,18:32:05,18,Thursday,1,2022,13.062889,80.235859,South,T.Nagar,Kidnapping,10,Foggy,1,0,0,3.09,Very High,Good,0.1,1,1
+CR000079,2024-11-08,11:18:46,11,Friday,11,2024,13.198564,80.285367,North,Tiruvottiyur,Kidnapping,8,Foggy,0,0,0,0.51,Low,Moderate,0.09,1,1
+CR000080,2020-09-12,13:25:44,13,Saturday,9,2020,13.026764,80.260177,Central,Mylapore,Murder,8,Rainy,0,1,0,4.03,Low,Poor,0.35,0,1
+CR000081,2021-01-26,17:41:25,17,Tuesday,1,2021,13.019925,80.252139,South,T.Nagar,Eve-teasing,2,Clear,0,0,0,5.95,Low,Moderate,0.3,0,1
+CR000082,2024-03-28,00:52:03,0,Thursday,3,2024,13.012952,80.226527,South,Guindy,Drug-offense,7,Clear,0,0,1,4.8,Very High,Moderate,0.23,1,1
+CR000083,2023-04-23,06:18:25,6,Sunday,4,2023,13.045593,80.28255,Central,Triplicane,Drug-offense,7,Rainy,0,1,0,0.96,Medium,Poor,0.1,1,1
+CR000084,2023-05-17,14:29:58,14,Wednesday,5,2023,13.062953,80.268242,East,Marina,Murder,9,Foggy,0,0,0,4.21,Medium,Good,0.09,0,1
+CR000085,2021-08-27,17:55:32,17,Friday,8,2021,13.087042,80.21384,North,Perambur,Kidnapping,9,Hot,0,0,0,1.37,Medium,Poor,0.16,1,1
+CR000086,2020-08-13,21:14:28,21,Thursday,8,2020,13.035066,80.231353,Central,Nungambakkam,Burglary,5,Foggy,0,0,1,4.91,Medium,Moderate,0.39,1,1
+CR000087,2020-01-31,00:18:25,0,Friday,1,2020,13.130259,80.151106,West,Ambattur,Kidnapping,10,Clear,0,0,1,5.96,Low,Poor,0.26,0,1
+CR000088,2020-03-10,17:58:55,17,Tuesday,3,2020,13.099713,80.267613,North,Washermanpet,Burglary,5,Clear,0,0,0,0.53,Medium,Good,0.28,1,1
+CR000089,2020-05-28,13:37:11,13,Thursday,5,2020,13.104011,80.272608,North,Washermanpet,Drug-offense,6,Rainy,0,0,0,5.81,Low,Moderate,0.38,1,1
+CR000090,2021-02-18,17:01:37,17,Thursday,2,2021,13.00439,80.250483,East,Thiruvanmiyur,Robbery,6,Foggy,0,0,0,4.64,Low,Good,0.16,0,1
+CR000091,2019-11-24,10:19:57,10,Sunday,11,2019,13.118054,80.216225,West,Anna Nagar,Vehicle-theft,7,Rainy,1,1,0,2.27,Very High,Poor,0.16,0,1
+CR000092,2022-12-19,15:34:54,15,Monday,12,2022,13.101111,80.230134,North,Perambur,Vehicle-theft,4,Foggy,0,0,0,2.5,Medium,Poor,0.32,1,1
+CR000093,2020-08-31,08:03:15,8,Monday,8,2020,13.094183,80.192164,West,Anna Nagar,Drug-offense,7,Hot,0,0,0,5.08,Medium,Moderate,0.34,1,1
+CR000094,2022-10-15,07:18:40,7,Saturday,10,2022,13.079901,80.20952,West,Anna Nagar,Eve-teasing,2,Rainy,1,1,0,5.75,High,Moderate,0.22,0,1
+CR000095,2023-12-14,12:38:11,12,Thursday,12,2023,13.122099,80.241393,North,Perambur,Theft,6,Foggy,0,0,0,4.18,Medium,Moderate,0.3,0,1
+CR000096,2024-07-27,21:44:20,21,Saturday,7,2024,13.070779,80.274456,Central,Egmore,Burglary,6,Clear,0,1,1,3.54,Very High,Good,0.19,0,1
+CR000097,2019-11-02,02:34:36,2,Saturday,11,2019,12.912296,80.133271,South,Tambaram,Kidnapping,8,Rainy,0,1,1,1.55,Low,Good,0.06,1,1
+CR000098,2021-05-31,00:36:45,0,Monday,5,2021,13.113128,80.289735,North,Royapuram,Theft,3,Hot,0,0,1,3.8,Low,Good,0.23,0,1
+CR000099,2020-12-27,23:19:33,23,Sunday,12,2020,13.035076,80.236312,South,T.Nagar,Vehicle-theft,4,Rainy,0,1,1,4.37,Medium,Moderate,0.11,1,1
+CR000100,2019-04-30,21:02:21,21,Tuesday,4,2019,13.021917,80.071552,West,Porur,Drug-offense,7,Rainy,0,0,1,5.85,Low,Poor,0.4,1,1
+CR000101,2020-01-18,10:05:42,10,Saturday,1,2020,13.035106,80.032628,West,Porur,Burglary,7,Foggy,0,1,0,4.7,Medium,Good,0.1,0,1
+CR000102,2022-05-31,01:34:20,1,Tuesday,5,2022,13.005686,80.288311,East,Besant Nagar,Drug-offense,7,Clear,0,0,1,2.15,Medium,Good,0.15,0,1
+CR000103,2024-02-19,09:54:47,9,Monday,2,2024,13.104606,80.273002,North,Washermanpet,Fraud,5,Clear,0,0,0,4.0,High,Poor,0.18,1,1
+CR000104,2020-05-02,01:53:42,1,Saturday,5,2020,13.112557,80.224429,West,Anna Nagar,Assault,7,Foggy,0,1,1,5.39,Very High,Poor,0.33,0,1
+CR000105,2019-11-04,01:17:55,1,Monday,11,2019,12.994432,80.309987,East,Besant Nagar,Theft,5,Rainy,0,0,1,4.8,Low,Moderate,0.18,0,1
+CR000106,2019-05-06,03:27:55,3,Monday,5,2019,12.934211,80.118364,South,Tambaram,Vehicle-theft,7,Rainy,0,0,1,1.54,Medium,Good,0.35,0,1
+CR000107,2019-12-30,09:59:43,9,Monday,12,2019,13.073256,80.275448,Central,Egmore,Murder,8,Hot,0,0,0,4.83,Low,Moderate,0.35,0,1
+CR000108,2021-05-21,16:54:48,16,Friday,5,2021,13.039043,80.24885,Central,Nungambakkam,Eve-teasing,2,Clear,0,0,0,2.52,Very High,Poor,0.24,1,1
+CR000109,2022-09-27,15:22:31,15,Tuesday,9,2022,12.971175,80.202443,South,Velachery,Kidnapping,8,Foggy,0,0,0,4.74,Medium,Good,0.22,1,1
+CR000110,2019-11-03,11:12:51,11,Sunday,11,2019,13.000673,80.267583,Central,Mylapore,Drug-offense,9,Foggy,0,1,0,0.5,Low,Moderate,0.13,1,1
+CR000111,2019-06-02,13:52:41,13,Sunday,6,2019,13.036396,80.265649,Central,Mylapore,Robbery,6,Foggy,0,1,0,4.93,Low,Poor,0.19,1,1
+CR000112,2020-03-12,06:15:53,6,Thursday,3,2020,13.03544,80.276518,East,Marina,Murder,8,Rainy,0,0,0,5.61,Medium,Poor,0.39,0,1
+CR000113,2021-01-01,18:00:36,18,Friday,1,2021,12.998013,80.244544,South,Adyar,Burglary,7,Hot,1,0,0,3.51,Medium,Poor,0.14,0,1
+CR000114,2021-02-24,07:09:05,7,Wednesday,2,2021,13.078298,80.211349,West,Anna Nagar,Vehicle-theft,7,Hot,0,0,0,5.45,Low,Moderate,0.08,0,1
+CR000115,2022-05-14,12:14:41,12,Saturday,5,2022,12.998759,80.287623,Central,Mylapore,Kidnapping,10,Hot,0,1,0,1.98,Medium,Moderate,0.11,1,1
+CR000116,2019-02-21,08:26:11,8,Thursday,2,2019,13.115874,80.290892,North,Royapuram,Fraud,4,Clear,0,0,0,3.11,Low,Poor,0.07,0,1
+CR000117,2020-02-06,03:17:11,3,Thursday,2,2020,13.088524,80.267116,Central,Egmore,Theft,5,Hot,0,0,1,2.69,Low,Poor,0.36,0,1
+CR000118,2023-12-09,23:24:44,23,Saturday,12,2023,12.992161,80.245577,South,Adyar,Eve-teasing,5,Foggy,0,1,1,5.53,Low,Good,0.38,0,1
+CR000119,2020-07-01,21:21:22,21,Wednesday,7,2020,13.028215,80.205811,West,K.K. Nagar,Eve-teasing,2,Foggy,0,0,1,0.68,Low,Moderate,0.39,1,1
+CR000120,2023-10-29,19:49:17,19,Sunday,10,2023,13.161342,80.315394,North,Tiruvottiyur,Burglary,8,Rainy,0,1,1,2.79,Low,Poor,0.28,1,1
+CR000121,2021-11-27,13:56:36,13,Saturday,11,2021,13.013241,80.276913,East,Marina,Vehicle-theft,5,Clear,0,1,0,3.36,Low,Good,0.1,1,1
+CR000122,2022-05-06,18:14:50,18,Friday,5,2022,13.027537,80.298339,East,Marina,Vehicle-theft,5,Clear,0,0,0,3.59,Low,Moderate,0.34,1,1
+CR000123,2021-04-09,03:05:47,3,Friday,4,2021,13.006518,80.255391,East,Besant Nagar,Vehicle-theft,4,Rainy,0,0,1,4.14,Medium,Moderate,0.37,1,1
+CR000124,2021-01-29,03:07:28,3,Friday,1,2021,13.087986,80.273602,North,Washermanpet,Drug-offense,6,Rainy,0,0,1,2.21,High,Moderate,0.13,0,1
+CR000125,2023-01-28,21:30:17,21,Saturday,1,2023,13.040907,80.290278,Central,Triplicane,Kidnapping,9,Foggy,0,1,1,5.76,Very High,Good,0.15,1,1
+CR000126,2019-09-18,01:21:57,1,Wednesday,9,2019,13.119842,80.250527,North,Perambur,Theft,6,Clear,0,0,1,0.9,Medium,Moderate,0.36,0,1
+CR000127,2019-04-12,00:27:13,0,Friday,4,2019,13.033998,80.252055,Central,Triplicane,Burglary,7,Clear,0,0,1,2.22,Low,Moderate,0.36,0,1
+CR000128,2022-10-01,13:20:00,13,Saturday,10,2022,13.024279,80.23928,South,Guindy,Robbery,8,Foggy,0,1,0,3.52,Low,Poor,0.08,1,1
+CR000129,2020-02-25,10:42:24,10,Tuesday,2,2020,13.107814,80.290932,North,Washermanpet,Eve-teasing,3,Foggy,0,0,0,1.98,Medium,Moderate,0.36,0,1
+CR000130,2021-07-16,14:38:49,14,Friday,7,2021,12.978758,80.233067,South,Velachery,Assault,7,Hot,0,0,0,3.04,Medium,Moderate,0.33,0,1
+CR000131,2023-07-20,23:24:29,23,Thursday,7,2023,13.045941,80.26336,Central,Mylapore,Murder,8,Hot,0,0,1,5.66,Low,Good,0.09,0,1
+CR000132,2023-03-12,04:14:30,4,Sunday,3,2023,13.126991,80.276767,North,Perambur,Robbery,8,Hot,0,1,1,2.33,Low,Poor,0.25,1,1
+CR000133,2022-01-01,06:52:45,6,Saturday,1,2022,13.057343,80.033556,West,Porur,Robbery,8,Clear,1,1,0,3.27,Low,Good,0.11,0,1
+CR000134,2023-10-06,11:18:20,11,Friday,10,2023,12.921842,80.115808,South,Tambaram,Burglary,8,Hot,0,0,0,1.26,Low,Moderate,0.37,1,1
+CR000135,2022-09-17,03:18:36,3,Saturday,9,2022,13.133429,80.283719,North,Royapuram,Assault,7,Rainy,0,1,1,5.24,Medium,Moderate,0.37,1,1
+CR000136,2020-04-16,23:24:13,23,Thursday,4,2020,13.056708,80.24519,South,T.Nagar,Drug-offense,7,Hot,0,0,1,0.51,High,Poor,0.14,0,1
+CR000137,2022-04-10,03:02:03,3,Sunday,4,2022,13.054886,80.295933,Central,Triplicane,Kidnapping,10,Hot,0,1,1,2.24,Very High,Moderate,0.27,1,1
+CR000138,2021-03-05,04:22:01,4,Friday,3,2021,13.020209,80.259831,Central,Mylapore,Kidnapping,8,Clear,0,0,1,5.46,Medium,Poor,0.06,1,1
+CR000139,2021-06-22,16:16:56,16,Tuesday,6,2021,12.978161,80.279987,East,Thiruvanmiyur,Drug-offense,6,Clear,0,0,0,3.51,Low,Poor,0.29,0,1
+CR000140,2024-02-11,14:21:16,14,Sunday,2,2024,13.132058,80.111838,West,Ambattur,Theft,5,Foggy,0,1,0,5.92,Very High,Poor,0.21,1,1
+CR000141,2024-08-30,21:43:13,21,Friday,8,2024,13.000524,80.252029,East,Thiruvanmiyur,Assault,5,Hot,0,0,1,2.21,Low,Good,0.32,0,1
+CR000142,2023-06-22,01:20:56,1,Thursday,6,2023,12.926924,80.140894,South,Tambaram,Vehicle-theft,7,Rainy,0,0,1,1.33,Low,Moderate,0.23,0,1
+CR000143,2022-03-13,21:00:26,21,Sunday,3,2022,13.060135,80.292528,East,Marina,Drug-offense,6,Rainy,0,1,1,2.36,Medium,Moderate,0.14,1,1
+CR000144,2024-05-12,11:28:08,11,Sunday,5,2024,13.052941,80.195757,West,K.K. Nagar,Burglary,8,Clear,0,1,0,3.71,Medium,Moderate,0.31,0,1
+CR000145,2022-11-20,08:32:17,8,Sunday,11,2022,13.019617,80.255417,South,Guindy,Eve-teasing,5,Clear,1,1,0,1.36,Very High,Good,0.2,0,1
+CR000146,2023-05-15,15:41:55,15,Monday,5,2023,13.075407,80.268207,Central,Triplicane,Murder,8,Rainy,0,0,0,3.17,Medium,Poor,0.38,0,1
+CR000147,2022-01-03,22:17:38,22,Monday,1,2022,13.134689,80.302529,North,Tiruvottiyur,Drug-offense,9,Rainy,0,0,1,3.28,Medium,Moderate,0.18,0,1
+CR000148,2023-06-07,20:11:50,20,Wednesday,6,2023,13.028364,80.266599,South,T.Nagar,Vehicle-theft,5,Rainy,0,0,1,5.16,Low,Good,0.16,1,1
+CR000149,2024-08-10,23:41:05,23,Saturday,8,2024,13.101198,80.254126,North,Perambur,Eve-teasing,3,Clear,0,1,1,2.7,Medium,Poor,0.12,1,1
+CR000150,2024-05-27,05:28:24,5,Monday,5,2024,13.125039,80.218736,West,Anna Nagar,Murder,9,Clear,0,0,1,5.05,High,Poor,0.3,0,1
+CR000151,2019-06-28,21:29:30,21,Friday,6,2019,13.048333,80.215381,West,K.K. Nagar,Theft,3,Clear,0,0,1,5.5,Medium,Good,0.21,0,1
+CR000152,2022-02-08,12:02:13,12,Tuesday,2,2022,13.140731,80.293479,North,Royapuram,Kidnapping,8,Foggy,0,0,0,0.53,Medium,Moderate,0.35,1,1
+CR000153,2020-01-20,04:32:24,4,Monday,1,2020,13.005922,80.263677,South,Adyar,Theft,4,Clear,0,0,1,4.55,Low,Moderate,0.39,0,1
+CR000154,2019-09-27,06:57:44,6,Friday,9,2019,13.03385,80.266883,Central,Mylapore,Burglary,6,Foggy,0,0,0,4.97,Medium,Moderate,0.05,0,1
+CR000155,2020-11-18,06:15:09,6,Wednesday,11,2020,13.052395,80.23844,South,T.Nagar,Vehicle-theft,5,Rainy,1,0,0,3.66,Medium,Good,0.14,1,1
+CR000156,2022-07-07,11:39:11,11,Thursday,7,2022,13.108737,80.293334,North,Royapuram,Drug-offense,8,Foggy,0,0,0,3.52,Low,Good,0.05,1,1
+CR000157,2024-02-03,08:53:33,8,Saturday,2,2024,13.158535,80.281467,North,Tiruvottiyur,Eve-teasing,5,Rainy,0,1,0,5.64,Medium,Good,0.16,0,1
+CR000158,2023-02-27,07:18:04,7,Monday,2,2023,12.999377,80.207634,South,Guindy,Fraud,5,Foggy,0,0,0,2.61,Medium,Good,0.06,1,1
+CR000159,2023-03-03,10:56:07,10,Friday,3,2023,12.98836,80.27015,East,Besant Nagar,Vehicle-theft,4,Clear,0,0,0,1.55,Low,Good,0.21,1,1
+CR000160,2022-12-01,10:24:41,10,Thursday,12,2022,13.055158,80.242869,Central,Nungambakkam,Kidnapping,9,Rainy,0,0,0,5.54,High,Good,0.25,1,1
+CR000161,2021-06-12,04:11:43,4,Saturday,6,2021,13.054376,80.218778,Central,Nungambakkam,Burglary,5,Hot,0,1,1,1.02,Medium,Moderate,0.26,0,1
+CR000162,2024-03-15,16:03:25,16,Friday,3,2024,13.108403,80.259818,North,Washermanpet,Drug-offense,6,Clear,0,0,0,2.24,Low,Moderate,0.33,1,1
+CR000163,2022-04-17,19:57:11,19,Sunday,4,2022,13.105728,80.296735,North,Royapuram,Vehicle-theft,4,Rainy,0,1,1,2.1,Medium,Poor,0.25,0,1
+CR000164,2020-04-25,19:54:17,19,Saturday,4,2020,12.93238,80.128794,South,Tambaram,Kidnapping,9,Clear,0,1,1,1.59,Medium,Poor,0.37,0,1
+CR000165,2020-12-10,10:05:22,10,Thursday,12,2020,12.950344,80.129558,South,Tambaram,Theft,4,Hot,0,0,0,0.76,Medium,Good,0.15,1,1
+CR000166,2021-05-30,22:40:30,22,Sunday,5,2021,13.084887,80.260457,North,Perambur,Theft,3,Hot,0,1,1,3.32,Low,Moderate,0.06,1,1
+CR000167,2024-01-16,03:58:59,3,Tuesday,1,2024,13.11951,80.255207,North,Perambur,Theft,5,Clear,1,0,1,2.53,Low,Moderate,0.33,1,1
+CR000168,2019-11-01,13:57:24,13,Friday,11,2019,13.113579,80.221695,West,Anna Nagar,Drug-offense,9,Hot,0,0,0,5.75,Very High,Poor,0.34,0,1
+CR000169,2021-11-29,13:57:18,13,Monday,11,2021,13.066796,80.284376,Central,Egmore,Robbery,8,Hot,0,0,0,5.5,Medium,Poor,0.4,0,1
+CR000170,2021-10-09,18:31:56,18,Saturday,10,2021,13.048282,80.244668,East,Marina,Kidnapping,10,Foggy,0,1,0,2.3,Medium,Good,0.19,1,1
+CR000171,2019-01-22,09:16:49,9,Tuesday,1,2019,13.052761,80.285519,Central,Triplicane,Vehicle-theft,7,Rainy,0,0,0,2.93,Very High,Moderate,0.28,0,1
+CR000172,2024-04-19,00:08:54,0,Friday,4,2024,13.122293,80.129328,West,Ambattur,Fraud,4,Clear,0,0,1,5.18,Very High,Moderate,0.19,1,1
+CR000173,2019-10-14,01:33:26,1,Monday,10,2019,13.097501,80.32074,North,Royapuram,Eve-teasing,4,Foggy,0,0,1,2.9,Medium,Poor,0.36,1,1
+CR000174,2021-04-18,16:25:08,16,Sunday,4,2021,12.99074,80.220316,East,Thiruvanmiyur,Theft,5,Rainy,0,1,0,4.51,Low,Good,0.35,1,1
+CR000175,2021-01-29,06:27:17,6,Friday,1,2021,13.01468,80.263245,Central,Mylapore,Assault,7,Clear,0,0,0,4.23,Low,Moderate,0.31,1,1
+CR000176,2024-11-27,00:38:26,0,Wednesday,11,2024,13.053271,80.171172,West,K.K. Nagar,Assault,5,Hot,0,0,1,5.9,Medium,Moderate,0.29,1,1
+CR000177,2023-10-03,00:35:19,0,Tuesday,10,2023,13.11796,80.287356,North,Royapuram,Eve-teasing,5,Clear,0,0,1,5.55,Low,Poor,0.31,0,1
+CR000178,2020-05-19,19:50:58,19,Tuesday,5,2020,13.017928,80.236324,South,Adyar,Murder,8,Rainy,0,0,1,2.39,Low,Good,0.08,1,1
+CR000179,2019-09-27,16:05:31,16,Friday,9,2019,13.024404,80.279199,East,Besant Nagar,Theft,6,Rainy,0,0,0,1.32,Medium,Good,0.08,0,1
+CR000180,2019-08-05,07:17:53,7,Monday,8,2019,13.035815,80.243637,South,T.Nagar,Fraud,5,Rainy,0,0,0,3.9,High,Moderate,0.08,1,1
+CR000181,2024-04-20,12:45:54,12,Saturday,4,2024,13.16742,80.332133,North,Tiruvottiyur,Robbery,7,Foggy,0,1,0,1.75,Medium,Poor,0.09,0,1
+CR000182,2019-12-21,20:47:04,20,Saturday,12,2019,13.024475,80.281552,South,T.Nagar,Vehicle-theft,7,Rainy,0,1,1,2.88,Low,Moderate,0.37,0,1
+CR000183,2022-04-01,00:51:38,0,Friday,4,2022,13.073986,80.293514,Central,Triplicane,Fraud,5,Foggy,0,0,1,2.88,High,Good,0.26,0,1
+CR000184,2022-07-12,11:39:24,11,Tuesday,7,2022,13.097206,80.257131,North,Washermanpet,Fraud,5,Clear,0,0,0,1.5,Medium,Moderate,0.37,0,1
+CR000185,2023-05-22,14:51:31,14,Monday,5,2023,13.042789,80.268207,East,Marina,Robbery,7,Rainy,0,0,0,3.88,Low,Poor,0.25,0,1
+CR000186,2019-08-09,15:01:35,15,Friday,8,2019,12.97655,80.242172,South,Velachery,Eve-teasing,2,Clear,0,0,0,5.38,Low,Moderate,0.18,0,1
+CR000187,2024-03-17,17:49:55,17,Sunday,3,2024,12.980172,80.270422,East,Besant Nagar,Kidnapping,9,Clear,0,1,0,2.14,Medium,Good,0.07,0,1
+CR000188,2024-07-27,21:18:40,21,Saturday,7,2024,12.922562,80.115961,South,Tambaram,Vehicle-theft,5,Rainy,0,1,1,4.69,Low,Good,0.23,0,1
+CR000189,2021-12-28,22:09:56,22,Tuesday,12,2021,13.113445,80.276185,North,Perambur,Eve-teasing,3,Foggy,0,0,1,2.89,Low,Poor,0.32,0,1
+CR000190,2022-08-21,05:10:34,5,Sunday,8,2022,12.968116,80.200949,South,Velachery,Assault,7,Clear,0,1,1,3.31,Medium,Good,0.15,0,1
+CR000191,2019-11-01,15:17:46,15,Friday,11,2019,13.063998,80.253095,Central,Nungambakkam,Robbery,7,Hot,0,0,0,0.78,Very High,Poor,0.36,1,1
+CR000192,2022-10-26,03:09:23,3,Wednesday,10,2022,13.018401,80.254156,Central,Mylapore,Robbery,6,Rainy,0,0,1,3.08,Low,Poor,0.23,1,1
+CR000193,2021-08-02,07:03:26,7,Monday,8,2021,13.132046,80.129869,West,Ambattur,Theft,4,Hot,0,0,0,2.58,Low,Poor,0.35,1,1
+CR000194,2021-05-04,00:51:53,0,Tuesday,5,2021,13.121177,80.316706,North,Washermanpet,Murder,9,Foggy,0,0,1,3.97,Low,Poor,0.4,1,1
+CR000195,2023-10-11,05:33:12,5,Wednesday,10,2023,13.000647,80.231089,South,Guindy,Assault,8,Rainy,0,0,1,2.95,Very High,Good,0.25,0,1
+CR000196,2021-02-11,06:12:45,6,Thursday,2,2021,12.988278,80.254904,South,Adyar,Vehicle-theft,7,Rainy,0,0,0,5.57,Medium,Good,0.11,0,1
+CR000197,2021-09-22,18:43:34,18,Wednesday,9,2021,13.039828,80.262868,Central,Mylapore,Burglary,8,Hot,0,0,0,2.12,Low,Moderate,0.19,0,1
+CR000198,2022-04-13,09:25:36,9,Wednesday,4,2022,13.061821,80.261117,Central,Triplicane,Assault,9,Hot,0,0,0,4.34,High,Poor,0.06,0,1
+CR000199,2021-05-27,20:00:09,20,Thursday,5,2021,12.987045,80.254277,East,Thiruvanmiyur,Vehicle-theft,6,Rainy,0,0,1,4.13,Medium,Good,0.26,0,1
+CR000200,2024-06-19,11:59:35,11,Wednesday,6,2024,13.081175,80.267697,Central,Egmore,Burglary,6,Foggy,0,0,0,5.02,Low,Poor,0.14,1,1
+CR000201,2021-03-08,08:32:59,8,Monday,3,2021,13.066867,80.194631,West,Anna Nagar,Eve-teasing,3,Foggy,0,0,0,2.59,Very High,Moderate,0.07,0,1
+CR000202,2021-06-12,15:38:15,15,Saturday,6,2021,12.976888,80.235953,South,Velachery,Burglary,5,Clear,0,1,0,0.87,Medium,Poor,0.21,0,1
+CR000203,2023-01-01,11:39:05,11,Sunday,1,2023,13.158325,80.306242,North,Tiruvottiyur,Vehicle-theft,5,Rainy,1,1,0,4.78,Low,Good,0.17,0,1
+CR000204,2023-12-06,22:59:22,22,Wednesday,12,2023,13.112098,80.302427,North,Royapuram,Assault,8,Hot,0,0,1,1.87,Medium,Good,0.32,0,1
+CR000205,2024-03-18,08:45:58,8,Monday,3,2024,13.133056,80.280489,North,Tiruvottiyur,Vehicle-theft,4,Rainy,0,0,0,4.19,Low,Good,0.3,1,1
+CR000206,2020-10-19,02:08:47,2,Monday,10,2020,12.995183,80.190831,South,Velachery,Kidnapping,10,Hot,1,0,1,4.43,Low,Poor,0.08,1,1
+CR000207,2019-05-21,15:51:35,15,Tuesday,5,2019,13.053043,80.231151,South,T.Nagar,Murder,8,Rainy,0,0,0,2.16,Medium,Good,0.19,0,1
+CR000208,2020-10-01,14:23:38,14,Thursday,10,2020,12.986236,80.285658,East,Thiruvanmiyur,Burglary,7,Hot,0,0,0,4.28,Medium,Moderate,0.28,0,1
+CR000209,2023-02-19,10:37:54,10,Sunday,2,2023,13.025766,80.061606,West,Porur,Drug-offense,6,Hot,0,1,0,3.94,Low,Moderate,0.15,1,1
+CR000210,2020-12-22,09:39:32,9,Tuesday,12,2020,13.070417,80.188577,West,Anna Nagar,Drug-offense,7,Rainy,0,0,0,4.37,High,Poor,0.14,1,1
+CR000211,2021-09-14,10:33:33,10,Tuesday,9,2021,12.990357,80.223191,South,Guindy,Kidnapping,8,Rainy,0,0,0,4.72,Medium,Good,0.39,1,1
+CR000212,2022-07-12,06:40:12,6,Tuesday,7,2022,13.044557,80.255224,South,T.Nagar,Drug-offense,8,Hot,0,0,0,2.26,Low,Moderate,0.07,0,1
+CR000213,2022-07-11,04:05:55,4,Monday,7,2022,13.068109,80.235445,Central,Nungambakkam,Vehicle-theft,6,Rainy,0,0,1,1.09,Low,Good,0.15,1,1
+CR000214,2023-12-22,08:55:11,8,Friday,12,2023,13.103183,80.268864,North,Washermanpet,Murder,10,Hot,0,0,0,4.15,Low,Good,0.3,1,1
+CR000215,2022-11-11,05:47:20,5,Friday,11,2022,13.043114,80.276443,Central,Triplicane,Burglary,5,Foggy,0,0,1,3.73,Low,Moderate,0.39,0,1
+CR000216,2019-04-30,17:38:43,17,Tuesday,4,2019,13.109586,80.133759,West,Ambattur,Murder,9,Hot,0,0,0,1.3,Low,Poor,0.24,1,1
+CR000217,2020-12-02,15:54:42,15,Wednesday,12,2020,13.128258,80.325275,North,Royapuram,Vehicle-theft,4,Clear,0,0,0,4.19,Low,Moderate,0.21,1,1
+CR000218,2019-09-05,17:19:58,17,Thursday,9,2019,13.062631,80.323904,Central,Triplicane,Robbery,7,Clear,0,0,0,3.19,Low,Good,0.34,0,1
+CR000219,2021-01-25,13:50:03,13,Monday,1,2021,13.061165,80.229762,Central,Nungambakkam,Assault,8,Clear,0,0,0,0.82,Medium,Poor,0.21,1,1
+CR000220,2020-04-22,21:07:14,21,Wednesday,4,2020,13.182085,80.303091,North,Tiruvottiyur,Eve-teasing,2,Hot,0,0,1,1.1,Low,Poor,0.28,1,1
+CR000221,2020-02-11,09:24:27,9,Tuesday,2,2020,12.94765,80.139129,South,Tambaram,Kidnapping,8,Clear,0,0,0,3.2,Low,Moderate,0.05,0,1
+CR000222,2024-03-04,03:26:44,3,Monday,3,2024,13.132215,80.283332,North,Washermanpet,Vehicle-theft,4,Rainy,0,0,1,3.77,High,Poor,0.29,1,1
+CR000223,2020-11-13,13:54:21,13,Friday,11,2020,13.094181,80.197066,West,Anna Nagar,Murder,10,Hot,0,0,0,5.03,Medium,Poor,0.38,1,1
+CR000224,2021-02-10,20:19:13,20,Wednesday,2,2021,13.13429,80.294115,North,Tiruvottiyur,Theft,4,Rainy,0,0,1,4.85,Medium,Good,0.19,1,1
+CR000225,2021-06-01,04:23:43,4,Tuesday,6,2021,13.121805,80.296685,North,Royapuram,Vehicle-theft,5,Rainy,0,0,1,0.94,Medium,Moderate,0.14,0,1
+CR000226,2019-08-15,05:30:19,5,Thursday,8,2019,13.108187,80.262036,North,Washermanpet,Vehicle-theft,5,Clear,0,0,1,4.25,Medium,Poor,0.37,1,1
+CR000227,2020-08-11,16:15:42,16,Tuesday,8,2020,12.998533,80.24188,East,Thiruvanmiyur,Theft,5,Foggy,0,0,0,0.68,Low,Good,0.26,1,1
+CR000228,2020-12-01,19:32:38,19,Tuesday,12,2020,13.015637,80.265636,South,Adyar,Eve-teasing,5,Hot,0,0,1,5.94,Medium,Good,0.28,1,1
+CR000229,2023-05-18,19:27:43,19,Thursday,5,2023,13.029787,80.260533,Central,Mylapore,Vehicle-theft,4,Rainy,0,0,1,1.52,Medium,Poor,0.11,1,1
+CR000230,2019-09-07,22:15:58,22,Saturday,9,2019,13.075841,80.207584,West,Anna Nagar,Vehicle-theft,7,Rainy,0,1,1,2.32,High,Moderate,0.28,0,1
+CR000231,2021-12-26,05:26:25,5,Sunday,12,2021,13.168905,80.296125,North,Tiruvottiyur,Robbery,8,Clear,0,1,1,1.36,Medium,Poor,0.19,1,1
+CR000232,2024-01-04,13:13:35,13,Thursday,1,2024,13.032661,80.245712,South,T.Nagar,Eve-teasing,5,Clear,0,0,0,1.47,Low,Poor,0.3,1,1
+CR000233,2019-05-22,15:36:00,15,Wednesday,5,2019,13.057589,80.289383,Central,Triplicane,Kidnapping,9,Rainy,0,0,0,1.14,Very High,Poor,0.34,0,1
+CR000234,2020-11-25,13:19:56,13,Wednesday,11,2020,13.009184,80.194103,South,Guindy,Assault,8,Clear,1,0,0,3.1,High,Poor,0.27,1,1
+CR000235,2024-06-15,02:41:18,2,Saturday,6,2024,13.041426,80.230945,South,T.Nagar,Theft,5,Foggy,0,1,1,0.66,Very High,Good,0.19,0,1
+CR000236,2024-02-02,19:11:17,19,Friday,2,2024,13.104137,80.23397,North,Perambur,Eve-teasing,2,Rainy,0,0,1,2.47,Low,Poor,0.29,0,1
+CR000237,2023-08-24,17:10:37,17,Thursday,8,2023,13.099738,80.197473,West,Anna Nagar,Burglary,7,Clear,0,0,0,2.04,Low,Poor,0.16,1,1
+CR000238,2020-03-28,14:35:57,14,Saturday,3,2020,12.958281,80.254355,East,Thiruvanmiyur,Theft,4,Clear,0,1,0,1.24,Medium,Moderate,0.27,1,1
+CR000239,2020-11-29,02:33:09,2,Sunday,11,2020,13.007088,80.235908,South,Guindy,Robbery,8,Foggy,0,1,1,2.93,High,Poor,0.16,0,1
+CR000240,2023-07-29,11:24:18,11,Saturday,7,2023,13.120499,80.292136,North,Washermanpet,Eve-teasing,3,Foggy,0,1,0,5.93,Very High,Moderate,0.29,0,1
+CR000241,2020-10-05,10:16:58,10,Monday,10,2020,13.128394,80.141975,West,Ambattur,Burglary,5,Clear,0,0,0,5.03,Medium,Poor,0.33,0,1
+CR000242,2020-05-21,06:41:11,6,Thursday,5,2020,13.078351,80.278739,Central,Egmore,Drug-offense,9,Clear,0,0,0,0.75,Very High,Poor,0.08,1,1
+CR000243,2020-01-26,21:57:05,21,Sunday,1,2020,13.049403,80.287253,East,Marina,Vehicle-theft,6,Foggy,0,1,1,1.29,Low,Moderate,0.08,0,1
+CR000244,2021-01-10,08:29:11,8,Sunday,1,2021,13.098609,80.138996,West,Ambattur,Theft,5,Hot,0,1,0,3.31,Low,Good,0.2,1,1
+CR000245,2023-02-03,01:37:47,1,Friday,2,2023,13.044467,80.068897,West,Porur,Fraud,5,Clear,0,0,1,5.17,Medium,Moderate,0.19,1,1
+CR000246,2022-09-23,01:55:36,1,Friday,9,2022,12.969071,80.267095,South,Adyar,Fraud,5,Clear,0,0,1,3.14,Medium,Good,0.34,1,1
+CR000247,2021-12-08,17:48:24,17,Wednesday,12,2021,12.983479,80.239496,South,Guindy,Drug-offense,9,Foggy,0,0,0,5.71,Very High,Moderate,0.13,0,1
+CR000248,2021-12-23,19:23:46,19,Thursday,12,2021,12.977484,80.260101,South,Adyar,Murder,10,Hot,0,0,1,2.33,Medium,Good,0.34,0,1
+CR000249,2022-10-21,19:16:17,19,Friday,10,2022,12.968507,80.23259,South,Velachery,Robbery,8,Hot,1,0,1,3.77,Medium,Good,0.22,0,1
+CR000250,2022-09-02,17:09:02,17,Friday,9,2022,13.146454,80.151963,West,Ambattur,Kidnapping,8,Hot,0,0,0,2.84,Medium,Moderate,0.28,0,1
+CR000251,2019-06-11,15:07:16,15,Tuesday,6,2019,13.044971,80.234041,Central,Nungambakkam,Fraud,6,Rainy,0,0,0,5.77,High,Poor,0.34,1,1
+CR000252,2023-03-31,18:34:14,18,Friday,3,2023,13.008315,80.240683,South,T.Nagar,Assault,6,Clear,0,0,0,5.65,High,Good,0.06,1,1
+CR000253,2020-07-19,09:56:25,9,Sunday,7,2020,13.04786,80.163022,West,K.K. Nagar,Kidnapping,8,Foggy,0,1,0,3.17,Medium,Moderate,0.13,0,1
+CR000254,2021-05-23,06:00:12,6,Sunday,5,2021,12.972418,80.255032,East,Thiruvanmiyur,Vehicle-theft,5,Rainy,0,1,0,1.08,Medium,Good,0.35,1,1
+CR000255,2021-02-01,12:31:53,12,Monday,2,2021,13.0601,80.195128,West,Anna Nagar,Eve-teasing,4,Foggy,0,0,0,3.93,Medium,Moderate,0.24,0,1
+CR000256,2024-07-18,14:11:33,14,Thursday,7,2024,13.057964,80.226415,Central,Nungambakkam,Murder,10,Rainy,0,0,0,4.82,Low,Poor,0.15,0,1
+CR000257,2024-12-08,11:19:50,11,Sunday,12,2024,12.955966,80.122031,South,Tambaram,Drug-offense,8,Hot,0,1,0,3.38,Low,Moderate,0.26,1,1
+CR000258,2019-12-15,23:58:31,23,Sunday,12,2019,13.028492,80.267202,Central,Mylapore,Murder,8,Rainy,0,1,1,1.33,Medium,Moderate,0.37,1,1
+CR000259,2022-09-22,23:05:50,23,Thursday,9,2022,13.087552,80.232954,North,Perambur,Kidnapping,8,Clear,0,0,1,2.82,Medium,Good,0.16,0,1
+CR000260,2022-12-19,17:14:58,17,Monday,12,2022,12.996329,80.228583,South,Adyar,Robbery,6,Hot,0,0,0,0.93,Low,Moderate,0.1,0,1
+CR000261,2023-01-20,17:41:04,17,Friday,1,2023,13.111277,80.242301,North,Perambur,Burglary,6,Hot,0,0,0,2.76,Low,Good,0.35,1,1
+CR000262,2022-03-05,12:27:42,12,Saturday,3,2022,13.067787,80.244037,Central,Nungambakkam,Vehicle-theft,6,Clear,0,1,0,2.56,Low,Poor,0.11,0,1
+CR000263,2024-06-26,23:38:45,23,Wednesday,6,2024,13.025609,80.057092,West,Porur,Robbery,8,Foggy,0,0,1,5.81,Low,Poor,0.09,1,1
+CR000264,2021-08-24,07:56:18,7,Tuesday,8,2021,13.076767,80.213382,West,Anna Nagar,Assault,6,Hot,0,0,0,3.06,Very High,Moderate,0.35,0,1
+CR000265,2023-08-06,07:39:53,7,Sunday,8,2023,13.081353,80.285803,North,Washermanpet,Robbery,6,Foggy,0,1,0,0.52,Very High,Moderate,0.09,1,1
+CR000266,2020-04-19,08:04:40,8,Sunday,4,2020,12.924309,80.155171,South,Tambaram,Kidnapping,10,Rainy,0,1,0,1.82,Medium,Poor,0.23,1,1
+CR000267,2019-11-14,21:55:49,21,Thursday,11,2019,13.067606,80.230834,Central,Nungambakkam,Fraud,5,Hot,0,0,1,1.88,Low,Moderate,0.16,1,1
+CR000268,2019-09-12,06:42:22,6,Thursday,9,2019,13.119221,80.213838,North,Perambur,Assault,8,Rainy,0,0,0,5.22,Medium,Moderate,0.31,0,1
+CR000269,2022-06-25,19:44:35,19,Saturday,6,2022,13.047208,80.274731,Central,Mylapore,Murder,9,Foggy,0,1,1,3.52,Medium,Good,0.36,1,1
+CR000270,2021-06-17,06:39:09,6,Thursday,6,2021,13.061407,80.260652,Central,Egmore,Vehicle-theft,4,Rainy,0,0,0,2.54,High,Good,0.15,0,1
+CR000271,2021-08-07,17:14:08,17,Saturday,8,2021,13.036319,80.274674,Central,Mylapore,Murder,8,Rainy,0,1,0,3.78,Medium,Moderate,0.33,1,1
+CR000272,2022-06-12,02:42:32,2,Sunday,6,2022,12.969818,80.224162,South,Adyar,Vehicle-theft,7,Clear,0,1,1,1.34,Low,Moderate,0.39,1,1
+CR000273,2021-01-02,11:04:15,11,Saturday,1,2021,13.059048,80.274328,Central,Triplicane,Vehicle-theft,4,Rainy,0,1,0,5.19,High,Good,0.18,0,1
+CR000274,2023-04-05,14:33:27,14,Wednesday,4,2023,13.007571,80.204141,South,Guindy,Fraud,6,Clear,0,0,0,5.69,Medium,Moderate,0.32,1,1
+CR000275,2020-02-05,21:41:09,21,Wednesday,2,2020,13.123313,80.156968,West,Ambattur,Drug-offense,7,Rainy,0,0,1,3.37,Low,Moderate,0.25,1,1
+CR000276,2021-07-16,10:22:22,10,Friday,7,2021,12.99452,80.213379,South,Guindy,Fraud,4,Clear,0,0,0,2.1,Very High,Poor,0.24,1,1
+CR000277,2021-03-11,03:05:08,3,Thursday,3,2021,13.057326,80.054611,West,Porur,Drug-offense,9,Foggy,0,0,1,3.42,Low,Good,0.29,1,1
+CR000278,2024-05-07,20:08:21,20,Tuesday,5,2024,13.100807,80.251506,North,Perambur,Burglary,7,Rainy,0,0,1,5.34,Medium,Good,0.25,0,1
+CR000279,2022-12-17,00:23:50,0,Saturday,12,2022,13.012689,80.257074,South,Adyar,Eve-teasing,4,Foggy,0,1,1,1.59,Medium,Good,0.38,1,1
+CR000280,2024-02-05,09:20:35,9,Monday,2,2024,13.147298,80.313618,North,Tiruvottiyur,Vehicle-theft,5,Rainy,0,0,0,0.65,Medium,Moderate,0.05,0,1
+CR000281,2022-02-07,04:38:38,4,Monday,2,2022,13.076249,80.251494,Central,Egmore,Eve-teasing,4,Foggy,0,0,1,4.4,Low,Good,0.11,0,1
+CR000282,2023-07-16,11:44:44,11,Sunday,7,2023,13.074686,80.286937,Central,Egmore,Drug-offense,6,Hot,0,1,0,3.23,Very High,Moderate,0.36,0,1
+CR000283,2020-04-29,10:49:42,10,Wednesday,4,2020,13.043163,80.234911,South,T.Nagar,Kidnapping,9,Foggy,0,0,0,4.39,High,Good,0.16,1,1
+CR000284,2019-07-12,01:16:39,1,Friday,7,2019,13.055007,80.055994,West,Porur,Eve-teasing,2,Rainy,0,0,1,2.66,Medium,Good,0.22,1,1
+CR000285,2021-09-24,03:59:55,3,Friday,9,2021,13.00866,80.183403,South,Guindy,Assault,7,Hot,0,0,1,4.72,Very High,Moderate,0.16,0,1
+CR000286,2019-06-16,08:02:22,8,Sunday,6,2019,13.144809,80.246356,North,Perambur,Theft,4,Rainy,0,1,0,3.91,Low,Poor,0.22,1,1
+CR000287,2023-12-06,07:24:24,7,Wednesday,12,2023,13.05699,80.236119,South,T.Nagar,Fraud,5,Rainy,0,0,0,5.67,Low,Poor,0.36,1,1
+CR000288,2019-09-04,05:38:36,5,Wednesday,9,2019,13.001242,80.275039,East,Thiruvanmiyur,Assault,8,Hot,0,0,1,1.03,Medium,Good,0.22,0,1
+CR000289,2022-01-19,13:59:03,13,Wednesday,1,2022,13.186201,80.296353,North,Tiruvottiyur,Kidnapping,8,Foggy,0,0,0,1.78,Medium,Poor,0.32,0,1
+CR000290,2021-10-12,02:46:50,2,Tuesday,10,2021,12.913487,80.14098,South,Tambaram,Theft,3,Clear,0,0,1,2.98,Low,Moderate,0.37,0,1
+CR000291,2024-07-11,16:53:11,16,Thursday,7,2024,13.126026,80.149919,West,Ambattur,Fraud,4,Foggy,0,0,0,5.15,Low,Moderate,0.2,1,1
+CR000292,2019-09-22,01:03:23,1,Sunday,9,2019,12.988098,80.22369,South,Velachery,Drug-offense,6,Rainy,0,1,1,5.14,Medium,Moderate,0.35,0,1
+CR000293,2021-05-03,10:37:37,10,Monday,5,2021,13.015142,80.181348,West,K.K. Nagar,Vehicle-theft,4,Rainy,0,0,0,2.58,Low,Poor,0.11,1,1
+CR000294,2023-02-01,13:38:11,13,Wednesday,2,2023,13.009211,80.222874,South,Guindy,Burglary,6,Clear,0,0,0,4.3,High,Poor,0.21,1,1
+CR000295,2019-05-13,15:23:12,15,Monday,5,2019,13.075716,80.26176,Central,Nungambakkam,Fraud,7,Clear,0,0,0,4.2,Very High,Moderate,0.13,1,1
+CR000296,2022-02-03,10:54:28,10,Thursday,2,2022,13.029289,80.244811,South,T.Nagar,Assault,6,Foggy,0,0,0,4.22,Medium,Poor,0.23,0,1
+CR000297,2019-06-23,10:46:27,10,Sunday,6,2019,13.037215,80.249321,Central,Mylapore,Robbery,6,Rainy,0,1,0,4.77,Medium,Poor,0.19,1,1
+CR000298,2021-01-09,21:07:35,21,Saturday,1,2021,13.010084,80.290721,East,Besant Nagar,Eve-teasing,5,Clear,0,1,1,4.05,Low,Good,0.26,1,1
+CR000299,2021-09-27,10:43:30,10,Monday,9,2021,12.986072,80.220517,South,Velachery,Theft,3,Hot,0,0,0,1.96,Low,Poor,0.06,1,1
+CR000300,2020-06-20,06:28:50,6,Saturday,6,2020,13.06153,80.24372,Central,Egmore,Eve-teasing,2,Rainy,0,1,0,5.73,Low,Poor,0.38,0,1
+CR000301,2023-03-01,22:11:02,22,Wednesday,3,2023,13.154279,80.306455,North,Tiruvottiyur,Assault,9,Rainy,0,0,1,2.92,Medium,Good,0.29,0,1
+CR000302,2024-08-19,05:17:16,5,Monday,8,2024,13.108515,80.28176,North,Royapuram,Vehicle-theft,4,Foggy,0,0,1,3.29,Medium,Moderate,0.07,1,1
+CR000303,2023-06-29,12:31:29,12,Thursday,6,2023,13.097374,80.314926,North,Royapuram,Kidnapping,10,Rainy,0,0,0,2.12,Low,Poor,0.07,1,1
+CR000304,2020-07-18,11:34:03,11,Saturday,7,2020,13.053875,80.214056,West,Anna Nagar,Kidnapping,9,Rainy,0,1,0,2.83,High,Poor,0.23,1,1
+CR000305,2021-02-15,23:31:41,23,Monday,2,2021,12.991014,80.278567,East,Besant Nagar,Assault,6,Clear,0,0,1,5.49,Medium,Moderate,0.28,0,1
+CR000306,2021-10-31,09:49:48,9,Sunday,10,2021,13.002003,80.210962,South,Guindy,Vehicle-theft,6,Rainy,0,1,0,1.79,High,Moderate,0.19,0,1
+CR000307,2021-09-13,17:51:14,17,Monday,9,2021,12.955753,80.217066,South,Velachery,Robbery,8,Clear,0,0,0,4.83,Medium,Good,0.1,0,1
+CR000308,2020-01-31,18:38:42,18,Friday,1,2020,13.039509,80.228825,South,T.Nagar,Fraud,4,Hot,0,0,0,3.22,High,Moderate,0.26,1,1
+CR000309,2021-11-21,01:27:58,1,Sunday,11,2021,13.093954,80.214515,West,Anna Nagar,Fraud,6,Hot,1,1,1,2.23,High,Poor,0.37,1,1
+CR000310,2020-07-26,06:58:58,6,Sunday,7,2020,13.110635,80.231502,North,Perambur,Assault,6,Clear,0,1,0,3.82,Low,Poor,0.07,0,1
+CR000311,2022-05-31,13:52:00,13,Tuesday,5,2022,12.985619,80.245941,East,Thiruvanmiyur,Kidnapping,10,Rainy,0,0,0,3.63,Medium,Good,0.32,1,1
+CR000312,2022-10-12,05:45:47,5,Wednesday,10,2022,13.044307,80.081294,West,Porur,Theft,3,Hot,0,0,1,1.94,Low,Poor,0.34,0,1
+CR000313,2019-03-29,06:20:47,6,Friday,3,2019,13.067895,80.278638,Central,Triplicane,Vehicle-theft,6,Clear,0,0,0,2.87,Very High,Poor,0.12,1,1
+CR000314,2019-12-17,17:52:44,17,Tuesday,12,2019,13.017558,80.207595,South,Guindy,Burglary,7,Hot,0,0,0,0.61,Very High,Poor,0.27,1,1
+CR000315,2020-04-08,01:38:20,1,Wednesday,4,2020,13.000644,80.267371,East,Besant Nagar,Kidnapping,8,Rainy,0,0,1,3.79,Medium,Poor,0.26,0,1
+CR000316,2022-08-05,01:09:56,1,Friday,8,2022,13.087734,80.195626,West,Anna Nagar,Kidnapping,8,Hot,0,0,1,4.39,Very High,Poor,0.3,1,1
+CR000317,2020-04-26,15:35:37,15,Sunday,4,2020,13.000567,80.221656,South,Guindy,Drug-offense,6,Foggy,0,1,0,2.79,Low,Poor,0.2,0,1
+CR000318,2020-09-07,00:15:35,0,Monday,9,2020,13.086979,80.227423,West,Anna Nagar,Drug-offense,6,Foggy,0,0,1,0.63,Low,Poor,0.12,1,1
+CR000319,2019-06-17,20:59:47,20,Monday,6,2019,13.119434,80.148564,West,Ambattur,Vehicle-theft,6,Hot,0,0,1,1.46,Low,Moderate,0.2,0,1
+CR000320,2020-07-28,20:50:07,20,Tuesday,7,2020,13.08564,80.263794,Central,Egmore,Fraud,6,Foggy,0,0,1,5.66,Low,Moderate,0.32,0,1
+CR000321,2023-01-02,10:58:01,10,Monday,1,2023,13.124006,80.278626,North,Perambur,Kidnapping,8,Clear,0,0,0,0.79,Low,Poor,0.35,1,1
+CR000322,2023-01-11,08:01:26,8,Wednesday,1,2023,12.996472,80.260295,South,Adyar,Burglary,7,Clear,0,0,0,4.36,Low,Moderate,0.18,1,1
+CR000323,2024-12-12,23:44:20,23,Thursday,12,2024,12.899707,80.106104,South,Tambaram,Robbery,7,Clear,0,0,1,5.12,Medium,Good,0.05,0,1
+CR000324,2024-08-04,15:46:28,15,Sunday,8,2024,12.99717,80.232788,South,Adyar,Kidnapping,8,Clear,0,1,0,3.21,Medium,Good,0.38,1,1
+CR000325,2019-08-01,08:33:18,8,Thursday,8,2019,13.07416,80.269707,Central,Triplicane,Theft,5,Clear,0,0,0,0.84,Very High,Moderate,0.11,1,1
+CR000326,2019-04-12,17:59:04,17,Friday,4,2019,12.998676,80.232556,South,Adyar,Vehicle-theft,6,Clear,0,0,0,5.47,Low,Poor,0.12,0,1
+CR000327,2021-12-05,15:22:46,15,Sunday,12,2021,13.051444,80.194248,West,K.K. Nagar,Fraud,6,Clear,0,1,0,5.62,Low,Moderate,0.26,0,1
+CR000328,2019-04-12,05:42:37,5,Friday,4,2019,13.112924,80.309636,North,Royapuram,Assault,6,Hot,0,0,1,1.28,Low,Poor,0.37,0,1
+CR000329,2023-07-04,17:27:50,17,Tuesday,7,2023,13.088478,80.274754,Central,Egmore,Assault,8,Hot,0,0,0,2.67,High,Moderate,0.05,0,1
+CR000330,2023-05-04,04:58:30,4,Thursday,5,2023,13.12728,80.286116,North,Washermanpet,Fraud,5,Foggy,0,0,1,1.11,Low,Moderate,0.07,0,1
+CR000331,2023-02-04,05:50:43,5,Saturday,2,2023,12.991407,80.237876,South,Adyar,Drug-offense,8,Foggy,0,1,1,1.42,Low,Poor,0.3,1,1
+CR000332,2024-04-22,19:44:03,19,Monday,4,2024,13.04303,80.2668,Central,Mylapore,Drug-offense,7,Clear,0,0,1,1.09,Medium,Good,0.31,1,1
+CR000333,2021-07-01,19:07:01,19,Thursday,7,2021,12.989032,80.273439,East,Thiruvanmiyur,Fraud,5,Hot,0,0,1,5.18,Medium,Good,0.33,1,1
+CR000334,2019-06-05,16:06:10,16,Wednesday,6,2019,13.032613,80.191103,West,K.K. Nagar,Eve-teasing,5,Foggy,0,0,0,5.97,Low,Good,0.14,1,1
+CR000335,2024-11-20,17:44:36,17,Wednesday,11,2024,13.101438,80.279616,North,Royapuram,Vehicle-theft,7,Rainy,1,0,0,3.9,Low,Moderate,0.06,0,1
+CR000336,2022-05-28,05:10:04,5,Saturday,5,2022,13.032855,80.27644,Central,Mylapore,Vehicle-theft,4,Clear,0,1,1,0.51,Low,Good,0.1,0,1
+CR000337,2020-10-26,07:20:18,7,Monday,10,2020,13.039556,80.262659,Central,Mylapore,Burglary,8,Rainy,0,0,0,3.8,Low,Poor,0.18,0,1
+CR000338,2020-03-02,06:22:30,6,Monday,3,2020,13.005869,80.201242,South,Guindy,Drug-offense,7,Rainy,0,0,0,5.76,Low,Moderate,0.12,0,1
+CR000339,2019-05-13,12:18:44,12,Monday,5,2019,13.0027,80.205049,South,Velachery,Murder,10,Hot,0,0,0,3.56,Medium,Good,0.08,0,1
+CR000340,2022-03-13,14:09:51,14,Sunday,3,2022,13.109646,80.230734,North,Perambur,Assault,5,Foggy,0,1,0,4.98,Medium,Good,0.1,0,1
+CR000341,2021-05-19,17:08:52,17,Wednesday,5,2021,13.120369,80.140129,West,Ambattur,Kidnapping,8,Hot,0,0,0,3.02,Very High,Poor,0.31,0,1
+CR000342,2024-06-30,21:46:49,21,Sunday,6,2024,13.03057,80.076467,West,Porur,Theft,5,Foggy,0,1,1,1.9,Low,Moderate,0.12,1,1
+CR000343,2021-02-22,13:20:16,13,Monday,2,2021,13.008951,80.242806,East,Thiruvanmiyur,Fraud,4,Rainy,0,0,0,5.54,Medium,Poor,0.19,0,1
+CR000344,2022-07-20,21:36:42,21,Wednesday,7,2022,13.039298,80.215083,West,K.K. Nagar,Robbery,7,Rainy,0,0,1,4.07,Medium,Good,0.35,1,1
+CR000345,2022-02-02,13:38:17,13,Wednesday,2,2022,13.110709,80.292434,North,Washermanpet,Vehicle-theft,6,Hot,0,0,0,2.86,High,Good,0.31,1,1
+CR000346,2019-05-20,19:35:14,19,Monday,5,2019,12.968829,80.273022,East,Thiruvanmiyur,Vehicle-theft,7,Rainy,0,0,1,3.59,Low,Moderate,0.2,1,1
+CR000347,2019-03-08,15:57:29,15,Friday,3,2019,13.066149,80.270575,Central,Mylapore,Assault,8,Hot,0,0,0,3.27,Medium,Good,0.33,0,1
+CR000348,2024-11-28,21:44:44,21,Thursday,11,2024,13.044023,80.283304,East,Marina,Fraud,5,Hot,0,0,1,0.89,Medium,Poor,0.37,1,1
+CR000349,2024-08-13,02:43:06,2,Tuesday,8,2024,13.074683,80.22578,West,Anna Nagar,Vehicle-theft,6,Hot,0,0,1,2.95,Low,Good,0.19,1,1
+CR000350,2022-10-29,09:41:50,9,Saturday,10,2022,13.038663,80.073426,West,Porur,Assault,9,Hot,0,1,0,1.81,Low,Moderate,0.12,0,1
+CR000351,2021-08-18,15:05:36,15,Wednesday,8,2021,13.1575,80.286225,North,Tiruvottiyur,Vehicle-theft,7,Foggy,0,0,0,2.95,Low,Good,0.06,0,1
+CR000352,2021-08-07,09:53:37,9,Saturday,8,2021,13.137378,80.289024,North,Royapuram,Assault,6,Foggy,0,1,0,3.29,Low,Moderate,0.09,1,1
+CR000353,2021-07-28,23:59:15,23,Wednesday,7,2021,13.054922,80.264021,Central,Egmore,Murder,9,Rainy,0,0,1,4.09,Low,Poor,0.38,1,1
+CR000354,2023-10-31,14:42:17,14,Tuesday,10,2023,13.127984,80.25626,North,Perambur,Fraud,6,Rainy,0,0,0,2.71,Low,Moderate,0.15,0,1
+CR000355,2024-06-26,04:26:49,4,Wednesday,6,2024,12.996923,80.222161,South,Guindy,Eve-teasing,5,Foggy,0,0,1,2.83,Medium,Good,0.1,1,1
+CR000356,2019-10-02,22:53:13,22,Wednesday,10,2019,12.931552,80.131986,South,Tambaram,Vehicle-theft,5,Hot,0,0,1,5.07,Low,Moderate,0.37,1,1
+CR000357,2023-08-07,14:34:27,14,Monday,8,2023,13.080965,80.247028,North,Perambur,Vehicle-theft,6,Clear,0,0,0,1.95,Low,Poor,0.27,1,1
+CR000358,2024-06-04,15:26:25,15,Tuesday,6,2024,13.036794,80.238158,South,T.Nagar,Eve-teasing,5,Foggy,0,0,0,4.58,Very High,Good,0.07,0,1
+CR000359,2020-10-29,11:27:07,11,Thursday,10,2020,13.030736,80.208763,South,Guindy,Vehicle-theft,4,Rainy,0,0,0,4.45,High,Poor,0.06,0,1
+CR000360,2022-02-03,01:06:19,1,Thursday,2,2022,13.053884,80.277807,Central,Triplicane,Assault,8,Foggy,0,0,1,5.71,High,Good,0.32,1,1
+CR000361,2023-04-19,15:34:41,15,Wednesday,4,2023,13.001346,80.276395,South,Adyar,Fraud,6,Foggy,0,0,0,0.64,Medium,Moderate,0.24,0,1
+CR000362,2024-04-07,04:22:38,4,Sunday,4,2024,13.169332,80.283002,North,Tiruvottiyur,Fraud,6,Clear,0,1,1,3.58,Low,Moderate,0.15,0,1
+CR000363,2021-03-09,00:55:22,0,Tuesday,3,2021,13.05482,80.277771,Central,Egmore,Burglary,8,Hot,0,0,1,5.06,Medium,Poor,0.35,0,1
+CR000364,2021-09-04,17:09:32,17,Saturday,9,2021,13.079044,80.237847,Central,Egmore,Vehicle-theft,4,Rainy,0,1,0,3.26,Low,Poor,0.15,0,1
+CR000365,2023-05-11,02:55:44,2,Thursday,5,2023,13.051887,80.19186,West,K.K. Nagar,Vehicle-theft,7,Foggy,0,0,1,2.49,Low,Good,0.12,1,1
+CR000366,2019-01-19,02:13:59,2,Saturday,1,2019,13.141625,80.149573,West,Ambattur,Vehicle-theft,7,Rainy,0,1,1,2.6,Medium,Poor,0.3,0,1
+CR000367,2021-03-28,23:13:57,23,Sunday,3,2021,12.956301,80.208143,South,Velachery,Vehicle-theft,6,Clear,0,1,1,1.12,Medium,Good,0.12,1,1
+CR000368,2023-03-27,16:10:25,16,Monday,3,2023,13.110986,80.185655,West,Anna Nagar,Burglary,6,Foggy,0,0,0,1.98,Low,Good,0.18,0,1
+CR000369,2019-07-09,09:08:34,9,Tuesday,7,2019,13.052789,80.291862,Central,Triplicane,Drug-offense,7,Foggy,0,0,0,0.66,Very High,Poor,0.25,1,1
+CR000370,2020-12-05,23:56:44,23,Saturday,12,2020,13.081589,80.247983,Central,Egmore,Kidnapping,8,Hot,0,1,1,3.16,Low,Moderate,0.2,0,1
+CR000371,2023-03-08,01:38:47,1,Wednesday,3,2023,13.049626,80.182986,West,K.K. Nagar,Burglary,6,Foggy,0,0,1,3.08,Medium,Moderate,0.05,1,1
+CR000372,2021-02-06,08:52:39,8,Saturday,2,2021,13.154697,80.306164,North,Tiruvottiyur,Fraud,7,Rainy,0,1,0,5.8,Medium,Good,0.37,0,1
+CR000373,2024-07-30,16:30:59,16,Tuesday,7,2024,13.054143,80.24173,South,T.Nagar,Theft,6,Hot,0,0,0,4.1,Medium,Good,0.22,1,1
+CR000374,2023-03-27,16:37:48,16,Monday,3,2023,12.973641,80.235607,South,Velachery,Vehicle-theft,5,Clear,0,0,0,4.02,Low,Moderate,0.26,1,1
+CR000375,2021-12-15,08:20:54,8,Wednesday,12,2021,13.104211,80.288556,North,Royapuram,Vehicle-theft,4,Foggy,0,0,0,1.29,Medium,Moderate,0.3,1,1
+CR000376,2023-12-19,05:24:39,5,Tuesday,12,2023,13.005314,80.279998,East,Besant Nagar,Theft,3,Clear,0,0,1,1.7,Medium,Good,0.32,0,1
+CR000377,2022-03-30,05:19:25,5,Wednesday,3,2022,13.030134,80.260656,Central,Mylapore,Eve-teasing,2,Foggy,0,0,1,3.17,Low,Moderate,0.15,1,1
+CR000378,2022-08-07,06:12:49,6,Sunday,8,2022,13.064085,80.288038,Central,Triplicane,Theft,6,Hot,0,1,0,2.39,Medium,Moderate,0.06,1,1
+CR000379,2024-03-10,00:49:22,0,Sunday,3,2024,13.146649,80.325459,North,Tiruvottiyur,Vehicle-theft,4,Foggy,0,1,1,5.29,Low,Good,0.22,0,1
+CR000380,2021-11-02,13:14:51,13,Tuesday,11,2021,12.991403,80.281584,East,Besant Nagar,Theft,3,Foggy,0,0,0,4.1,Medium,Moderate,0.35,1,1
+CR000381,2020-05-29,21:39:52,21,Friday,5,2020,13.018498,80.200675,South,Adyar,Fraud,6,Rainy,0,0,1,5.81,Low,Poor,0.31,0,1
+CR000382,2021-09-10,10:44:36,10,Friday,9,2021,13.090159,80.237854,Central,Nungambakkam,Assault,6,Clear,0,0,0,2.27,Very High,Good,0.27,0,1
+CR000383,2023-05-05,10:46:07,10,Friday,5,2023,13.00938,80.27946,South,Adyar,Eve-teasing,3,Foggy,0,0,0,1.39,Medium,Poor,0.31,1,1
+CR000384,2021-09-19,01:09:20,1,Sunday,9,2021,13.158401,80.307077,North,Tiruvottiyur,Assault,7,Hot,0,1,1,3.96,Medium,Poor,0.29,0,1
+CR000385,2019-10-05,08:53:28,8,Saturday,10,2019,13.019895,80.294284,East,Marina,Fraud,6,Clear,0,1,0,1.74,Medium,Poor,0.28,0,1
+CR000386,2020-06-28,07:28:36,7,Sunday,6,2020,13.096536,80.238372,Central,Nungambakkam,Kidnapping,9,Rainy,0,1,0,3.71,Low,Poor,0.35,1,1
+CR000387,2021-09-20,02:34:24,2,Monday,9,2021,13.062472,80.29808,Central,Triplicane,Assault,8,Clear,0,0,1,4.08,Very High,Poor,0.12,1,1
+CR000388,2023-03-17,03:24:03,3,Friday,3,2023,12.97524,80.230101,South,Guindy,Burglary,7,Rainy,0,0,1,3.81,Low,Moderate,0.12,0,1
+CR000389,2021-09-04,22:40:32,22,Saturday,9,2021,13.013718,80.063618,West,Porur,Assault,5,Rainy,0,1,1,4.03,Low,Good,0.33,1,1
+CR000390,2019-09-17,13:26:09,13,Tuesday,9,2019,13.057191,80.25758,Central,Mylapore,Assault,7,Clear,0,0,0,3.21,Low,Poor,0.26,1,1
+CR000391,2019-07-04,16:14:33,16,Thursday,7,2019,13.053703,80.268832,East,Marina,Drug-offense,8,Clear,0,0,0,3.34,Medium,Good,0.14,0,1
+CR000392,2022-12-12,02:08:59,2,Monday,12,2022,13.086105,80.225918,West,Anna Nagar,Burglary,8,Foggy,0,0,1,2.82,Low,Poor,0.13,1,1
+CR000393,2020-06-21,08:35:12,8,Sunday,6,2020,12.970021,80.232145,South,Guindy,Robbery,8,Clear,0,1,0,3.86,Low,Poor,0.05,1,1
+CR000394,2019-01-06,14:44:06,14,Sunday,1,2019,12.991265,80.263429,East,Besant Nagar,Theft,6,Rainy,0,1,0,0.71,Medium,Good,0.08,0,1
+CR000395,2022-06-21,23:14:16,23,Tuesday,6,2022,13.056248,80.224863,Central,Nungambakkam,Drug-offense,9,Rainy,0,0,1,4.63,Low,Poor,0.35,0,1
+CR000396,2022-05-23,00:28:30,0,Monday,5,2022,13.041531,80.267848,East,Marina,Fraud,7,Foggy,0,0,1,1.58,Low,Poor,0.31,1,1
+CR000397,2021-08-09,00:27:39,0,Monday,8,2021,13.123183,80.219648,North,Perambur,Murder,8,Foggy,0,0,1,1.03,Low,Good,0.07,0,1
+CR000398,2024-02-01,10:28:14,10,Thursday,2,2024,12.996358,80.260128,South,Adyar,Kidnapping,9,Rainy,0,0,0,3.23,Low,Good,0.17,1,1
+CR000399,2019-10-26,12:26:13,12,Saturday,10,2019,13.010557,80.221816,South,Guindy,Vehicle-theft,4,Hot,0,1,0,0.52,Very High,Poor,0.14,0,1
+CR000400,2019-05-08,18:41:06,18,Wednesday,5,2019,13.100539,80.270567,North,Washermanpet,Vehicle-theft,5,Clear,0,0,0,3.04,High,Poor,0.25,0,1
+CR000401,2023-01-30,20:42:29,20,Monday,1,2023,13.011608,80.243144,South,Guindy,Theft,4,Hot,0,0,1,1.52,Very High,Poor,0.39,1,1
+CR000402,2019-09-10,05:41:22,5,Tuesday,9,2019,13.104528,80.290668,North,Royapuram,Drug-offense,6,Foggy,0,0,1,5.22,Medium,Good,0.37,1,1
+CR000403,2023-09-16,13:16:18,13,Saturday,9,2023,12.997479,80.227446,South,Guindy,Eve-teasing,5,Foggy,0,1,0,5.91,Very High,Moderate,0.28,1,1
+CR000404,2024-02-25,15:51:17,15,Sunday,2,2024,13.040676,80.266549,East,Marina,Vehicle-theft,7,Rainy,0,1,0,4.06,Low,Poor,0.31,0,1
+CR000405,2024-12-05,02:40:30,2,Thursday,12,2024,13.125159,80.15955,West,Ambattur,Vehicle-theft,6,Hot,0,0,1,3.55,Low,Poor,0.19,1,1
+CR000406,2021-09-23,06:28:02,6,Thursday,9,2021,13.105295,80.285885,North,Washermanpet,Burglary,7,Rainy,0,0,0,5.74,High,Poor,0.18,1,1
+CR000407,2023-08-01,22:32:50,22,Tuesday,8,2023,13.060839,80.03181,West,Porur,Kidnapping,8,Hot,0,0,1,2.49,Medium,Good,0.1,1,1
+CR000408,2023-12-18,20:08:10,20,Monday,12,2023,13.074724,80.280061,East,Marina,Burglary,5,Foggy,0,0,1,3.33,Low,Poor,0.31,1,1
+CR000409,2022-07-13,22:05:04,22,Wednesday,7,2022,12.891461,80.135586,South,Tambaram,Murder,9,Hot,0,0,1,2.04,Low,Good,0.1,1,1
+CR000410,2021-06-22,12:31:44,12,Tuesday,6,2021,13.046506,80.037009,West,Porur,Assault,5,Clear,0,0,0,3.1,Medium,Good,0.11,0,1
+CR000411,2023-12-09,11:15:55,11,Saturday,12,2023,13.065012,80.256213,South,T.Nagar,Kidnapping,9,Hot,0,1,0,2.21,Medium,Good,0.09,1,1
+CR000412,2020-11-08,11:04:12,11,Sunday,11,2020,13.141227,80.306503,North,Tiruvottiyur,Kidnapping,10,Clear,0,1,0,2.22,Low,Good,0.34,0,1
+CR000413,2024-05-11,05:21:14,5,Saturday,5,2024,12.936063,80.11462,South,Tambaram,Murder,10,Clear,0,1,1,4.97,Low,Moderate,0.15,1,1
+CR000414,2022-06-04,13:41:53,13,Saturday,6,2022,13.09526,80.15761,West,Ambattur,Kidnapping,10,Rainy,0,1,0,4.03,Low,Moderate,0.2,0,1
+CR000415,2022-07-29,00:27:49,0,Friday,7,2022,13.104142,80.291455,North,Royapuram,Vehicle-theft,6,Rainy,0,0,1,4.37,Medium,Poor,0.35,1,1
+CR000416,2019-03-08,11:21:52,11,Friday,3,2019,12.978488,80.234358,South,Guindy,Vehicle-theft,5,Rainy,0,0,0,5.56,High,Moderate,0.1,0,1
+CR000417,2024-01-17,04:34:21,4,Wednesday,1,2024,13.101998,80.246718,North,Perambur,Vehicle-theft,7,Clear,0,0,1,3.86,Low,Good,0.34,1,1
+CR000418,2022-07-29,07:31:15,7,Friday,7,2022,13.047747,80.071008,West,Porur,Assault,8,Foggy,0,0,0,2.86,Low,Good,0.28,1,1
+CR000419,2022-02-27,11:27:41,11,Sunday,2,2022,13.097173,80.139737,West,Ambattur,Fraud,6,Hot,0,1,0,2.14,High,Good,0.38,0,1
+CR000420,2021-11-10,22:06:40,22,Wednesday,11,2021,13.10197,80.29695,North,Royapuram,Fraud,5,Foggy,0,0,1,3.56,Low,Poor,0.38,0,1
+CR000421,2024-10-29,06:40:49,6,Tuesday,10,2024,13.071406,80.183042,West,Anna Nagar,Eve-teasing,4,Hot,0,0,0,2.41,Very High,Poor,0.27,1,1
+CR000422,2022-09-16,18:15:14,18,Friday,9,2022,13.026123,80.259206,Central,Mylapore,Vehicle-theft,6,Foggy,0,0,0,1.17,Low,Good,0.3,1,1
+CR000423,2021-04-03,00:00:51,0,Saturday,4,2021,13.025637,80.259244,Central,Mylapore,Theft,3,Hot,0,1,1,5.19,Medium,Moderate,0.29,1,1
+CR000424,2023-04-13,11:31:29,11,Thursday,4,2023,12.988799,80.269335,East,Thiruvanmiyur,Drug-offense,8,Foggy,0,0,0,1.69,Low,Moderate,0.34,0,1
+CR000425,2020-10-24,08:01:12,8,Saturday,10,2020,13.108885,80.301723,North,Royapuram,Vehicle-theft,5,Clear,1,1,0,1.31,Low,Poor,0.07,1,1
+CR000426,2024-02-02,12:22:52,12,Friday,2,2024,13.000496,80.232958,East,Thiruvanmiyur,Murder,10,Hot,0,0,0,3.06,Low,Poor,0.26,1,1
+CR000427,2024-11-22,00:15:40,0,Friday,11,2024,13.011,80.243426,South,Adyar,Theft,3,Foggy,1,0,1,1.01,Low,Poor,0.05,0,1
+CR000428,2024-12-25,01:30:34,1,Wednesday,12,2024,13.018277,80.244135,East,Besant Nagar,Murder,10,Clear,0,0,1,3.67,Medium,Poor,0.37,0,1
+CR000429,2024-05-11,22:41:51,22,Saturday,5,2024,13.027858,80.265712,Central,Mylapore,Burglary,5,Hot,0,1,1,1.7,Medium,Good,0.36,0,1
+CR000430,2019-04-25,06:41:23,6,Thursday,4,2019,13.010229,80.244713,South,Adyar,Vehicle-theft,6,Rainy,0,0,0,2.52,Low,Poor,0.34,0,1
+CR000431,2019-07-08,10:10:29,10,Monday,7,2019,13.152874,80.292089,North,Tiruvottiyur,Vehicle-theft,5,Foggy,0,0,0,1.34,Medium,Good,0.35,0,1
+CR000432,2020-01-07,02:16:54,2,Tuesday,1,2020,13.027669,80.215085,West,K.K. Nagar,Vehicle-theft,5,Rainy,0,0,1,4.19,Medium,Poor,0.14,0,1
+CR000433,2024-01-24,21:56:04,21,Wednesday,1,2024,13.042262,80.282319,East,Marina,Vehicle-theft,4,Hot,0,0,1,5.57,Low,Good,0.31,1,1
+CR000434,2019-11-11,04:56:10,4,Monday,11,2019,13.10721,80.135264,West,Ambattur,Vehicle-theft,7,Foggy,0,0,1,1.43,High,Poor,0.27,0,1
+CR000435,2024-05-06,10:24:37,10,Monday,5,2024,13.084339,80.294011,Central,Triplicane,Drug-offense,7,Rainy,0,0,0,5.43,Low,Poor,0.07,1,1
+CR000436,2024-06-11,21:29:05,21,Tuesday,6,2024,12.996272,80.287935,South,Adyar,Eve-teasing,5,Foggy,0,0,1,0.69,Low,Poor,0.2,1,1
+CR000437,2019-06-10,06:57:59,6,Monday,6,2019,13.069951,80.044767,West,Porur,Eve-teasing,3,Foggy,0,0,0,4.84,Medium,Good,0.39,1,1
+CR000438,2022-12-02,16:15:25,16,Friday,12,2022,13.023341,80.236599,South,Adyar,Vehicle-theft,4,Foggy,0,0,0,3.69,Low,Good,0.4,1,1
+CR000439,2021-10-07,08:57:11,8,Thursday,10,2021,13.112218,80.307886,North,Washermanpet,Theft,6,Rainy,0,0,0,3.02,High,Good,0.1,0,1
+CR000440,2024-10-11,09:15:23,9,Friday,10,2024,12.975581,80.220704,South,Velachery,Kidnapping,9,Foggy,0,0,0,3.41,Low,Good,0.3,0,1
+CR000441,2024-03-30,19:12:28,19,Saturday,3,2024,13.0607,80.24194,Central,Nungambakkam,Assault,6,Clear,0,1,1,2.88,Very High,Moderate,0.18,1,1
+CR000442,2024-09-17,12:31:41,12,Tuesday,9,2024,12.958533,80.226783,South,Velachery,Eve-teasing,2,Hot,0,0,0,3.67,Low,Moderate,0.15,1,1
+CR000443,2020-05-02,12:27:50,12,Saturday,5,2020,12.98925,80.225294,South,Velachery,Murder,9,Foggy,0,1,0,0.61,Low,Good,0.2,0,1
+CR000444,2019-06-23,15:07:54,15,Sunday,6,2019,13.028601,80.21224,West,K.K. Nagar,Assault,6,Foggy,0,1,0,4.22,Medium,Poor,0.26,0,1
+CR000445,2021-06-21,17:52:21,17,Monday,6,2021,13.01928,80.290938,East,Besant Nagar,Vehicle-theft,6,Clear,0,0,0,3.97,Medium,Poor,0.3,1,1
+CR000446,2022-02-11,23:31:36,23,Friday,2,2022,13.047375,80.280259,Central,Mylapore,Eve-teasing,4,Rainy,0,0,1,3.16,Medium,Moderate,0.26,0,1
+CR000447,2019-12-10,07:56:01,7,Tuesday,12,2019,13.054393,80.261116,Central,Triplicane,Fraud,7,Foggy,0,0,0,1.46,Very High,Moderate,0.15,0,1
+CR000448,2020-06-03,11:47:07,11,Wednesday,6,2020,13.128084,80.300215,North,Royapuram,Murder,9,Foggy,0,0,0,4.29,Low,Good,0.12,1,1
+CR000449,2023-07-06,04:08:26,4,Thursday,7,2023,13.05446,80.261384,Central,Mylapore,Drug-offense,8,Hot,0,0,1,0.95,Low,Moderate,0.3,1,1
+CR000450,2020-01-12,14:07:41,14,Sunday,1,2020,12.991444,80.236532,South,Velachery,Drug-offense,9,Hot,0,1,0,3.33,Medium,Good,0.13,1,1
+CR000451,2020-03-05,02:52:44,2,Thursday,3,2020,13.05968,80.271829,Central,Triplicane,Eve-teasing,2,Hot,0,0,1,1.79,Very High,Good,0.34,1,1
+CR000452,2022-12-30,21:02:29,21,Friday,12,2022,13.167864,80.285848,North,Tiruvottiyur,Robbery,6,Rainy,0,0,1,3.75,Low,Good,0.19,1,1
+CR000453,2019-11-30,09:23:04,9,Saturday,11,2019,13.12475,80.313931,North,Royapuram,Robbery,8,Clear,0,1,0,2.05,Medium,Good,0.32,0,1
+CR000454,2024-09-14,01:35:48,1,Saturday,9,2024,13.075918,80.263638,Central,Egmore,Drug-offense,9,Clear,0,1,1,3.91,Very High,Moderate,0.38,0,1
+CR000455,2020-04-18,15:47:14,15,Saturday,4,2020,13.085601,80.247894,Central,Egmore,Robbery,8,Foggy,0,1,0,2.84,Medium,Moderate,0.34,0,1
+CR000456,2019-02-21,23:12:31,23,Thursday,2,2019,12.944954,80.099983,South,Tambaram,Kidnapping,9,Clear,0,0,1,3.22,Medium,Poor,0.06,0,1
+CR000457,2021-07-16,14:25:03,14,Friday,7,2021,13.075122,80.260587,Central,Egmore,Assault,9,Foggy,0,0,0,3.76,High,Poor,0.4,0,1
+CR000458,2024-10-30,04:40:27,4,Wednesday,10,2024,12.973103,80.285223,East,Thiruvanmiyur,Fraud,4,Foggy,0,0,1,5.77,Medium,Poor,0.2,1,1
+CR000459,2020-02-13,08:55:46,8,Thursday,2,2020,12.991663,80.266456,East,Besant Nagar,Drug-offense,9,Rainy,0,0,0,0.96,Low,Poor,0.08,1,1
+CR000460,2020-10-20,21:50:02,21,Tuesday,10,2020,13.119614,80.315114,North,Royapuram,Eve-teasing,2,Clear,1,0,1,5.72,Low,Poor,0.28,0,1
+CR000461,2024-07-27,05:34:28,5,Saturday,7,2024,13.102039,80.132845,West,Ambattur,Theft,5,Rainy,0,1,1,1.75,Low,Moderate,0.12,0,1
+CR000462,2022-02-06,22:31:49,22,Sunday,2,2022,12.973074,80.228043,East,Thiruvanmiyur,Burglary,6,Hot,0,1,1,4.39,Medium,Moderate,0.36,0,1
+CR000463,2023-08-28,04:51:41,4,Monday,8,2023,13.049969,80.284694,East,Marina,Eve-teasing,3,Clear,0,0,1,1.84,Medium,Moderate,0.18,1,1
+CR000464,2022-02-10,18:07:34,18,Thursday,2,2022,13.004815,80.197025,West,K.K. Nagar,Theft,6,Clear,0,0,0,4.87,Medium,Moderate,0.08,1,1
+CR000465,2024-09-05,08:28:35,8,Thursday,9,2024,12.938089,80.152829,South,Tambaram,Fraud,5,Rainy,0,0,0,3.19,Medium,Poor,0.21,1,1
+CR000466,2022-04-21,13:53:21,13,Thursday,4,2022,13.08628,80.253648,Central,Egmore,Vehicle-theft,5,Rainy,0,0,0,3.09,Very High,Poor,0.17,0,1
+CR000467,2023-05-15,16:12:32,16,Monday,5,2023,12.991405,80.224815,South,Velachery,Vehicle-theft,5,Foggy,0,0,0,2.5,Medium,Moderate,0.15,0,1
+CR000468,2023-12-07,09:48:21,9,Thursday,12,2023,13.085976,80.248481,Central,Triplicane,Theft,3,Rainy,0,0,0,3.91,Low,Moderate,0.29,0,1
+CR000469,2024-12-08,00:28:43,0,Sunday,12,2024,13.103005,80.121842,West,Ambattur,Murder,10,Rainy,0,1,1,4.7,Very High,Poor,0.09,0,1
+CR000470,2021-10-06,06:46:40,6,Wednesday,10,2021,13.06712,80.24287,South,T.Nagar,Burglary,6,Clear,0,0,0,4.76,Low,Good,0.27,1,1
+CR000471,2019-10-08,01:32:51,1,Tuesday,10,2019,13.062373,80.269348,East,Marina,Theft,4,Foggy,0,0,1,3.87,Medium,Poor,0.08,0,1
+CR000472,2022-07-27,22:14:33,22,Wednesday,7,2022,13.168838,80.292318,North,Tiruvottiyur,Assault,8,Clear,0,0,1,4.28,Medium,Good,0.38,1,1
+CR000473,2021-10-04,04:28:53,4,Monday,10,2021,13.024156,80.200151,South,Guindy,Drug-offense,8,Clear,0,0,1,0.54,Medium,Good,0.36,0,1
+CR000474,2021-07-23,10:27:56,10,Friday,7,2021,13.045126,80.035022,West,Porur,Eve-teasing,2,Foggy,0,0,0,4.51,Low,Good,0.08,0,1
+CR000475,2022-03-15,03:13:54,3,Tuesday,3,2022,13.055274,80.30089,Central,Triplicane,Burglary,8,Rainy,0,0,1,3.86,Very High,Poor,0.39,1,1
+CR000476,2021-10-22,17:37:54,17,Friday,10,2021,13.01785,80.212954,West,K.K. Nagar,Vehicle-theft,7,Hot,1,0,0,3.87,Medium,Poor,0.2,1,1
+CR000477,2024-04-15,08:37:45,8,Monday,4,2024,13.11228,80.209345,North,Perambur,Vehicle-theft,6,Foggy,0,0,0,5.14,Low,Poor,0.2,1,1
+CR000478,2020-06-05,11:07:38,11,Friday,6,2020,13.081313,80.228699,North,Perambur,Kidnapping,9,Rainy,0,0,0,1.44,Low,Moderate,0.35,0,1
+CR000479,2022-07-26,12:38:39,12,Tuesday,7,2022,13.080943,80.283083,Central,Egmore,Vehicle-theft,4,Foggy,0,0,0,3.07,Medium,Good,0.06,0,1
+CR000480,2022-07-13,19:38:59,19,Wednesday,7,2022,13.159663,80.298089,North,Tiruvottiyur,Assault,5,Clear,0,0,1,0.77,Low,Moderate,0.39,1,1
+CR000481,2022-04-02,07:35:30,7,Saturday,4,2022,13.070365,80.254813,West,Anna Nagar,Vehicle-theft,5,Hot,0,1,0,3.49,Very High,Good,0.24,0,1
+CR000482,2019-02-18,12:16:41,12,Monday,2,2019,13.004813,80.200979,South,Velachery,Burglary,7,Clear,0,0,0,3.69,Low,Moderate,0.2,0,1
+CR000483,2022-04-29,05:53:02,5,Friday,4,2022,13.085732,80.234298,West,Anna Nagar,Fraud,6,Rainy,0,0,1,1.96,Low,Moderate,0.38,0,1
+CR000484,2020-02-19,12:52:25,12,Wednesday,2,2020,13.122871,80.294833,North,Royapuram,Burglary,6,Rainy,0,0,0,2.12,Medium,Good,0.21,0,1
+CR000485,2020-12-22,17:18:57,17,Tuesday,12,2020,13.027375,80.263716,Central,Mylapore,Vehicle-theft,7,Clear,0,0,0,1.74,Medium,Good,0.14,1,1
+CR000486,2022-11-19,21:42:48,21,Saturday,11,2022,13.026793,80.238654,Central,Mylapore,Burglary,5,Foggy,1,1,1,4.83,Medium,Good,0.36,0,1
+CR000487,2022-04-16,10:12:27,10,Saturday,4,2022,13.038966,80.067504,West,Porur,Vehicle-theft,4,Rainy,0,1,0,4.03,Low,Moderate,0.35,1,1
+CR000488,2022-05-31,03:42:17,3,Tuesday,5,2022,12.986451,80.202221,South,Guindy,Vehicle-theft,4,Rainy,0,0,1,2.64,Very High,Moderate,0.39,0,1
+CR000489,2020-02-18,01:02:18,1,Tuesday,2,2020,13.084591,80.232046,Central,Nungambakkam,Eve-teasing,3,Rainy,0,0,1,4.95,Medium,Moderate,0.19,1,1
+CR000490,2024-01-18,05:49:19,5,Thursday,1,2024,13.014376,80.20852,South,Velachery,Kidnapping,8,Rainy,0,0,1,4.71,Medium,Poor,0.05,1,1
+CR000491,2019-01-26,02:06:53,2,Saturday,1,2019,13.03774,80.052171,West,Porur,Robbery,6,Clear,0,1,1,1.49,Medium,Poor,0.22,0,1
+CR000492,2024-05-14,09:06:26,9,Tuesday,5,2024,12.96684,80.22569,South,Velachery,Vehicle-theft,7,Rainy,0,0,0,4.15,Low,Poor,0.23,1,1
+CR000493,2023-11-03,12:51:05,12,Friday,11,2023,13.039453,80.282962,Central,Mylapore,Vehicle-theft,7,Hot,0,0,0,5.91,Low,Good,0.25,0,1
+CR000494,2022-03-06,06:27:38,6,Sunday,3,2022,13.006223,80.28608,Central,Mylapore,Robbery,6,Foggy,0,1,0,1.19,Medium,Good,0.2,0,1
+CR000495,2022-12-04,23:51:29,23,Sunday,12,2022,12.91933,80.104176,South,Tambaram,Kidnapping,8,Foggy,0,1,1,5.63,Medium,Poor,0.13,1,1
+CR000496,2022-06-11,13:36:30,13,Saturday,6,2022,13.058168,80.253629,Central,Nungambakkam,Vehicle-theft,5,Hot,0,1,0,3.79,High,Poor,0.4,0,1
+CR000497,2021-08-30,23:51:24,23,Monday,8,2021,13.002497,80.273469,East,Besant Nagar,Vehicle-theft,5,Foggy,0,0,1,4.62,Low,Moderate,0.34,0,1
+CR000498,2023-07-14,03:33:04,3,Friday,7,2023,13.054747,80.208939,West,Anna Nagar,Fraud,4,Rainy,0,0,1,3.27,Medium,Good,0.16,1,1
+CR000499,2021-01-14,22:58:07,22,Thursday,1,2021,13.123245,80.310405,North,Royapuram,Robbery,6,Hot,1,0,1,4.16,Medium,Good,0.21,1,1
+CR000500,2023-01-18,05:53:37,5,Wednesday,1,2023,13.082676,80.180029,West,Anna Nagar,Eve-teasing,5,Rainy,0,0,1,2.15,High,Moderate,0.18,0,1
+CR000501,2019-02-03,04:43:31,4,Sunday,2,2019,13.115187,80.270468,North,Washermanpet,Vehicle-theft,6,Hot,0,1,1,2.68,Medium,Good,0.21,1,1
+CR000502,2019-07-29,13:57:52,13,Monday,7,2019,12.992342,80.247317,East,Thiruvanmiyur,Burglary,8,Foggy,0,0,0,4.53,Low,Good,0.1,0,1
+CR000503,2024-10-16,23:32:00,23,Wednesday,10,2024,13.083418,80.176664,West,Anna Nagar,Theft,3,Hot,1,0,1,0.7,Medium,Poor,0.35,0,1
+CR000504,2022-02-27,16:40:58,16,Sunday,2,2022,13.102303,80.204782,West,Anna Nagar,Murder,10,Foggy,0,1,0,4.45,Medium,Good,0.29,0,1
+CR000505,2021-07-07,12:13:27,12,Wednesday,7,2021,13.06517,80.247905,West,Anna Nagar,Drug-offense,8,Hot,0,0,0,5.91,High,Moderate,0.34,0,1
+CR000506,2024-05-14,21:45:33,21,Tuesday,5,2024,13.030027,80.070846,West,Porur,Kidnapping,9,Clear,0,0,1,5.51,Low,Poor,0.1,0,1
+CR000507,2020-09-23,12:06:33,12,Wednesday,9,2020,13.075264,80.223374,West,K.K. Nagar,Drug-offense,6,Clear,0,0,0,2.57,Low,Moderate,0.37,0,1
+CR000508,2022-04-23,22:14:43,22,Saturday,4,2022,12.980874,80.265665,East,Besant Nagar,Eve-teasing,3,Rainy,0,1,1,0.63,Medium,Poor,0.37,1,1
+CR000509,2019-04-22,03:50:37,3,Monday,4,2019,12.997725,80.270258,East,Thiruvanmiyur,Eve-teasing,4,Foggy,0,0,1,2.76,Medium,Moderate,0.13,1,1
+CR000510,2019-01-05,16:13:53,16,Saturday,1,2019,12.981357,80.255149,East,Besant Nagar,Kidnapping,9,Hot,0,1,0,3.16,Medium,Poor,0.38,1,1
+CR000511,2022-09-18,18:52:12,18,Sunday,9,2022,13.084655,80.198261,West,Anna Nagar,Eve-teasing,3,Hot,0,1,0,2.33,Very High,Good,0.13,1,1
+CR000512,2022-10-24,15:55:26,15,Monday,10,2022,13.035195,80.044419,West,Porur,Murder,9,Foggy,1,0,0,2.84,Medium,Poor,0.18,1,1
+CR000513,2019-08-22,18:04:46,18,Thursday,8,2019,12.950607,80.260755,East,Thiruvanmiyur,Vehicle-theft,7,Clear,0,0,0,2.06,Low,Poor,0.28,0,1
+CR000514,2020-04-16,17:50:17,17,Thursday,4,2020,13.031488,80.24057,South,T.Nagar,Burglary,7,Hot,0,0,0,3.61,Very High,Moderate,0.35,0,1
+CR000515,2024-12-29,01:22:45,1,Sunday,12,2024,13.065367,80.239319,Central,Nungambakkam,Kidnapping,8,Clear,0,1,1,1.75,Low,Good,0.11,1,1
+CR000516,2023-07-23,16:13:53,16,Sunday,7,2023,13.082588,80.261026,Central,Triplicane,Vehicle-theft,4,Hot,0,1,0,5.03,Very High,Good,0.2,1,1
+CR000517,2020-08-09,22:50:10,22,Sunday,8,2020,13.03759,80.201275,South,T.Nagar,Eve-teasing,2,Rainy,0,1,1,1.4,High,Poor,0.19,0,1
+CR000518,2019-03-25,15:24:17,15,Monday,3,2019,13.119193,80.14647,West,Ambattur,Burglary,6,Hot,0,0,0,5.72,Medium,Good,0.09,1,1
+CR000519,2019-02-21,14:27:45,14,Thursday,2,2019,12.999261,80.252039,South,Adyar,Kidnapping,9,Rainy,0,0,0,4.87,Medium,Moderate,0.34,1,1
+CR000520,2024-04-28,22:36:41,22,Sunday,4,2024,13.098477,80.231286,North,Perambur,Assault,8,Hot,0,1,1,1.98,Low,Poor,0.25,0,1
+CR000521,2023-02-26,07:28:07,7,Sunday,2,2023,13.042643,80.298199,Central,Mylapore,Eve-teasing,5,Rainy,0,1,0,4.73,Medium,Moderate,0.39,0,1
+CR000522,2022-03-22,00:23:27,0,Tuesday,3,2022,13.182507,80.288,North,Tiruvottiyur,Fraud,6,Clear,0,0,1,4.65,Low,Moderate,0.21,0,1
+CR000523,2020-07-07,00:53:30,0,Tuesday,7,2020,13.069436,80.251292,Central,Egmore,Fraud,7,Clear,0,0,1,5.93,Very High,Moderate,0.1,0,1
+CR000524,2019-09-11,18:09:15,18,Wednesday,9,2019,13.113824,80.275852,North,Washermanpet,Vehicle-theft,6,Foggy,0,0,0,1.6,High,Moderate,0.1,0,1
+CR000525,2019-04-04,22:45:55,22,Thursday,4,2019,13.105491,80.237762,North,Perambur,Theft,4,Foggy,0,0,1,2.64,Low,Moderate,0.15,1,1
+CR000526,2023-01-26,18:01:22,18,Thursday,1,2023,13.1261,80.248493,North,Perambur,Fraud,7,Foggy,0,0,0,3.45,Medium,Moderate,0.12,0,1
+CR000527,2022-07-01,22:14:04,22,Friday,7,2022,13.038042,80.260636,Central,Mylapore,Eve-teasing,2,Hot,0,0,1,4.29,Low,Good,0.34,0,1
+CR000528,2022-07-04,09:11:26,9,Monday,7,2022,13.105541,80.150079,West,Ambattur,Vehicle-theft,4,Hot,0,0,0,1.11,Medium,Poor,0.28,0,1
+CR000529,2023-06-26,18:03:27,18,Monday,6,2023,13.056513,80.201561,West,K.K. Nagar,Eve-teasing,3,Clear,0,0,0,4.31,Low,Poor,0.17,1,1
+CR000530,2024-12-10,22:59:25,22,Tuesday,12,2024,13.094735,80.206515,West,Anna Nagar,Drug-offense,8,Rainy,0,0,1,2.62,High,Poor,0.33,1,1
+CR000531,2022-02-10,09:04:20,9,Thursday,2,2022,13.044778,80.255237,East,Marina,Murder,10,Foggy,0,0,0,2.82,Medium,Moderate,0.15,0,1
+CR000532,2024-12-07,23:39:46,23,Saturday,12,2024,13.102764,80.270305,North,Royapuram,Kidnapping,8,Rainy,0,1,1,4.01,Low,Poor,0.18,1,1
+CR000533,2024-03-12,05:09:11,5,Tuesday,3,2024,13.152909,80.320366,North,Tiruvottiyur,Theft,3,Foggy,0,0,1,2.14,Low,Moderate,0.25,1,1
+CR000534,2022-06-23,10:32:41,10,Thursday,6,2022,13.123962,80.27933,North,Royapuram,Fraud,5,Hot,0,0,0,5.66,Low,Good,0.08,1,1
+CR000535,2023-08-20,01:35:14,1,Sunday,8,2023,13.045671,80.297676,East,Marina,Murder,9,Rainy,0,1,1,3.4,Low,Good,0.22,0,1
+CR000536,2023-07-18,18:57:23,18,Tuesday,7,2023,13.089526,80.306583,North,Washermanpet,Theft,4,Foggy,0,0,0,4.25,Very High,Moderate,0.07,1,1
+CR000537,2021-03-23,08:53:50,8,Tuesday,3,2021,13.126874,80.117799,West,Ambattur,Theft,3,Hot,0,0,0,3.65,High,Poor,0.09,0,1
+CR000538,2024-07-05,07:31:43,7,Friday,7,2024,12.988857,80.268058,East,Thiruvanmiyur,Theft,4,Foggy,0,0,0,2.42,Medium,Moderate,0.36,1,1
+CR000539,2022-07-14,03:18:31,3,Thursday,7,2022,13.005234,80.239776,South,Adyar,Vehicle-theft,5,Rainy,0,0,1,1.75,Medium,Moderate,0.27,1,1
+CR000540,2020-07-21,19:41:36,19,Tuesday,7,2020,13.043563,80.223745,Central,Nungambakkam,Kidnapping,8,Rainy,0,0,1,4.66,Very High,Poor,0.16,0,1
+CR000541,2021-03-27,17:33:20,17,Saturday,3,2021,12.984821,80.221808,South,Velachery,Vehicle-theft,4,Rainy,0,1,0,4.71,Low,Moderate,0.22,0,1
+CR000542,2023-02-06,18:28:27,18,Monday,2,2023,12.99723,80.195984,South,Guindy,Kidnapping,10,Hot,0,0,0,4.14,Low,Moderate,0.21,1,1
+CR000543,2022-09-05,11:11:34,11,Monday,9,2022,13.134318,80.290233,North,Washermanpet,Murder,8,Hot,0,0,0,5.67,Low,Good,0.25,1,1
+CR000544,2021-11-14,02:59:07,2,Sunday,11,2021,13.156438,80.319147,North,Tiruvottiyur,Drug-offense,7,Rainy,0,1,1,3.1,Low,Good,0.28,0,1
+CR000545,2022-01-09,16:12:14,16,Sunday,1,2022,12.966223,80.213957,South,Velachery,Drug-offense,7,Clear,0,1,0,4.38,Low,Poor,0.37,1,1
+CR000546,2019-04-01,11:55:09,11,Monday,4,2019,13.035354,80.055881,West,Porur,Kidnapping,8,Clear,0,0,0,5.4,Low,Moderate,0.1,0,1
+CR000547,2020-10-26,01:37:08,1,Monday,10,2020,13.035606,80.034648,West,Porur,Burglary,5,Clear,0,0,1,1.57,Low,Good,0.15,1,1
+CR000548,2024-01-21,18:48:16,18,Sunday,1,2024,13.111004,80.167612,West,Ambattur,Murder,9,Hot,0,1,0,1.32,Medium,Poor,0.3,1,1
+CR000549,2022-08-11,19:44:59,19,Thursday,8,2022,12.966285,80.227345,South,Velachery,Vehicle-theft,7,Rainy,0,0,1,5.55,Medium,Moderate,0.34,1,1
+CR000550,2022-04-15,00:29:03,0,Friday,4,2022,13.07409,80.160098,West,Ambattur,Drug-offense,8,Rainy,0,0,1,3.56,Very High,Moderate,0.15,0,1
+CR000551,2021-09-15,00:19:04,0,Wednesday,9,2021,12.971867,80.220259,South,Velachery,Vehicle-theft,7,Rainy,0,0,1,4.91,Low,Poor,0.25,0,1
+CR000552,2024-06-25,20:38:08,20,Tuesday,6,2024,12.987539,80.262725,East,Thiruvanmiyur,Vehicle-theft,4,Foggy,0,0,1,5.24,Medium,Poor,0.09,1,1
+CR000553,2024-05-22,06:34:26,6,Wednesday,5,2024,13.006719,80.297025,East,Besant Nagar,Robbery,6,Hot,0,0,0,4.32,Low,Moderate,0.23,1,1
+CR000554,2023-07-27,16:34:55,16,Thursday,7,2023,12.999809,80.246607,South,Adyar,Fraud,6,Clear,0,0,0,2.87,Low,Moderate,0.16,0,1
+CR000555,2019-12-24,03:39:16,3,Tuesday,12,2019,13.002441,80.183235,South,Guindy,Robbery,8,Hot,0,0,1,2.99,Very High,Moderate,0.07,1,1
+CR000556,2020-07-10,22:07:13,22,Friday,7,2020,13.105383,80.166131,West,Ambattur,Eve-teasing,3,Clear,0,0,1,4.32,Low,Good,0.21,0,1
+CR000557,2024-08-01,10:10:47,10,Thursday,8,2024,13.104188,80.152859,West,Ambattur,Murder,9,Hot,0,0,0,0.85,Medium,Moderate,0.35,1,1
+CR000558,2022-06-25,21:23:16,21,Saturday,6,2022,13.079965,80.255365,North,Perambur,Theft,3,Clear,0,1,1,4.24,Low,Moderate,0.38,0,1
+CR000559,2021-04-05,11:30:58,11,Monday,4,2021,13.02775,80.281737,Central,Mylapore,Eve-teasing,2,Hot,0,0,0,0.53,Medium,Poor,0.16,1,1
+CR000560,2019-10-28,00:41:06,0,Monday,10,2019,13.050805,80.282578,East,Marina,Assault,9,Rainy,0,0,1,1.19,Low,Moderate,0.15,1,1
+CR000561,2019-02-14,19:53:40,19,Thursday,2,2019,13.109696,80.259059,North,Washermanpet,Robbery,8,Rainy,0,0,1,1.0,Medium,Poor,0.08,1,1
+CR000562,2021-10-23,10:51:37,10,Saturday,10,2021,13.057571,80.249746,Central,Nungambakkam,Vehicle-theft,5,Foggy,1,1,0,5.89,High,Good,0.37,0,1
+CR000563,2024-08-28,10:07:10,10,Wednesday,8,2024,13.067798,80.262234,Central,Egmore,Robbery,7,Rainy,0,0,0,3.95,Medium,Good,0.1,1,1
+CR000564,2024-08-03,06:45:48,6,Saturday,8,2024,12.999194,80.211818,South,Guindy,Fraud,4,Rainy,0,1,0,4.97,Medium,Moderate,0.28,0,1
+CR000565,2023-11-25,08:29:40,8,Saturday,11,2023,13.132745,80.297389,North,Washermanpet,Vehicle-theft,6,Rainy,1,1,0,5.84,Medium,Poor,0.1,0,1
+CR000566,2024-05-04,01:41:46,1,Saturday,5,2024,13.094233,80.332203,North,Royapuram,Assault,5,Clear,0,1,1,4.68,Low,Good,0.28,0,1
+CR000567,2020-01-10,00:21:53,0,Friday,1,2020,13.123052,80.294921,North,Washermanpet,Burglary,7,Rainy,0,0,1,4.73,Low,Good,0.34,0,1
+CR000568,2022-03-03,20:01:53,20,Thursday,3,2022,13.181283,80.313612,North,Tiruvottiyur,Kidnapping,9,Clear,0,0,1,0.91,Medium,Moderate,0.2,1,1
+CR000569,2022-12-16,00:27:46,0,Friday,12,2022,13.052106,80.03894,West,Porur,Murder,9,Hot,0,0,1,4.95,Low,Good,0.3,1,1
+CR000570,2021-08-29,17:49:09,17,Sunday,8,2021,13.109377,80.281849,North,Washermanpet,Eve-teasing,5,Foggy,0,1,0,4.43,Medium,Moderate,0.25,1,1
+CR000571,2022-08-16,08:35:34,8,Tuesday,8,2022,12.98126,80.250468,East,Besant Nagar,Fraud,4,Hot,0,0,0,2.59,Medium,Poor,0.35,1,1
+CR000572,2022-10-24,11:21:42,11,Monday,10,2022,12.916327,80.154496,South,Tambaram,Kidnapping,10,Foggy,1,0,0,4.72,Medium,Poor,0.4,1,1
+CR000573,2019-07-15,09:28:59,9,Monday,7,2019,13.102157,80.139946,West,Ambattur,Burglary,5,Clear,0,0,0,0.53,Very High,Poor,0.13,1,1
+CR000574,2024-02-07,04:11:56,4,Wednesday,2,2024,13.110997,80.283418,North,Washermanpet,Assault,5,Clear,0,0,1,2.72,Low,Poor,0.14,0,1
+CR000575,2024-08-20,08:53:34,8,Tuesday,8,2024,13.160747,80.316208,North,Tiruvottiyur,Vehicle-theft,6,Rainy,0,0,0,3.98,Low,Good,0.21,1,1
+CR000576,2022-06-29,23:20:34,23,Wednesday,6,2022,12.985911,80.266609,East,Besant Nagar,Robbery,8,Foggy,0,0,1,1.1,Low,Poor,0.21,1,1
+CR000577,2021-05-17,00:38:57,0,Monday,5,2021,13.044234,80.286134,East,Marina,Robbery,8,Clear,0,0,1,4.63,Low,Moderate,0.09,1,1
+CR000578,2020-01-29,18:58:27,18,Wednesday,1,2020,13.015702,80.241545,South,Adyar,Kidnapping,9,Foggy,0,0,0,3.46,Medium,Good,0.33,0,1
+CR000579,2020-09-02,23:50:36,23,Wednesday,9,2020,13.078818,80.290941,North,Washermanpet,Murder,10,Foggy,0,0,1,5.68,Very High,Moderate,0.16,1,1
+CR000580,2023-04-26,18:37:08,18,Wednesday,4,2023,13.040009,80.258772,Central,Mylapore,Fraud,4,Hot,0,0,0,4.79,Low,Poor,0.14,0,1
+CR000581,2024-04-21,14:11:43,14,Sunday,4,2024,13.043445,80.213308,West,K.K. Nagar,Assault,5,Clear,0,1,0,5.31,Medium,Good,0.11,0,1
+CR000582,2024-05-13,07:03:22,7,Monday,5,2024,13.054329,80.252391,East,Marina,Murder,9,Clear,0,0,0,5.32,Medium,Moderate,0.11,1,1
+CR000583,2022-02-09,16:43:14,16,Wednesday,2,2022,13.112924,80.310683,North,Royapuram,Fraud,5,Rainy,0,0,0,2.92,Medium,Good,0.06,0,1
+CR000584,2024-04-13,21:57:37,21,Saturday,4,2024,12.982092,80.257136,East,Thiruvanmiyur,Fraud,4,Foggy,0,1,1,4.45,Low,Moderate,0.36,0,1
+CR000585,2022-05-27,10:15:21,10,Friday,5,2022,12.995609,80.269017,East,Thiruvanmiyur,Burglary,6,Foggy,0,0,0,5.97,Medium,Good,0.32,0,1
+CR000586,2024-10-02,10:37:24,10,Wednesday,10,2024,13.14058,80.339752,North,Tiruvottiyur,Drug-offense,6,Hot,0,0,0,2.38,Medium,Poor,0.39,1,1
+CR000587,2021-06-13,22:50:17,22,Sunday,6,2021,13.062624,80.284471,Central,Triplicane,Burglary,8,Hot,0,1,1,3.21,Medium,Moderate,0.14,0,1
+CR000588,2023-10-31,06:39:33,6,Tuesday,10,2023,13.16756,80.303351,North,Tiruvottiyur,Vehicle-theft,5,Rainy,0,0,0,2.7,Low,Good,0.21,1,1
+CR000589,2019-05-09,16:21:30,16,Thursday,5,2019,12.979127,80.248198,South,Adyar,Assault,7,Rainy,0,0,0,3.43,Low,Poor,0.37,0,1
+CR000590,2023-12-17,10:12:56,10,Sunday,12,2023,13.055789,80.289456,East,Marina,Assault,9,Hot,0,1,0,1.47,Medium,Good,0.32,1,1
+CR000591,2023-07-31,00:52:58,0,Monday,7,2023,13.073967,80.215545,West,Anna Nagar,Assault,5,Rainy,0,0,1,3.45,Medium,Moderate,0.12,0,1
+CR000592,2021-01-08,01:08:24,1,Friday,1,2021,13.081186,80.216762,West,Anna Nagar,Eve-teasing,5,Clear,0,0,1,3.61,Medium,Poor,0.16,0,1
+CR000593,2024-08-01,08:40:55,8,Thursday,8,2024,13.042606,80.306154,Central,Triplicane,Robbery,8,Rainy,0,0,0,3.67,High,Good,0.34,1,1
+CR000594,2019-11-22,18:19:28,18,Friday,11,2019,12.991597,80.250458,East,Thiruvanmiyur,Fraud,4,Foggy,1,0,0,3.91,Low,Poor,0.23,1,1
+CR000595,2019-10-18,04:04:26,4,Friday,10,2019,13.013597,80.234645,South,T.Nagar,Vehicle-theft,5,Foggy,1,0,1,5.2,High,Poor,0.25,1,1
+CR000596,2024-12-15,23:56:21,23,Sunday,12,2024,13.167848,80.307995,North,Tiruvottiyur,Kidnapping,8,Hot,0,1,1,4.38,Medium,Poor,0.2,0,1
+CR000597,2020-10-20,17:32:14,17,Tuesday,10,2020,12.997303,80.231456,South,Velachery,Burglary,8,Hot,1,0,0,5.25,Low,Poor,0.32,0,1
+CR000598,2020-02-02,19:26:39,19,Sunday,2,2020,13.02579,80.227634,South,T.Nagar,Burglary,7,Hot,0,1,1,3.91,Low,Good,0.28,1,1
+CR000599,2020-01-20,16:35:25,16,Monday,1,2020,13.12649,80.254679,North,Perambur,Fraud,6,Hot,0,0,0,1.02,Medium,Good,0.25,1,1
+CR000600,2019-08-31,06:58:44,6,Saturday,8,2019,13.047726,80.291751,Central,Triplicane,Theft,5,Foggy,0,1,0,1.61,Very High,Good,0.28,0,1
+CR000601,2020-12-28,19:46:01,19,Monday,12,2020,12.975873,80.262119,East,Thiruvanmiyur,Burglary,6,Foggy,0,0,1,3.45,Medium,Moderate,0.19,0,1
+CR000602,2020-06-10,07:04:13,7,Wednesday,6,2020,13.047746,80.195059,West,K.K. Nagar,Theft,6,Hot,0,0,0,2.55,Medium,Good,0.2,0,1
+CR000603,2020-09-20,18:38:46,18,Sunday,9,2020,13.050796,80.22323,South,T.Nagar,Burglary,6,Foggy,0,1,0,4.08,Medium,Moderate,0.16,0,1
+CR000604,2024-10-24,01:52:55,1,Thursday,10,2024,12.981354,80.283708,East,Besant Nagar,Theft,6,Foggy,1,0,1,4.52,Low,Moderate,0.34,1,1
+CR000605,2022-09-14,23:57:52,23,Wednesday,9,2022,13.028029,80.279644,Central,Triplicane,Vehicle-theft,4,Rainy,0,0,1,5.59,Medium,Poor,0.1,0,1
+CR000606,2022-10-01,05:50:43,5,Saturday,10,2022,13.081576,80.260016,Central,Egmore,Robbery,8,Foggy,0,1,1,0.93,Medium,Moderate,0.14,0,1
+CR000607,2021-07-15,17:26:07,17,Thursday,7,2021,13.028414,80.287342,Central,Mylapore,Drug-offense,6,Hot,0,0,0,0.73,Medium,Moderate,0.17,1,1
+CR000608,2020-11-02,12:55:31,12,Monday,11,2020,13.038806,80.262284,Central,Triplicane,Murder,8,Foggy,0,0,0,1.34,Very High,Poor,0.15,1,1
+CR000609,2019-05-04,12:26:01,12,Saturday,5,2019,13.11252,80.269018,North,Royapuram,Robbery,7,Hot,0,1,0,5.45,Medium,Moderate,0.36,0,1
+CR000610,2024-02-23,09:22:45,9,Friday,2,2024,13.113933,80.282176,North,Washermanpet,Drug-offense,6,Rainy,0,0,0,3.73,Medium,Poor,0.16,0,1
+CR000611,2023-09-09,18:03:15,18,Saturday,9,2023,13.056501,80.292603,Central,Triplicane,Vehicle-theft,6,Foggy,0,1,0,4.48,Low,Moderate,0.25,0,1
+CR000612,2023-06-13,06:04:49,6,Tuesday,6,2023,13.082101,80.234118,Central,Egmore,Kidnapping,9,Clear,0,0,0,4.78,Medium,Moderate,0.13,1,1
+CR000613,2022-04-08,04:55:22,4,Friday,4,2022,13.053246,80.266138,Central,Triplicane,Murder,10,Hot,0,0,1,0.66,Very High,Good,0.27,0,1
+CR000614,2019-07-14,02:17:56,2,Sunday,7,2019,13.035453,80.275214,East,Marina,Fraud,7,Hot,0,1,1,1.67,Low,Moderate,0.31,0,1
+CR000615,2024-01-08,02:42:34,2,Monday,1,2024,13.060932,80.222196,South,T.Nagar,Vehicle-theft,7,Foggy,0,0,1,3.36,Very High,Good,0.4,1,1
+CR000616,2022-07-02,23:24:38,23,Saturday,7,2022,13.083208,80.203025,West,Anna Nagar,Murder,8,Rainy,0,1,1,4.64,Medium,Good,0.09,1,1
+CR000617,2024-05-23,00:37:25,0,Thursday,5,2024,13.114871,80.14034,West,Ambattur,Assault,9,Rainy,0,0,1,4.94,Low,Poor,0.31,0,1
+CR000618,2024-08-27,01:38:58,1,Tuesday,8,2024,13.046729,80.29384,East,Marina,Murder,10,Foggy,0,0,1,3.73,Medium,Good,0.09,0,1
+CR000619,2021-01-12,05:58:03,5,Tuesday,1,2021,13.131046,80.117346,West,Ambattur,Drug-offense,6,Hot,0,0,1,5.04,Very High,Poor,0.38,1,1
+CR000620,2023-04-25,05:36:24,5,Tuesday,4,2023,13.180302,80.304895,North,Tiruvottiyur,Eve-teasing,3,Hot,0,0,1,1.89,Low,Poor,0.15,1,1
+CR000621,2022-01-30,09:28:17,9,Sunday,1,2022,13.068659,80.29899,Central,Triplicane,Kidnapping,8,Hot,0,1,0,3.24,High,Moderate,0.28,0,1
+CR000622,2024-08-30,01:36:10,1,Friday,8,2024,13.006543,80.29911,East,Besant Nagar,Assault,5,Hot,0,0,1,2.08,Low,Poor,0.38,0,1
+CR000623,2023-05-08,06:42:48,6,Monday,5,2023,13.133006,80.1482,West,Ambattur,Vehicle-theft,4,Clear,0,0,0,2.63,High,Good,0.32,0,1
+CR000624,2024-03-09,08:07:22,8,Saturday,3,2024,13.089523,80.251885,Central,Egmore,Vehicle-theft,4,Rainy,0,1,0,5.19,High,Poor,0.09,0,1
+CR000625,2021-01-07,06:08:17,6,Thursday,1,2021,13.045578,80.016245,West,Porur,Kidnapping,8,Hot,0,0,0,5.07,Medium,Poor,0.06,1,1
+CR000626,2021-05-28,09:59:03,9,Friday,5,2021,13.150142,80.302373,North,Tiruvottiyur,Eve-teasing,5,Clear,0,0,0,1.53,Medium,Good,0.39,0,1
+CR000627,2022-07-12,09:32:18,9,Tuesday,7,2022,13.129566,80.350456,North,Royapuram,Theft,4,Rainy,0,0,0,2.39,Medium,Poor,0.19,1,1
+CR000628,2020-02-04,06:29:52,6,Tuesday,2,2020,13.046899,80.243654,South,T.Nagar,Fraud,7,Clear,0,0,0,2.14,Medium,Moderate,0.08,1,1
+CR000629,2021-11-28,22:49:18,22,Sunday,11,2021,13.01783,80.03512,West,Porur,Assault,7,Clear,0,1,1,2.27,Medium,Poor,0.18,0,1
+CR000630,2023-05-06,05:49:45,5,Saturday,5,2023,13.105952,80.303536,North,Royapuram,Vehicle-theft,7,Foggy,0,1,1,3.43,Medium,Moderate,0.19,1,1
+CR000631,2023-11-29,13:52:49,13,Wednesday,11,2023,13.106257,80.143872,West,Ambattur,Drug-offense,6,Clear,0,0,0,4.29,High,Poor,0.23,1,1
+CR000632,2024-04-26,14:41:25,14,Friday,4,2024,12.983566,80.236636,South,Velachery,Assault,8,Hot,0,0,0,5.7,Low,Poor,0.37,1,1
+CR000633,2019-09-10,03:28:40,3,Tuesday,9,2019,12.996237,80.259897,South,Adyar,Burglary,5,Rainy,0,0,1,4.68,Medium,Poor,0.32,0,1
+CR000634,2020-11-28,15:42:35,15,Saturday,11,2020,13.080337,80.221381,Central,Nungambakkam,Murder,10,Clear,0,1,0,0.51,Medium,Moderate,0.38,1,1
+CR000635,2022-12-11,07:08:12,7,Sunday,12,2022,13.052881,80.217822,Central,Nungambakkam,Robbery,7,Foggy,0,1,0,2.24,High,Good,0.23,1,1
+CR000636,2020-01-30,15:23:29,15,Thursday,1,2020,13.091483,80.214601,West,Anna Nagar,Drug-offense,6,Foggy,0,0,0,4.09,High,Poor,0.15,1,1
+CR000637,2019-11-28,06:45:44,6,Thursday,11,2019,12.981334,80.217625,South,Velachery,Burglary,8,Rainy,0,0,0,4.8,Low,Good,0.05,0,1
+CR000638,2021-09-26,18:18:43,18,Sunday,9,2021,12.958284,80.243423,East,Thiruvanmiyur,Vehicle-theft,7,Clear,0,1,0,1.59,Medium,Moderate,0.22,1,1
+CR000639,2021-04-04,09:57:11,9,Sunday,4,2021,12.996125,80.255853,Central,Mylapore,Burglary,6,Clear,0,1,0,3.48,Low,Moderate,0.16,0,1
+CR000640,2022-05-14,21:46:23,21,Saturday,5,2022,13.115374,80.1357,West,Ambattur,Vehicle-theft,4,Foggy,0,1,1,2.73,Very High,Poor,0.08,1,1
+CR000641,2022-05-07,06:52:55,6,Saturday,5,2022,13.039241,80.240821,Central,Nungambakkam,Assault,5,Hot,0,1,0,2.76,High,Good,0.11,0,1
+CR000642,2020-11-23,08:43:19,8,Monday,11,2020,13.040468,80.269653,Central,Mylapore,Vehicle-theft,5,Hot,1,0,0,3.45,Medium,Good,0.14,1,1
+CR000643,2021-08-31,13:47:12,13,Tuesday,8,2021,12.929252,80.126371,South,Tambaram,Burglary,7,Foggy,0,0,0,4.97,Medium,Good,0.06,1,1
+CR000644,2022-04-29,12:59:01,12,Friday,4,2022,12.91014,80.11906,South,Tambaram,Robbery,8,Hot,0,0,0,4.66,Low,Poor,0.3,1,1
+CR000645,2021-11-08,06:17:17,6,Monday,11,2021,13.162615,80.271815,North,Tiruvottiyur,Kidnapping,9,Clear,0,0,0,5.55,Low,Poor,0.17,0,1
+CR000646,2020-08-16,18:03:04,18,Sunday,8,2020,13.136882,80.131498,West,Ambattur,Burglary,5,Foggy,0,1,0,2.38,Low,Poor,0.37,0,1
+CR000647,2023-07-03,11:32:24,11,Monday,7,2023,13.11127,80.321491,North,Royapuram,Theft,4,Clear,0,0,0,0.97,Medium,Poor,0.06,0,1
+CR000648,2022-10-19,03:20:56,3,Wednesday,10,2022,12.973236,80.262801,East,Thiruvanmiyur,Drug-offense,6,Foggy,1,0,1,5.43,Low,Good,0.17,0,1
+CR000649,2023-05-16,20:26:29,20,Tuesday,5,2023,12.991851,80.289546,South,Adyar,Kidnapping,8,Foggy,0,0,1,4.12,Low,Poor,0.26,1,1
+CR000650,2023-02-04,23:03:14,23,Saturday,2,2023,12.951377,80.133744,South,Tambaram,Eve-teasing,4,Rainy,0,1,1,4.87,Medium,Poor,0.26,0,1
+CR000651,2022-04-27,14:06:10,14,Wednesday,4,2022,13.122054,80.298649,North,Washermanpet,Robbery,7,Foggy,0,0,0,3.31,High,Good,0.14,1,1
+CR000652,2023-12-05,13:47:23,13,Tuesday,12,2023,13.083555,80.257855,Central,Egmore,Eve-teasing,5,Foggy,0,0,0,0.67,Low,Moderate,0.39,0,1
+CR000653,2020-09-04,22:24:28,22,Friday,9,2020,13.047087,80.163554,West,K.K. Nagar,Burglary,8,Foggy,0,0,1,0.83,Medium,Moderate,0.06,0,1
+CR000654,2022-10-03,10:23:00,10,Monday,10,2022,13.100076,80.298932,North,Washermanpet,Assault,9,Hot,0,0,0,4.86,Medium,Moderate,0.26,1,1
+CR000655,2022-11-06,00:04:30,0,Sunday,11,2022,13.08429,80.249956,Central,Egmore,Theft,6,Rainy,0,1,1,5.1,Medium,Good,0.24,1,1
+CR000656,2023-01-28,17:47:53,17,Saturday,1,2023,12.994408,80.251419,East,Thiruvanmiyur,Murder,9,Clear,0,1,0,4.45,Medium,Poor,0.39,0,1
+CR000657,2023-02-20,06:18:14,6,Monday,2,2023,13.061658,80.067253,West,Porur,Robbery,8,Hot,0,0,0,2.0,Low,Good,0.27,0,1
+CR000658,2019-04-15,02:29:30,2,Monday,4,2019,12.980256,80.210738,South,Velachery,Vehicle-theft,4,Hot,0,0,1,4.84,Medium,Good,0.12,1,1
+CR000659,2019-12-01,16:58:32,16,Sunday,12,2019,12.974582,80.232609,South,Velachery,Robbery,6,Clear,0,1,0,0.86,Low,Moderate,0.34,1,1
+CR000660,2024-04-30,11:13:10,11,Tuesday,4,2024,13.077309,80.275556,East,Marina,Robbery,6,Foggy,0,0,0,1.81,Low,Moderate,0.32,0,1
+CR000661,2022-08-06,17:25:20,17,Saturday,8,2022,13.08124,80.269431,North,Royapuram,Theft,6,Clear,0,1,0,0.91,Low,Good,0.37,0,1
+CR000662,2021-07-22,20:25:23,20,Thursday,7,2021,13.030351,80.300426,Central,Triplicane,Assault,5,Hot,0,0,1,5.02,Very High,Moderate,0.15,1,1
+CR000663,2021-12-14,01:58:35,1,Tuesday,12,2021,13.027422,80.178863,West,K.K. Nagar,Eve-teasing,5,Rainy,0,0,1,0.97,Medium,Poor,0.27,1,1
+CR000664,2021-09-12,19:07:52,19,Sunday,9,2021,12.979622,80.226151,South,Velachery,Theft,4,Hot,0,1,1,1.92,Medium,Good,0.37,1,1
+CR000665,2021-07-29,23:17:34,23,Thursday,7,2021,13.036657,80.204792,West,K.K. Nagar,Theft,3,Rainy,0,0,1,5.25,Medium,Poor,0.25,1,1
+CR000666,2019-08-29,19:02:55,19,Thursday,8,2019,13.000472,80.206487,South,Guindy,Burglary,5,Hot,0,0,1,2.99,Medium,Good,0.13,0,1
+CR000667,2021-12-28,06:31:33,6,Tuesday,12,2021,13.045284,80.273145,East,Marina,Burglary,5,Hot,0,0,0,5.42,Low,Poor,0.11,1,1
+CR000668,2020-05-28,17:30:18,17,Thursday,5,2020,13.014721,80.232948,South,Adyar,Murder,8,Foggy,0,0,0,4.7,Medium,Poor,0.33,0,1
+CR000669,2024-07-19,07:29:53,7,Friday,7,2024,13.120915,80.228591,North,Perambur,Drug-offense,9,Clear,0,0,0,2.51,Medium,Poor,0.24,0,1
+CR000670,2021-10-02,10:52:46,10,Saturday,10,2021,13.001311,80.260007,East,Besant Nagar,Murder,10,Rainy,0,1,0,0.79,Medium,Moderate,0.26,0,1
+CR000671,2022-04-30,12:50:45,12,Saturday,4,2022,12.949539,80.207278,South,Velachery,Theft,6,Clear,0,1,0,5.51,Medium,Moderate,0.36,1,1
+CR000672,2020-06-24,22:57:24,22,Wednesday,6,2020,13.039139,80.253566,East,Marina,Eve-teasing,5,Rainy,0,0,1,4.64,Low,Moderate,0.16,0,1
+CR000673,2022-11-25,00:32:31,0,Friday,11,2022,13.116287,80.166709,West,Ambattur,Theft,6,Foggy,1,0,1,4.17,Very High,Poor,0.21,0,1
+CR000674,2019-02-16,16:41:49,16,Saturday,2,2019,12.936056,80.13578,South,Tambaram,Fraud,5,Foggy,0,1,0,5.94,Low,Good,0.1,1,1
+CR000675,2020-01-20,17:32:46,17,Monday,1,2020,13.082459,80.326409,North,Royapuram,Fraud,5,Foggy,0,0,0,1.67,Medium,Poor,0.24,1,1
+CR000676,2022-08-26,12:05:21,12,Friday,8,2022,13.013891,80.28533,Central,Mylapore,Theft,3,Hot,0,0,0,0.86,Low,Good,0.14,1,1
+CR000677,2022-11-26,11:24:17,11,Saturday,11,2022,12.997415,80.243316,South,Guindy,Theft,4,Rainy,0,1,0,2.1,High,Moderate,0.24,1,1
+CR000678,2020-03-06,15:26:33,15,Friday,3,2020,13.064566,80.294178,Central,Triplicane,Kidnapping,9,Foggy,0,0,0,3.78,High,Good,0.38,0,1
+CR000679,2024-08-11,00:25:10,0,Sunday,8,2024,13.085375,80.183743,West,Anna Nagar,Robbery,7,Foggy,0,1,1,5.95,Medium,Good,0.29,1,1
+CR000680,2023-12-08,05:48:34,5,Friday,12,2023,13.073365,80.268277,Central,Triplicane,Assault,6,Hot,0,0,1,4.69,Very High,Moderate,0.27,0,1
+CR000681,2023-09-26,08:46:19,8,Tuesday,9,2023,13.108093,80.131557,West,Ambattur,Assault,8,Clear,0,0,0,2.96,High,Good,0.19,1,1
+CR000682,2023-01-20,16:35:35,16,Friday,1,2023,13.129478,80.296851,North,Washermanpet,Theft,6,Clear,0,0,0,2.79,High,Poor,0.19,0,1
+CR000683,2019-11-25,01:05:47,1,Monday,11,2019,13.115836,80.278304,North,Perambur,Vehicle-theft,7,Foggy,1,0,1,5.14,Low,Good,0.23,0,1
+CR000684,2024-08-31,16:13:05,16,Saturday,8,2024,13.135384,80.145333,West,Ambattur,Vehicle-theft,4,Hot,0,1,0,4.52,Very High,Good,0.15,0,1
+CR000685,2023-04-27,19:57:29,19,Thursday,4,2023,13.025208,80.312203,Central,Triplicane,Burglary,7,Clear,0,0,1,2.82,Medium,Poor,0.3,1,1
+CR000686,2019-03-15,02:23:20,2,Friday,3,2019,13.11842,80.247715,North,Perambur,Drug-offense,9,Clear,0,0,1,5.24,Medium,Moderate,0.1,0,1
+CR000687,2019-08-26,16:38:19,16,Monday,8,2019,13.059296,80.26645,Central,Triplicane,Fraud,7,Foggy,0,0,0,5.57,Very High,Poor,0.14,1,1
+CR000688,2020-07-17,23:06:42,23,Friday,7,2020,13.058244,80.296882,Central,Triplicane,Eve-teasing,4,Foggy,0,0,1,3.71,Low,Moderate,0.31,0,1
+CR000689,2020-01-29,10:39:05,10,Wednesday,1,2020,13.088184,80.303972,Central,Triplicane,Vehicle-theft,5,Rainy,0,0,0,1.47,High,Poor,0.31,0,1
+CR000690,2024-10-19,18:22:18,18,Saturday,10,2024,13.035352,80.253152,Central,Nungambakkam,Theft,3,Clear,1,1,0,4.79,Medium,Good,0.14,1,1
+CR000691,2024-08-06,15:05:41,15,Tuesday,8,2024,12.967728,80.214206,South,Velachery,Vehicle-theft,5,Hot,0,0,0,4.97,Low,Good,0.22,0,1
+CR000692,2022-04-14,01:19:49,1,Thursday,4,2022,13.047655,80.275061,East,Marina,Eve-teasing,4,Clear,0,0,1,2.31,Low,Moderate,0.23,1,1
+CR000693,2020-04-21,08:35:19,8,Tuesday,4,2020,13.00567,80.234693,South,Adyar,Murder,10,Rainy,0,0,0,4.43,Medium,Good,0.36,1,1
+CR000694,2023-05-23,00:10:23,0,Tuesday,5,2023,12.943972,80.136748,South,Tambaram,Murder,9,Rainy,0,0,1,4.12,Low,Good,0.19,1,1
+CR000695,2021-10-27,08:15:55,8,Wednesday,10,2021,12.986921,80.222807,South,Velachery,Eve-teasing,5,Foggy,0,0,0,2.01,Medium,Moderate,0.26,1,1
+CR000696,2021-11-08,21:41:08,21,Monday,11,2021,13.073428,80.284913,East,Marina,Robbery,7,Hot,0,0,1,2.7,Medium,Poor,0.16,0,1
+CR000697,2022-11-16,16:52:28,16,Wednesday,11,2022,13.090166,80.190336,West,Anna Nagar,Fraud,5,Clear,1,0,0,0.7,High,Poor,0.13,1,1
+CR000698,2024-12-15,15:35:17,15,Sunday,12,2024,13.073805,80.30074,Central,Triplicane,Eve-teasing,4,Rainy,0,1,0,4.32,High,Good,0.33,1,1
+CR000699,2023-10-23,16:28:08,16,Monday,10,2023,12.992114,80.208839,South,Guindy,Robbery,6,Clear,1,0,0,5.51,Low,Good,0.18,1,1
+CR000700,2020-02-17,11:27:45,11,Monday,2,2020,13.098625,80.146365,West,Ambattur,Kidnapping,10,Rainy,0,0,0,5.44,Medium,Poor,0.06,0,1
+CR000701,2023-09-19,15:44:11,15,Tuesday,9,2023,13.107399,80.274474,North,Washermanpet,Murder,8,Rainy,0,0,0,1.83,Low,Poor,0.21,1,1
+CR000702,2019-05-01,21:17:00,21,Wednesday,5,2019,12.974955,80.259821,East,Thiruvanmiyur,Murder,8,Rainy,0,0,1,1.54,Low,Good,0.1,1,1
+CR000703,2023-06-13,11:59:37,11,Tuesday,6,2023,13.156146,80.302322,North,Tiruvottiyur,Robbery,7,Rainy,0,0,0,5.23,Medium,Poor,0.15,1,1
+CR000704,2024-04-15,02:08:58,2,Monday,4,2024,13.053342,80.22371,South,T.Nagar,Kidnapping,10,Hot,0,0,1,2.58,Medium,Moderate,0.29,1,1
+CR000705,2023-08-12,02:45:48,2,Saturday,8,2023,13.140986,80.144493,West,Ambattur,Vehicle-theft,6,Hot,0,1,1,4.51,Very High,Good,0.25,1,1
+CR000706,2020-03-11,15:48:12,15,Wednesday,3,2020,13.098522,80.214527,West,Anna Nagar,Burglary,7,Foggy,0,0,0,0.79,Medium,Moderate,0.26,0,1
+CR000707,2020-03-04,06:58:28,6,Wednesday,3,2020,13.09863,80.281798,Central,Egmore,Murder,8,Hot,0,0,0,1.42,Very High,Moderate,0.07,1,1
+CR000708,2020-08-04,04:48:07,4,Tuesday,8,2020,13.037304,80.251964,Central,Triplicane,Theft,4,Foggy,0,0,1,1.83,Medium,Poor,0.31,0,1
+CR000709,2023-08-30,15:44:34,15,Wednesday,8,2023,13.114257,80.135898,West,Ambattur,Fraud,6,Rainy,0,0,0,4.31,Very High,Moderate,0.05,1,1
+CR000710,2019-04-11,18:12:21,18,Thursday,4,2019,13.043463,80.242287,Central,Nungambakkam,Murder,8,Rainy,0,0,0,2.22,High,Poor,0.2,0,1
+CR000711,2022-06-04,13:29:32,13,Saturday,6,2022,13.087852,80.224915,South,T.Nagar,Vehicle-theft,5,Rainy,0,1,0,0.51,High,Good,0.24,0,1
+CR000712,2019-01-04,22:39:05,22,Friday,1,2019,13.131693,80.285328,North,Washermanpet,Theft,6,Foggy,0,0,1,3.2,Low,Good,0.36,0,1
+CR000713,2019-06-08,15:13:06,15,Saturday,6,2019,12.96473,80.216201,South,Guindy,Vehicle-theft,5,Foggy,0,1,0,4.68,Medium,Moderate,0.39,0,1
+CR000714,2020-03-19,23:39:31,23,Thursday,3,2020,13.021466,80.189445,South,Guindy,Assault,5,Clear,0,0,1,1.34,Very High,Moderate,0.38,1,1
+CR000715,2022-05-07,11:25:55,11,Saturday,5,2022,13.139973,80.284376,North,Royapuram,Assault,8,Hot,0,1,0,2.45,Low,Moderate,0.18,0,1
+CR000716,2023-02-11,17:50:23,17,Saturday,2,2023,13.091025,80.283022,North,Royapuram,Drug-offense,8,Rainy,0,1,0,0.58,Low,Poor,0.2,1,1
+CR000717,2022-05-05,12:40:28,12,Thursday,5,2022,13.012406,80.246635,East,Besant Nagar,Robbery,8,Foggy,0,0,0,4.83,Low,Poor,0.15,1,1
+CR000718,2022-02-14,02:02:32,2,Monday,2,2022,12.982576,80.273224,East,Besant Nagar,Kidnapping,10,Hot,0,0,1,5.93,Medium,Good,0.29,0,1
+CR000719,2022-06-15,04:41:05,4,Wednesday,6,2022,13.020136,80.248253,South,Adyar,Vehicle-theft,4,Rainy,0,0,1,2.43,Medium,Moderate,0.28,1,1
+CR000720,2019-11-08,10:01:24,10,Friday,11,2019,13.105018,80.154973,West,Ambattur,Murder,8,Rainy,0,0,0,0.7,Very High,Moderate,0.29,1,1
+CR000721,2023-10-26,09:41:52,9,Thursday,10,2023,13.008363,80.187639,West,K.K. Nagar,Theft,5,Foggy,0,0,0,2.37,Medium,Poor,0.1,1,1
+CR000722,2019-12-18,12:41:21,12,Wednesday,12,2019,13.076399,80.220977,West,Anna Nagar,Eve-teasing,2,Hot,0,0,0,1.44,Very High,Poor,0.23,0,1
+CR000723,2021-11-29,16:26:22,16,Monday,11,2021,13.023069,80.251658,South,T.Nagar,Murder,8,Clear,0,0,0,5.45,Very High,Good,0.39,1,1
+CR000724,2020-02-02,02:58:18,2,Sunday,2,2020,13.037415,80.225983,West,K.K. Nagar,Fraud,5,Foggy,0,1,1,1.16,Medium,Moderate,0.28,0,1
+CR000725,2020-05-22,05:50:28,5,Friday,5,2020,13.111982,80.259355,Central,Egmore,Murder,10,Rainy,0,0,1,5.59,Low,Good,0.15,1,1
+CR000726,2019-09-12,21:04:32,21,Thursday,9,2019,12.927919,80.095898,South,Tambaram,Murder,9,Foggy,0,0,1,5.47,Low,Moderate,0.17,0,1
+CR000727,2019-06-18,08:48:01,8,Tuesday,6,2019,12.981891,80.238265,East,Besant Nagar,Vehicle-theft,6,Rainy,0,0,0,2.69,Low,Moderate,0.38,1,1
+CR000728,2024-05-11,12:12:38,12,Saturday,5,2024,12.98896,80.245315,South,Adyar,Eve-teasing,2,Clear,0,1,0,2.42,Low,Poor,0.33,1,1
+CR000729,2023-08-06,08:16:23,8,Sunday,8,2023,13.000111,80.239337,South,Guindy,Assault,6,Foggy,0,1,0,4.28,Medium,Good,0.31,1,1
+CR000730,2022-07-30,01:48:44,1,Saturday,7,2022,12.995091,80.206209,South,Velachery,Robbery,6,Clear,0,1,1,5.88,Medium,Moderate,0.16,0,1
+CR000731,2020-03-19,09:39:08,9,Thursday,3,2020,13.067578,80.290544,Central,Triplicane,Robbery,7,Clear,0,0,0,4.39,Very High,Moderate,0.22,0,1
+CR000732,2023-06-29,15:40:45,15,Thursday,6,2023,13.03713,80.278104,East,Marina,Vehicle-theft,5,Hot,0,0,0,0.56,Medium,Moderate,0.3,1,1
+CR000733,2023-04-04,02:32:27,2,Tuesday,4,2023,12.92055,80.13949,South,Tambaram,Kidnapping,9,Clear,0,0,1,5.67,Medium,Poor,0.1,0,1
+CR000734,2022-04-15,16:18:48,16,Friday,4,2022,13.083843,80.219876,West,Anna Nagar,Burglary,6,Hot,0,0,0,1.27,Very High,Good,0.39,1,1
+CR000735,2022-08-10,16:05:13,16,Wednesday,8,2022,13.065868,80.219116,Central,Nungambakkam,Fraud,7,Hot,0,0,0,1.52,High,Good,0.15,1,1
+CR000736,2019-02-02,05:00:30,5,Saturday,2,2019,13.118773,80.155331,West,Ambattur,Theft,3,Hot,0,1,1,1.88,High,Poor,0.11,1,1
+CR000737,2022-09-02,11:23:16,11,Friday,9,2022,13.057313,80.254135,East,Marina,Assault,9,Rainy,0,0,0,1.8,Medium,Poor,0.16,1,1
+CR000738,2024-12-14,17:44:26,17,Saturday,12,2024,12.996161,80.26407,East,Thiruvanmiyur,Burglary,5,Clear,0,1,0,1.13,Medium,Poor,0.12,1,1
+CR000739,2019-10-08,03:24:40,3,Tuesday,10,2019,13.094315,80.250393,Central,Egmore,Assault,8,Hot,0,0,1,4.0,Medium,Moderate,0.35,1,1
+CR000740,2022-04-07,20:52:19,20,Thursday,4,2022,13.05368,80.232744,Central,Nungambakkam,Fraud,7,Clear,0,0,1,5.45,High,Moderate,0.09,0,1
+CR000741,2019-10-05,00:04:10,0,Saturday,10,2019,13.06465,80.233914,Central,Nungambakkam,Vehicle-theft,6,Rainy,0,1,1,2.26,Medium,Poor,0.26,0,1
+CR000742,2021-05-28,14:09:54,14,Friday,5,2021,13.007012,80.275064,South,Adyar,Fraud,6,Hot,0,0,0,4.93,Medium,Poor,0.37,1,1
+CR000743,2019-08-23,16:18:45,16,Friday,8,2019,13.077194,80.267799,Central,Egmore,Drug-offense,6,Rainy,0,0,0,0.55,Medium,Moderate,0.3,0,1
+CR000744,2021-09-10,17:16:21,17,Friday,9,2021,13.070829,80.249834,Central,Egmore,Kidnapping,10,Clear,0,0,0,5.11,Low,Moderate,0.12,0,1
+CR000745,2019-08-11,22:24:51,22,Sunday,8,2019,13.087913,80.284338,North,Washermanpet,Theft,6,Foggy,0,1,1,4.36,High,Good,0.37,0,1
+CR000746,2019-09-19,16:42:17,16,Thursday,9,2019,13.123475,80.306038,North,Royapuram,Vehicle-theft,5,Hot,0,0,0,5.42,Medium,Moderate,0.37,0,1
+CR000747,2021-01-25,07:53:21,7,Monday,1,2021,13.08694,80.196167,West,Anna Nagar,Vehicle-theft,6,Rainy,0,0,0,0.94,Very High,Moderate,0.29,0,1
+CR000748,2023-11-28,04:54:45,4,Tuesday,11,2023,13.038708,80.240604,South,T.Nagar,Murder,8,Clear,0,0,1,4.65,Low,Moderate,0.19,1,1
+CR000749,2021-03-20,07:03:38,7,Saturday,3,2021,12.979754,80.24947,East,Thiruvanmiyur,Assault,5,Foggy,0,1,0,3.62,Medium,Good,0.28,0,1
+CR000750,2020-09-01,10:47:44,10,Tuesday,9,2020,13.027758,80.26221,East,Marina,Eve-teasing,5,Foggy,0,0,0,2.24,Low,Moderate,0.35,1,1
+CR000751,2021-11-16,07:09:19,7,Tuesday,11,2021,13.082447,80.289442,North,Royapuram,Drug-offense,9,Foggy,1,0,0,3.93,Low,Moderate,0.21,0,1
+CR000752,2024-12-12,09:34:46,9,Thursday,12,2024,13.033229,80.03716,West,Porur,Theft,3,Hot,0,0,0,2.22,Low,Poor,0.05,0,1
+CR000753,2021-07-31,11:51:45,11,Saturday,7,2021,13.163169,80.299432,North,Tiruvottiyur,Kidnapping,8,Clear,0,1,0,0.56,Low,Poor,0.16,0,1
+CR000754,2021-08-28,02:24:03,2,Saturday,8,2021,12.980752,80.247133,East,Thiruvanmiyur,Vehicle-theft,7,Clear,0,1,1,3.75,Low,Good,0.24,0,1
+CR000755,2021-10-03,18:11:00,18,Sunday,10,2021,12.997446,80.238204,South,Guindy,Burglary,7,Foggy,0,1,0,2.11,Medium,Good,0.24,0,1
+CR000756,2019-12-05,03:55:38,3,Thursday,12,2019,13.00307,80.27254,East,Besant Nagar,Burglary,5,Hot,0,0,1,0.86,Medium,Moderate,0.35,0,1
+CR000757,2024-03-06,09:08:19,9,Wednesday,3,2024,13.111256,80.131073,West,Ambattur,Murder,8,Rainy,0,0,0,3.39,Very High,Poor,0.18,0,1
+CR000758,2021-07-28,22:54:32,22,Wednesday,7,2021,13.052821,80.252832,Central,Egmore,Theft,6,Clear,0,0,1,4.13,Very High,Moderate,0.18,0,1
+CR000759,2023-11-03,15:04:29,15,Friday,11,2023,13.059342,80.194498,West,K.K. Nagar,Vehicle-theft,4,Rainy,0,0,0,5.18,Low,Poor,0.25,0,1
+CR000760,2020-01-15,09:18:33,9,Wednesday,1,2020,13.129022,80.29858,North,Washermanpet,Kidnapping,8,Clear,1,0,0,4.3,High,Poor,0.22,1,1
+CR000761,2020-07-24,12:48:21,12,Friday,7,2020,13.126666,80.241816,North,Perambur,Eve-teasing,5,Foggy,0,0,0,1.51,Medium,Poor,0.24,1,1
+CR000762,2022-02-02,05:36:19,5,Wednesday,2,2022,13.064143,80.232254,South,T.Nagar,Assault,6,Hot,0,0,1,5.26,High,Good,0.33,1,1
+CR000763,2024-03-03,20:00:14,20,Sunday,3,2024,13.016941,80.273807,East,Besant Nagar,Assault,9,Rainy,0,1,1,3.37,Low,Good,0.34,0,1
+CR000764,2021-05-15,00:12:38,0,Saturday,5,2021,13.045168,80.269525,Central,Mylapore,Murder,9,Hot,0,1,1,5.71,Low,Poor,0.37,1,1
+CR000765,2023-12-10,22:30:06,22,Sunday,12,2023,12.899689,80.130028,South,Tambaram,Vehicle-theft,7,Rainy,0,1,1,3.04,Medium,Good,0.08,1,1
+CR000766,2022-01-22,09:05:18,9,Saturday,1,2022,12.985779,80.273387,South,Adyar,Theft,3,Hot,0,1,0,4.73,Medium,Moderate,0.24,1,1
+CR000767,2020-06-08,13:26:49,13,Monday,6,2020,13.136531,80.243952,North,Perambur,Kidnapping,8,Clear,0,0,0,5.29,Medium,Moderate,0.32,0,1
+CR000768,2024-02-01,00:22:32,0,Thursday,2,2024,12.995968,80.261253,South,Adyar,Robbery,6,Foggy,0,0,1,3.45,Medium,Moderate,0.06,0,1
+CR000769,2022-02-16,04:10:59,4,Wednesday,2,2022,13.121086,80.319354,North,Royapuram,Fraud,6,Hot,0,0,1,3.4,Medium,Poor,0.23,1,1
+CR000770,2019-06-18,01:55:13,1,Tuesday,6,2019,13.047291,80.243452,Central,Nungambakkam,Kidnapping,8,Rainy,0,0,1,5.24,High,Moderate,0.19,0,1
+CR000771,2020-03-12,14:28:41,14,Thursday,3,2020,13.074481,80.232566,South,T.Nagar,Theft,6,Rainy,0,0,0,1.57,Medium,Moderate,0.4,0,1
+CR000772,2022-01-20,09:15:47,9,Thursday,1,2022,13.118158,80.280578,North,Washermanpet,Robbery,7,Clear,0,0,0,2.93,High,Moderate,0.29,0,1
+CR000773,2021-09-14,18:47:47,18,Tuesday,9,2021,13.011321,80.026924,West,Porur,Burglary,6,Clear,0,0,0,3.32,Low,Poor,0.09,0,1
+CR000774,2021-03-04,08:26:33,8,Thursday,3,2021,13.036484,80.073747,West,Porur,Assault,8,Hot,0,0,0,5.34,Medium,Moderate,0.24,0,1
+CR000775,2023-01-22,12:58:29,12,Sunday,1,2023,13.032472,80.291406,Central,Triplicane,Robbery,8,Hot,0,1,0,3.2,Very High,Poor,0.07,1,1
+CR000776,2020-10-21,05:44:12,5,Wednesday,10,2020,13.124096,80.298613,North,Washermanpet,Murder,10,Hot,1,0,1,0.91,Medium,Moderate,0.22,1,1
+CR000777,2021-12-10,03:36:00,3,Friday,12,2021,13.112329,80.139494,West,Ambattur,Eve-teasing,2,Rainy,0,0,1,3.2,Medium,Good,0.37,1,1
+CR000778,2024-12-06,13:34:55,13,Friday,12,2024,13.076355,80.257967,Central,Nungambakkam,Robbery,7,Hot,0,0,0,2.49,Very High,Moderate,0.34,0,1
+CR000779,2020-10-07,00:13:37,0,Wednesday,10,2020,13.111972,80.191461,West,Anna Nagar,Vehicle-theft,7,Rainy,0,0,1,4.1,High,Poor,0.22,1,1
+CR000780,2023-11-20,18:36:03,18,Monday,11,2023,13.042541,80.19444,West,K.K. Nagar,Drug-offense,6,Foggy,1,0,0,5.86,Low,Poor,0.34,1,1
+CR000781,2024-12-09,05:40:13,5,Monday,12,2024,12.986696,80.277563,East,Besant Nagar,Fraud,7,Foggy,0,0,1,3.86,Medium,Moderate,0.38,0,1
+CR000782,2024-06-10,15:32:12,15,Monday,6,2024,13.042717,80.221319,South,T.Nagar,Vehicle-theft,4,Rainy,0,0,0,3.79,Medium,Good,0.22,0,1
+CR000783,2022-02-16,08:50:58,8,Wednesday,2,2022,13.122159,80.136646,West,Ambattur,Burglary,7,Foggy,0,0,0,4.9,High,Poor,0.31,0,1
+CR000784,2023-06-08,19:10:19,19,Thursday,6,2023,13.014526,80.045598,West,Porur,Murder,10,Hot,0,0,1,1.95,Low,Poor,0.09,0,1
+CR000785,2019-12-27,14:22:57,14,Friday,12,2019,13.122162,80.291545,North,Royapuram,Fraud,6,Foggy,0,0,0,1.82,Medium,Moderate,0.3,0,1
+CR000786,2023-08-08,06:49:37,6,Tuesday,8,2023,13.069138,80.254669,Central,Egmore,Vehicle-theft,6,Rainy,0,0,0,1.29,Low,Good,0.09,0,1
+CR000787,2022-06-14,00:13:45,0,Tuesday,6,2022,13.070541,80.245987,Central,Nungambakkam,Kidnapping,9,Hot,0,0,1,5.75,Very High,Poor,0.31,0,1
+CR000788,2019-12-09,02:40:47,2,Monday,12,2019,13.036336,80.047397,West,Porur,Assault,6,Foggy,0,0,1,5.46,Medium,Good,0.18,0,1
+CR000789,2022-07-19,02:41:17,2,Tuesday,7,2022,13.120226,80.265981,North,Washermanpet,Drug-offense,9,Foggy,0,0,1,0.89,Medium,Good,0.07,0,1
+CR000790,2021-05-14,04:51:03,4,Friday,5,2021,13.086013,80.248409,Central,Triplicane,Eve-teasing,4,Hot,0,0,1,1.47,Medium,Moderate,0.15,1,1
+CR000791,2019-11-20,15:11:41,15,Wednesday,11,2019,12.995461,80.286904,East,Besant Nagar,Theft,6,Clear,1,0,0,1.61,Low,Good,0.15,0,1
+CR000792,2023-06-03,10:52:44,10,Saturday,6,2023,13.063173,80.192849,West,K.K. Nagar,Fraud,4,Rainy,0,1,0,4.76,Low,Poor,0.06,1,1
+CR000793,2022-12-11,00:39:12,0,Sunday,12,2022,12.92131,80.116181,South,Tambaram,Assault,9,Hot,0,1,1,5.29,Low,Poor,0.36,0,1
+CR000794,2024-08-05,14:16:18,14,Monday,8,2024,13.043613,80.200513,South,T.Nagar,Drug-offense,9,Foggy,0,0,0,2.82,Very High,Moderate,0.14,1,1
+CR000795,2024-12-04,20:04:19,20,Wednesday,12,2024,13.087153,80.216642,West,Anna Nagar,Assault,9,Hot,0,0,1,0.97,Very High,Poor,0.16,0,1
+CR000796,2019-08-25,05:42:45,5,Sunday,8,2019,13.02843,80.289484,Central,Triplicane,Eve-teasing,4,Foggy,0,1,1,2.99,Low,Good,0.36,0,1
+CR000797,2022-02-18,21:11:53,21,Friday,2,2022,13.033543,80.2567,South,T.Nagar,Assault,6,Foggy,0,0,1,1.79,Low,Poor,0.11,0,1
+CR000798,2022-11-05,12:13:43,12,Saturday,11,2022,12.963846,80.263212,East,Thiruvanmiyur,Vehicle-theft,4,Rainy,0,1,0,4.4,Medium,Moderate,0.19,1,1
+CR000799,2022-05-08,10:34:10,10,Sunday,5,2022,13.001725,80.260195,South,Adyar,Assault,7,Hot,0,1,0,4.42,Low,Poor,0.23,0,1
+CR000800,2019-08-03,11:25:27,11,Saturday,8,2019,13.105211,80.30651,North,Royapuram,Assault,5,Foggy,0,1,0,5.22,Low,Poor,0.17,1,1
+CR000801,2019-07-23,15:39:59,15,Tuesday,7,2019,13.098423,80.228246,North,Perambur,Fraud,7,Clear,0,0,0,2.08,Medium,Poor,0.35,0,1
+CR000802,2023-02-11,18:46:40,18,Saturday,2,2023,12.975776,80.241157,South,Velachery,Vehicle-theft,4,Rainy,0,1,0,1.83,Medium,Moderate,0.35,1,1
+CR000803,2021-05-17,13:03:39,13,Monday,5,2021,13.11452,80.286886,North,Washermanpet,Kidnapping,8,Clear,0,0,0,1.3,Low,Poor,0.3,0,1
+CR000804,2024-01-18,11:03:07,11,Thursday,1,2024,12.920357,80.129857,South,Tambaram,Theft,5,Clear,0,0,0,4.06,Medium,Moderate,0.06,0,1
+CR000805,2024-01-25,20:00:39,20,Thursday,1,2024,13.099663,80.246342,North,Perambur,Robbery,8,Foggy,0,0,1,4.3,Low,Moderate,0.13,0,1
+CR000806,2020-06-24,01:35:58,1,Wednesday,6,2020,13.11792,80.260459,North,Perambur,Drug-offense,6,Clear,0,0,1,1.02,Medium,Good,0.28,1,1
+CR000807,2020-06-15,04:49:41,4,Monday,6,2020,13.071887,80.258142,Central,Nungambakkam,Vehicle-theft,6,Rainy,0,0,1,5.84,Medium,Poor,0.07,1,1
+CR000808,2023-01-17,01:42:33,1,Tuesday,1,2023,13.055904,80.24571,Central,Nungambakkam,Murder,9,Rainy,0,0,1,4.75,High,Poor,0.09,1,1
+CR000809,2020-05-01,14:05:37,14,Friday,5,2020,13.004814,80.241021,South,Adyar,Eve-teasing,5,Rainy,0,0,0,3.49,Medium,Good,0.2,1,1
+CR000810,2020-01-06,10:13:43,10,Monday,1,2020,12.987836,80.197451,South,Guindy,Assault,7,Hot,0,0,0,4.83,High,Moderate,0.25,0,1
+CR000811,2023-01-06,00:22:46,0,Friday,1,2023,13.001587,80.247089,East,Thiruvanmiyur,Robbery,8,Foggy,0,0,1,4.85,Low,Good,0.25,1,1
+CR000812,2019-12-10,14:52:01,14,Tuesday,12,2019,13.07698,80.211424,West,Anna Nagar,Murder,10,Hot,0,0,0,1.21,Medium,Good,0.19,1,1
+CR000813,2021-12-06,10:12:35,10,Monday,12,2021,13.102545,80.307885,North,Royapuram,Vehicle-theft,6,Rainy,0,0,0,4.05,Low,Good,0.26,0,1
+CR000814,2024-10-28,03:52:36,3,Monday,10,2024,13.138496,80.142276,West,Ambattur,Robbery,6,Clear,0,0,1,4.76,High,Good,0.35,0,1
+CR000815,2024-09-29,21:04:25,21,Sunday,9,2024,13.079186,80.215388,Central,Nungambakkam,Burglary,8,Rainy,0,1,1,3.84,Low,Moderate,0.36,0,1
+CR000816,2022-11-30,05:32:30,5,Wednesday,11,2022,12.926401,80.14741,South,Tambaram,Fraud,5,Clear,0,0,1,3.99,Low,Moderate,0.39,0,1
+CR000817,2022-02-07,04:04:03,4,Monday,2,2022,13.126282,80.260743,North,Perambur,Kidnapping,10,Foggy,0,0,1,2.82,Medium,Poor,0.35,1,1
+CR000818,2022-10-31,15:19:56,15,Monday,10,2022,13.085916,80.224921,West,Anna Nagar,Assault,9,Foggy,0,0,0,4.63,High,Good,0.11,0,1
+CR000819,2024-07-25,02:03:00,2,Thursday,7,2024,13.103044,80.274867,North,Washermanpet,Assault,5,Foggy,0,0,1,1.61,Medium,Good,0.25,0,1
+CR000820,2021-08-28,03:54:44,3,Saturday,8,2021,13.015838,80.213449,South,Guindy,Kidnapping,8,Clear,0,1,1,5.69,Low,Moderate,0.32,1,1
+CR000821,2019-07-18,15:55:08,15,Thursday,7,2019,12.9772,80.209575,South,Guindy,Vehicle-theft,4,Rainy,0,0,0,5.54,Medium,Poor,0.33,0,1
+CR000822,2024-11-11,07:57:00,7,Monday,11,2024,13.040671,80.054846,West,Porur,Fraud,6,Rainy,0,0,0,1.25,Medium,Good,0.06,1,1
+CR000823,2023-06-09,09:42:37,9,Friday,6,2023,13.101541,80.16706,West,Ambattur,Fraud,7,Rainy,0,0,0,5.06,Low,Poor,0.1,0,1
+CR000824,2022-01-20,21:38:51,21,Thursday,1,2022,13.043036,80.230689,South,T.Nagar,Robbery,7,Foggy,0,0,1,2.21,Low,Poor,0.14,0,1
+CR000825,2020-08-04,16:08:59,16,Tuesday,8,2020,13.055438,80.231554,South,T.Nagar,Vehicle-theft,6,Rainy,0,0,0,5.89,High,Moderate,0.13,0,1
+CR000826,2023-09-16,06:44:04,6,Saturday,9,2023,13.043972,80.21844,South,T.Nagar,Vehicle-theft,4,Rainy,0,1,0,3.84,Very High,Moderate,0.17,1,1
+CR000827,2022-06-12,07:55:05,7,Sunday,6,2022,13.155479,80.302834,North,Tiruvottiyur,Drug-offense,9,Clear,0,1,0,2.91,Low,Poor,0.38,1,1
+CR000828,2023-05-21,06:23:39,6,Sunday,5,2023,13.110814,80.147837,West,Ambattur,Assault,5,Clear,0,1,0,1.14,Low,Good,0.21,1,1
+CR000829,2022-03-26,21:17:06,21,Saturday,3,2022,13.024005,80.040984,West,Porur,Fraud,7,Hot,0,1,1,1.62,Low,Good,0.2,1,1
+CR000830,2023-07-03,02:31:05,2,Monday,7,2023,13.061335,80.283178,Central,Triplicane,Drug-offense,9,Hot,0,0,1,1.06,Very High,Moderate,0.11,0,1
+CR000831,2020-04-14,17:26:07,17,Tuesday,4,2020,13.087912,80.303859,North,Washermanpet,Eve-teasing,4,Rainy,0,0,0,1.48,High,Moderate,0.11,0,1
+CR000832,2022-06-16,07:59:37,7,Thursday,6,2022,13.048153,80.225089,South,T.Nagar,Burglary,5,Clear,0,0,0,0.81,High,Good,0.16,1,1
+CR000833,2023-06-19,21:49:11,21,Monday,6,2023,13.056129,80.259635,Central,Nungambakkam,Eve-teasing,4,Rainy,0,0,1,5.19,Medium,Poor,0.05,0,1
+CR000834,2022-03-15,02:06:04,2,Tuesday,3,2022,13.13615,80.278203,North,Royapuram,Kidnapping,9,Foggy,0,0,1,2.52,Low,Poor,0.1,0,1
+CR000835,2021-03-02,11:11:19,11,Tuesday,3,2021,12.961749,80.205895,South,Velachery,Drug-offense,6,Clear,0,0,0,3.44,Low,Poor,0.17,1,1
+CR000836,2024-01-26,19:59:33,19,Friday,1,2024,13.105495,80.248857,North,Perambur,Drug-offense,8,Rainy,0,0,1,4.11,Low,Good,0.14,1,1
+CR000837,2019-09-28,06:37:39,6,Saturday,9,2019,13.113102,80.272124,North,Washermanpet,Robbery,8,Hot,0,1,0,3.06,Medium,Moderate,0.31,0,1
+CR000838,2020-09-14,21:49:05,21,Monday,9,2020,12.980792,80.254637,South,Adyar,Theft,3,Foggy,0,0,1,4.37,Low,Poor,0.08,1,1
+CR000839,2023-12-28,05:42:14,5,Thursday,12,2023,13.101725,80.288601,North,Royapuram,Eve-teasing,2,Rainy,0,0,1,2.81,Medium,Good,0.28,0,1
+CR000840,2023-08-16,16:04:19,16,Wednesday,8,2023,13.06976,80.208632,West,Anna Nagar,Drug-offense,7,Rainy,0,0,0,0.82,Medium,Good,0.27,1,1
+CR000841,2019-02-09,10:50:41,10,Saturday,2,2019,13.134911,80.134835,West,Ambattur,Theft,4,Rainy,0,1,0,0.94,Low,Moderate,0.14,0,1
+CR000842,2019-05-13,22:40:03,22,Monday,5,2019,13.052843,80.277231,Central,Mylapore,Murder,8,Hot,0,0,1,4.58,Medium,Moderate,0.06,0,1
+CR000843,2022-02-22,23:54:00,23,Tuesday,2,2022,13.062454,80.214384,West,K.K. Nagar,Theft,4,Clear,0,0,1,5.85,Medium,Moderate,0.31,0,1
+CR000844,2023-08-24,18:13:29,18,Thursday,8,2023,13.003209,80.235309,South,Guindy,Vehicle-theft,4,Clear,0,0,0,4.02,Very High,Good,0.33,0,1
+CR000845,2022-05-30,02:06:46,2,Monday,5,2022,13.07404,80.235797,West,Anna Nagar,Burglary,7,Rainy,0,0,1,3.42,High,Moderate,0.28,0,1
+CR000846,2022-10-23,03:11:47,3,Sunday,10,2022,13.114598,80.318759,North,Washermanpet,Fraud,5,Hot,1,1,1,2.42,Low,Poor,0.08,1,1
+CR000847,2024-06-26,16:45:28,16,Wednesday,6,2024,13.05042,80.247826,South,T.Nagar,Robbery,6,Hot,0,0,0,3.88,Very High,Moderate,0.27,0,1
+CR000848,2021-01-17,14:03:04,14,Sunday,1,2021,13.089451,80.260621,Central,Egmore,Drug-offense,8,Rainy,0,1,0,3.88,High,Moderate,0.32,0,1
+CR000849,2019-10-13,23:20:54,23,Sunday,10,2019,13.0067,80.274796,South,Adyar,Drug-offense,6,Hot,0,1,1,1.03,Medium,Good,0.2,0,1
+CR000850,2020-02-07,06:45:13,6,Friday,2,2020,12.976708,80.229986,South,Velachery,Drug-offense,6,Foggy,0,0,0,5.63,Medium,Moderate,0.11,1,1
+CR000851,2023-08-08,05:01:12,5,Tuesday,8,2023,13.121385,80.302883,North,Royapuram,Kidnapping,8,Hot,0,0,1,1.51,Low,Moderate,0.31,0,1
+CR000852,2022-12-06,06:18:05,6,Tuesday,12,2022,13.023858,80.270004,Central,Mylapore,Fraud,4,Rainy,0,0,0,2.2,Low,Poor,0.17,0,1
+CR000853,2021-04-24,17:41:09,17,Saturday,4,2021,13.022111,80.204009,South,T.Nagar,Theft,4,Clear,0,1,0,3.36,Low,Good,0.39,0,1
+CR000854,2022-07-14,21:21:47,21,Thursday,7,2022,13.030484,80.228956,South,T.Nagar,Robbery,6,Clear,0,0,1,1.7,High,Moderate,0.31,0,1
+CR000855,2020-06-25,21:48:55,21,Thursday,6,2020,13.023575,80.276706,Central,Mylapore,Drug-offense,7,Rainy,0,0,1,5.66,Low,Good,0.33,0,1
+CR000856,2022-09-09,18:21:05,18,Friday,9,2022,13.043648,80.281508,Central,Triplicane,Robbery,8,Rainy,0,0,0,2.67,Medium,Good,0.39,0,1
+CR000857,2020-04-04,01:33:36,1,Saturday,4,2020,13.017799,80.279662,East,Besant Nagar,Assault,6,Foggy,0,1,1,1.55,Low,Good,0.11,0,1
+CR000858,2021-05-19,17:49:25,17,Wednesday,5,2021,13.103502,80.282187,North,Royapuram,Burglary,6,Clear,0,0,0,3.37,Low,Good,0.14,1,1
+CR000859,2023-05-30,01:04:52,1,Tuesday,5,2023,13.082728,80.272016,Central,Egmore,Burglary,5,Hot,0,0,1,4.75,Low,Moderate,0.23,1,1
+CR000860,2021-11-25,00:48:32,0,Thursday,11,2021,12.974991,80.266469,East,Thiruvanmiyur,Assault,9,Hot,1,0,1,3.19,Low,Good,0.18,0,1
+CR000861,2022-12-11,02:41:29,2,Sunday,12,2022,13.095668,80.242009,North,Perambur,Drug-offense,7,Foggy,0,1,1,2.6,Low,Moderate,0.07,1,1
+CR000862,2024-04-12,03:58:24,3,Friday,4,2024,13.002663,80.235048,South,Guindy,Kidnapping,9,Rainy,0,0,1,4.39,Low,Poor,0.17,0,1
+CR000863,2021-05-14,03:20:04,3,Friday,5,2021,12.98343,80.242492,South,Adyar,Drug-offense,9,Clear,0,0,1,4.43,Low,Moderate,0.18,0,1
+CR000864,2023-08-14,11:10:06,11,Monday,8,2023,13.03622,80.190087,West,K.K. Nagar,Murder,10,Foggy,0,0,0,3.81,Low,Poor,0.09,0,1
+CR000865,2024-05-08,20:03:48,20,Wednesday,5,2024,13.176178,80.314961,North,Tiruvottiyur,Eve-teasing,3,Clear,0,0,1,0.51,Low,Good,0.23,1,1
+CR000866,2021-01-13,17:41:43,17,Wednesday,1,2021,12.998023,80.256617,East,Besant Nagar,Assault,5,Rainy,1,0,0,3.71,Low,Good,0.25,0,1
+CR000867,2023-08-15,19:15:17,19,Tuesday,8,2023,13.17954,80.311722,North,Tiruvottiyur,Robbery,8,Foggy,0,0,1,5.16,Low,Moderate,0.1,1,1
+CR000868,2019-02-09,05:31:20,5,Saturday,2,2019,12.971816,80.225621,South,Velachery,Eve-teasing,3,Rainy,0,1,1,2.5,Medium,Poor,0.22,0,1
+CR000869,2021-12-25,04:04:59,4,Saturday,12,2021,13.005696,80.269309,South,Adyar,Robbery,7,Foggy,0,1,1,0.8,Low,Moderate,0.25,1,1
+CR000870,2021-11-22,22:11:39,22,Monday,11,2021,12.999836,80.25344,South,Adyar,Vehicle-theft,5,Foggy,1,0,1,3.26,Medium,Good,0.31,1,1
+CR000871,2019-07-29,07:39:56,7,Monday,7,2019,13.088844,80.29283,Central,Triplicane,Vehicle-theft,6,Rainy,0,0,0,4.24,Very High,Moderate,0.17,0,1
+CR000872,2021-01-06,05:20:42,5,Wednesday,1,2021,12.995648,80.248867,South,Velachery,Vehicle-theft,6,Clear,0,0,1,4.87,Medium,Moderate,0.06,1,1
+CR000873,2019-03-06,01:20:10,1,Wednesday,3,2019,13.025097,80.228945,South,Velachery,Robbery,7,Foggy,0,0,1,5.17,Low,Moderate,0.15,0,1
+CR000874,2024-04-26,22:21:56,22,Friday,4,2024,13.040217,80.222343,South,T.Nagar,Robbery,6,Hot,0,0,1,3.91,Medium,Good,0.1,1,1
+CR000875,2020-05-03,19:36:55,19,Sunday,5,2020,13.119967,80.277788,North,Royapuram,Fraud,4,Foggy,0,1,1,3.11,Medium,Good,0.08,0,1
+CR000876,2021-06-15,19:11:49,19,Tuesday,6,2021,13.059402,80.205337,West,K.K. Nagar,Fraud,5,Hot,0,0,1,4.74,Medium,Good,0.12,1,1
+CR000877,2020-06-16,20:33:54,20,Tuesday,6,2020,13.164144,80.308347,North,Tiruvottiyur,Eve-teasing,2,Foggy,0,0,1,0.95,Medium,Moderate,0.1,1,1
+CR000878,2024-03-17,23:09:53,23,Sunday,3,2024,13.042602,80.250214,Central,Mylapore,Eve-teasing,3,Hot,0,1,1,3.05,Medium,Good,0.19,0,1
+CR000879,2020-08-03,15:14:22,15,Monday,8,2020,12.999618,80.260049,South,Adyar,Murder,8,Rainy,0,0,0,2.08,Medium,Good,0.29,1,1
+CR000880,2020-12-16,17:30:49,17,Wednesday,12,2020,12.954628,80.136203,South,Tambaram,Eve-teasing,5,Clear,0,0,0,0.82,Low,Good,0.13,0,1
+CR000881,2023-10-09,10:11:17,10,Monday,10,2023,13.055462,80.07344,West,Porur,Robbery,6,Rainy,0,0,0,4.29,Low,Poor,0.08,0,1
+CR000882,2022-09-28,15:47:46,15,Wednesday,9,2022,13.105196,80.252701,North,Perambur,Theft,4,Rainy,0,0,0,4.42,Medium,Moderate,0.13,0,1
+CR000883,2024-03-14,07:19:59,7,Thursday,3,2024,13.119254,80.310226,North,Royapuram,Drug-offense,8,Clear,0,0,0,4.7,Low,Poor,0.36,1,1
+CR000884,2022-11-30,06:54:18,6,Wednesday,11,2022,13.085468,80.132393,West,Ambattur,Assault,9,Hot,0,0,0,3.79,Medium,Moderate,0.26,0,1
+CR000885,2019-12-23,14:20:52,14,Monday,12,2019,12.976115,80.263622,East,Thiruvanmiyur,Burglary,6,Hot,0,0,0,5.94,Low,Moderate,0.25,1,1
+CR000886,2023-09-03,02:57:40,2,Sunday,9,2023,13.052229,80.169274,West,K.K. Nagar,Robbery,8,Hot,0,1,1,4.14,Low,Moderate,0.14,0,1
+CR000887,2023-03-09,15:54:40,15,Thursday,3,2023,13.013998,80.226753,South,T.Nagar,Vehicle-theft,4,Rainy,0,0,0,1.79,Very High,Poor,0.08,0,1
+CR000888,2022-07-12,04:05:17,4,Tuesday,7,2022,13.088944,80.319886,North,Royapuram,Drug-offense,7,Foggy,0,0,1,1.86,Medium,Good,0.19,0,1
+CR000889,2020-08-09,16:38:54,16,Sunday,8,2020,13.008344,80.294625,East,Besant Nagar,Kidnapping,10,Rainy,0,1,0,5.0,Low,Good,0.28,1,1
+CR000890,2019-08-13,13:19:09,13,Tuesday,8,2019,13.009984,80.239872,South,Adyar,Fraud,7,Hot,0,0,0,4.28,Medium,Good,0.25,1,1
+CR000891,2020-01-05,07:46:24,7,Sunday,1,2020,13.064643,80.207149,West,K.K. Nagar,Robbery,7,Hot,0,1,0,3.6,Medium,Good,0.17,1,1
+CR000892,2019-12-04,18:27:35,18,Wednesday,12,2019,13.099995,80.288451,North,Washermanpet,Kidnapping,8,Hot,0,0,0,3.71,Low,Moderate,0.32,1,1
+CR000893,2021-09-16,09:28:47,9,Thursday,9,2021,12.982819,80.219528,South,Guindy,Vehicle-theft,6,Foggy,0,0,0,1.75,High,Good,0.21,0,1
+CR000894,2024-11-23,22:43:12,22,Saturday,11,2024,13.011493,80.2747,South,Adyar,Theft,4,Hot,1,1,1,5.85,Medium,Good,0.27,1,1
+CR000895,2021-03-01,00:59:41,0,Monday,3,2021,13.0594,80.21889,Central,Nungambakkam,Eve-teasing,2,Foggy,0,0,1,0.68,Low,Poor,0.36,1,1
+CR000896,2019-01-09,04:28:24,4,Wednesday,1,2019,12.991598,80.248178,South,Adyar,Vehicle-theft,5,Rainy,0,0,1,4.44,Medium,Poor,0.31,0,1
+CR000897,2019-04-11,20:31:08,20,Thursday,4,2019,13.030911,80.227422,South,T.Nagar,Murder,9,Rainy,0,0,1,2.6,High,Good,0.29,0,1
+CR000898,2023-12-28,18:23:37,18,Thursday,12,2023,13.045457,80.181593,West,K.K. Nagar,Theft,4,Foggy,0,0,0,2.43,Low,Good,0.28,1,1
+CR000899,2020-04-03,15:32:58,15,Friday,4,2020,12.933466,80.120636,South,Tambaram,Robbery,6,Clear,0,0,0,3.39,Medium,Poor,0.26,0,1
+CR000900,2021-06-29,11:57:44,11,Tuesday,6,2021,13.034326,80.051853,West,Porur,Vehicle-theft,6,Foggy,0,0,0,5.5,Low,Good,0.06,0,1
+CR000901,2020-08-23,20:27:06,20,Sunday,8,2020,13.055866,80.287501,East,Marina,Fraud,5,Hot,0,1,1,4.97,Low,Good,0.12,1,1
+CR000902,2020-12-31,18:05:20,18,Thursday,12,2020,12.982939,80.225013,South,Guindy,Burglary,5,Rainy,1,0,0,4.89,High,Good,0.39,0,1
+CR000903,2020-11-01,06:41:07,6,Sunday,11,2020,13.040451,80.249521,Central,Nungambakkam,Vehicle-theft,7,Hot,0,1,0,3.71,Medium,Good,0.39,0,1
+CR000904,2020-06-09,05:45:28,5,Tuesday,6,2020,13.062941,80.286915,East,Marina,Robbery,7,Clear,0,0,1,2.2,Medium,Good,0.3,0,1
+CR000905,2024-12-04,01:17:15,1,Wednesday,12,2024,13.01392,80.245044,East,Besant Nagar,Fraud,6,Hot,0,0,1,4.38,Low,Good,0.09,1,1
+CR000906,2024-09-09,08:28:07,8,Monday,9,2024,13.175824,80.303525,North,Tiruvottiyur,Eve-teasing,5,Rainy,0,0,0,2.76,Medium,Good,0.18,0,1
+CR000907,2020-10-18,04:31:34,4,Sunday,10,2020,13.103403,80.285858,North,Royapuram,Murder,9,Hot,1,1,1,4.65,Medium,Poor,0.06,0,1
+CR000908,2020-07-16,11:58:45,11,Thursday,7,2020,13.073533,80.261806,Central,Egmore,Fraud,7,Foggy,0,0,0,2.11,Medium,Moderate,0.36,1,1
+CR000909,2021-02-21,02:08:00,2,Sunday,2,2021,13.031454,80.182148,West,K.K. Nagar,Fraud,5,Clear,0,1,1,3.12,Medium,Moderate,0.28,1,1
+CR000910,2021-08-11,11:35:17,11,Wednesday,8,2021,13.000971,80.230818,South,Adyar,Murder,8,Rainy,0,0,0,5.34,Medium,Moderate,0.19,0,1
+CR000911,2022-02-28,19:44:31,19,Monday,2,2022,13.028202,80.264648,South,T.Nagar,Robbery,7,Clear,0,0,1,3.97,High,Moderate,0.25,0,1
+CR000912,2020-11-09,15:54:41,15,Monday,11,2020,13.106875,80.158371,West,Ambattur,Kidnapping,10,Hot,0,0,0,0.61,Low,Poor,0.23,1,1
+CR000913,2021-05-09,15:55:32,15,Sunday,5,2021,13.005638,80.269287,South,Adyar,Assault,9,Clear,0,1,0,3.65,Medium,Good,0.29,0,1
+CR000914,2023-08-17,11:19:01,11,Thursday,8,2023,13.027472,80.283361,Central,Mylapore,Murder,10,Rainy,0,0,0,3.49,Medium,Poor,0.26,1,1
+CR000915,2021-05-17,05:28:36,5,Monday,5,2021,13.014366,80.24863,South,Adyar,Eve-teasing,2,Hot,0,0,1,4.98,Low,Poor,0.21,1,1
+CR000916,2023-06-14,20:00:16,20,Wednesday,6,2023,13.098049,80.194741,West,Anna Nagar,Assault,6,Hot,0,0,1,0.88,High,Poor,0.39,1,1
+CR000917,2019-09-22,18:48:38,18,Sunday,9,2019,12.993935,80.212197,South,Velachery,Fraud,6,Rainy,0,1,0,0.59,Low,Moderate,0.27,1,1
+CR000918,2019-08-05,20:08:40,20,Monday,8,2019,12.978026,80.203974,South,Velachery,Fraud,7,Hot,0,0,1,4.34,Low,Moderate,0.05,0,1
+CR000919,2024-12-10,12:13:24,12,Tuesday,12,2024,13.050402,80.279652,Central,Mylapore,Fraud,6,Foggy,0,0,0,1.39,Low,Good,0.16,0,1
+CR000920,2019-07-21,02:02:58,2,Sunday,7,2019,13.000558,80.270218,East,Besant Nagar,Murder,10,Foggy,0,1,1,2.76,Low,Poor,0.25,0,1
+CR000921,2024-10-20,02:10:08,2,Sunday,10,2024,13.073869,80.202267,West,Anna Nagar,Theft,5,Foggy,1,1,1,4.89,Low,Poor,0.18,0,1
+CR000922,2022-11-04,23:24:42,23,Friday,11,2022,13.06168,80.273754,Central,Triplicane,Vehicle-theft,7,Rainy,0,0,1,2.34,Very High,Moderate,0.07,1,1
+CR000923,2024-06-19,01:29:24,1,Wednesday,6,2024,13.036494,80.273845,Central,Egmore,Vehicle-theft,7,Clear,0,0,1,1.42,High,Poor,0.14,1,1
+CR000924,2021-01-07,06:32:45,6,Thursday,1,2021,13.04607,80.278569,Central,Mylapore,Assault,6,Clear,0,0,0,0.9,Medium,Moderate,0.14,0,1
+CR000925,2023-07-18,23:55:24,23,Tuesday,7,2023,13.056917,80.284962,Central,Triplicane,Robbery,8,Clear,0,0,1,2.15,High,Poor,0.32,1,1
+CR000926,2021-12-14,11:36:31,11,Tuesday,12,2021,13.040698,80.042847,West,Porur,Assault,5,Hot,0,0,0,2.99,Low,Moderate,0.31,1,1
+CR000927,2020-04-19,05:23:13,5,Sunday,4,2020,13.034664,80.214236,West,K.K. Nagar,Vehicle-theft,6,Rainy,0,1,1,2.23,Medium,Poor,0.26,0,1
+CR000928,2022-01-25,05:24:31,5,Tuesday,1,2022,12.97792,80.225768,South,Velachery,Assault,5,Foggy,0,0,1,2.63,Medium,Poor,0.17,0,1
+CR000929,2019-10-13,20:56:48,20,Sunday,10,2019,12.924026,80.132111,South,Tambaram,Assault,9,Clear,0,1,1,4.45,Medium,Poor,0.11,0,1
+CR000930,2020-08-19,03:01:44,3,Wednesday,8,2020,13.032343,80.202987,West,K.K. Nagar,Burglary,7,Rainy,0,0,1,5.08,Medium,Good,0.28,1,1
+CR000931,2024-11-13,15:23:25,15,Wednesday,11,2024,13.170356,80.302129,North,Tiruvottiyur,Burglary,7,Foggy,0,0,0,3.67,Medium,Moderate,0.26,1,1
+CR000932,2024-01-07,19:32:43,19,Sunday,1,2024,13.132387,80.2402,North,Perambur,Burglary,7,Foggy,0,1,1,5.55,Low,Moderate,0.1,1,1
+CR000933,2021-07-31,15:31:35,15,Saturday,7,2021,13.085506,80.23427,Central,Egmore,Burglary,6,Clear,0,1,0,5.6,High,Moderate,0.23,1,1
+CR000934,2021-10-11,11:49:56,11,Monday,10,2021,13.028293,80.206769,West,K.K. Nagar,Burglary,6,Clear,0,0,0,4.56,Medium,Poor,0.09,0,1
+CR000935,2023-11-24,14:38:20,14,Friday,11,2023,13.001945,80.263324,South,Adyar,Drug-offense,8,Clear,1,0,0,3.22,Low,Good,0.23,0,1
+CR000936,2020-03-07,14:45:33,14,Saturday,3,2020,13.059967,80.26851,Central,Mylapore,Assault,8,Hot,0,1,0,3.52,Low,Poor,0.25,0,1
+CR000937,2024-10-18,12:57:18,12,Friday,10,2024,12.946091,80.13071,South,Tambaram,Robbery,8,Hot,1,0,0,4.78,Low,Good,0.23,1,1
+CR000938,2023-10-29,22:52:50,22,Sunday,10,2023,12.988925,80.279582,East,Thiruvanmiyur,Murder,9,Foggy,0,1,1,5.68,Low,Poor,0.09,1,1
+CR000939,2023-03-10,10:29:05,10,Friday,3,2023,13.020765,80.262628,East,Besant Nagar,Assault,9,Hot,0,0,0,5.16,Medium,Good,0.32,0,1
+CR000940,2020-06-23,15:38:31,15,Tuesday,6,2020,13.041139,80.281247,Central,Triplicane,Kidnapping,10,Foggy,0,0,0,0.69,Low,Poor,0.11,1,1
+CR000941,2020-05-14,20:12:55,20,Thursday,5,2020,13.067863,80.241322,Central,Nungambakkam,Fraud,6,Rainy,0,0,1,3.64,Low,Poor,0.32,1,1
+CR000942,2019-12-01,17:56:24,17,Sunday,12,2019,13.070611,80.293621,Central,Triplicane,Vehicle-theft,6,Rainy,0,1,0,2.43,Medium,Poor,0.35,1,1
+CR000943,2019-02-14,07:26:30,7,Thursday,2,2019,13.002183,80.247427,South,Adyar,Burglary,6,Clear,0,0,0,4.16,Low,Moderate,0.17,1,1
+CR000944,2021-12-10,10:57:20,10,Friday,12,2021,12.953176,80.232196,South,Velachery,Murder,9,Clear,0,0,0,1.07,Low,Good,0.38,0,1
+CR000945,2024-10-22,07:11:12,7,Tuesday,10,2024,13.006475,80.228836,East,Besant Nagar,Murder,10,Rainy,1,0,0,0.9,Medium,Good,0.05,0,1
+CR000946,2020-04-07,03:30:00,3,Tuesday,4,2020,13.076972,80.295781,Central,Triplicane,Burglary,5,Clear,0,0,1,1.81,Low,Moderate,0.21,1,1
+CR000947,2022-02-23,20:51:46,20,Wednesday,2,2022,13.126223,80.261973,North,Washermanpet,Fraud,6,Foggy,0,0,1,1.59,Very High,Moderate,0.36,1,1
+CR000948,2019-06-16,08:12:31,8,Sunday,6,2019,13.057329,80.276098,East,Marina,Assault,5,Rainy,0,1,0,1.13,Medium,Good,0.13,0,1
+CR000949,2022-10-01,06:34:23,6,Saturday,10,2022,13.032467,80.21632,South,T.Nagar,Vehicle-theft,7,Rainy,0,1,0,1.25,Low,Poor,0.39,0,1
+CR000950,2020-06-30,16:54:02,16,Tuesday,6,2020,13.05633,80.259057,East,Marina,Robbery,7,Clear,0,0,0,4.84,Low,Poor,0.33,1,1
+CR000951,2023-08-28,09:03:11,9,Monday,8,2023,13.101319,80.268806,North,Washermanpet,Vehicle-theft,5,Clear,0,0,0,0.97,Low,Good,0.21,1,1
+CR000952,2019-04-16,10:39:33,10,Tuesday,4,2019,12.989559,80.276618,East,Besant Nagar,Vehicle-theft,6,Hot,0,0,0,4.02,Medium,Moderate,0.15,1,1
+CR000953,2020-03-10,15:00:55,15,Tuesday,3,2020,13.024065,80.245903,South,Adyar,Burglary,6,Clear,0,0,0,2.85,Medium,Good,0.19,1,1
+CR000954,2022-05-11,05:06:27,5,Wednesday,5,2022,13.016262,80.254478,East,Besant Nagar,Kidnapping,9,Foggy,0,0,1,2.01,Low,Moderate,0.17,1,1
+CR000955,2023-05-03,22:06:19,22,Wednesday,5,2023,13.155095,80.284032,North,Tiruvottiyur,Fraud,7,Foggy,0,0,1,1.16,Low,Good,0.16,1,1
+CR000956,2020-11-24,11:32:20,11,Tuesday,11,2020,13.046691,80.277854,Central,Triplicane,Burglary,6,Clear,1,0,0,5.86,Low,Poor,0.3,0,1
+CR000957,2019-09-17,17:24:48,17,Tuesday,9,2019,13.052333,80.251711,Central,Triplicane,Burglary,5,Clear,0,0,0,0.78,Very High,Good,0.14,0,1
+CR000958,2024-11-03,20:11:56,20,Sunday,11,2024,13.041574,80.261781,Central,Mylapore,Assault,5,Clear,0,1,1,1.37,Medium,Moderate,0.09,1,1
+CR000959,2020-03-25,20:03:07,20,Wednesday,3,2020,13.072202,80.293296,Central,Triplicane,Kidnapping,8,Hot,0,0,1,0.99,High,Moderate,0.27,1,1
+CR000960,2021-10-14,13:28:08,13,Thursday,10,2021,12.981973,80.28087,East,Thiruvanmiyur,Fraud,6,Rainy,0,0,0,1.5,Low,Poor,0.21,1,1
+CR000961,2022-09-27,12:39:40,12,Tuesday,9,2022,13.036556,80.241658,South,T.Nagar,Theft,6,Clear,0,0,0,3.26,Medium,Poor,0.25,0,1
+CR000962,2024-06-22,16:02:28,16,Saturday,6,2024,13.01219,80.265162,East,Besant Nagar,Assault,7,Clear,0,1,0,4.25,Medium,Good,0.28,1,1
+CR000963,2024-02-25,20:53:39,20,Sunday,2,2024,12.910162,80.139662,South,Tambaram,Assault,7,Hot,0,1,1,2.7,Low,Poor,0.21,1,1
+CR000964,2024-12-07,18:25:26,18,Saturday,12,2024,13.115287,80.315641,North,Royapuram,Vehicle-theft,4,Rainy,0,1,0,1.56,Low,Moderate,0.21,0,1
+CR000965,2024-09-28,23:26:12,23,Saturday,9,2024,13.040619,80.211952,West,K.K. Nagar,Theft,3,Hot,0,1,1,2.09,Low,Poor,0.2,1,1
+CR000966,2020-08-19,11:12:05,11,Wednesday,8,2020,13.124839,80.123502,West,Ambattur,Assault,7,Rainy,0,0,0,4.14,Medium,Good,0.34,1,1
+CR000967,2023-08-31,21:54:54,21,Thursday,8,2023,13.054323,80.293352,East,Marina,Kidnapping,9,Clear,0,0,1,1.34,Low,Poor,0.29,1,1
+CR000968,2021-12-08,21:56:20,21,Wednesday,12,2021,13.04978,80.263089,Central,Triplicane,Assault,9,Clear,0,0,1,1.51,Medium,Poor,0.31,1,1
+CR000969,2023-10-06,00:00:31,0,Friday,10,2023,13.119389,80.2752,North,Washermanpet,Vehicle-theft,5,Foggy,0,0,1,3.93,Low,Poor,0.08,1,1
+CR000970,2020-11-15,04:02:01,4,Sunday,11,2020,13.052933,80.263894,East,Marina,Vehicle-theft,6,Foggy,1,1,1,3.76,Low,Moderate,0.09,1,1
+CR000971,2021-01-16,04:20:23,4,Saturday,1,2021,13.114833,80.152088,West,Ambattur,Theft,5,Clear,1,1,1,0.59,Medium,Moderate,0.26,1,1
+CR000972,2024-12-21,10:47:27,10,Saturday,12,2024,13.019438,80.055005,West,Porur,Assault,5,Hot,0,1,0,2.03,Medium,Poor,0.21,1,1
+CR000973,2019-09-16,06:20:09,6,Monday,9,2019,13.081496,80.216333,West,Anna Nagar,Drug-offense,9,Rainy,0,0,0,2.8,Low,Moderate,0.18,1,1
+CR000974,2022-01-25,06:28:44,6,Tuesday,1,2022,13.051569,80.269717,Central,Mylapore,Theft,6,Rainy,0,0,0,1.78,Medium,Poor,0.24,1,1
+CR000975,2022-04-04,16:12:44,16,Monday,4,2022,12.970615,80.236972,East,Thiruvanmiyur,Drug-offense,8,Foggy,0,0,0,1.17,Medium,Moderate,0.2,1,1
+CR000976,2019-05-07,11:51:56,11,Tuesday,5,2019,13.092991,80.20039,West,Anna Nagar,Fraud,6,Foggy,0,0,0,5.89,Low,Poor,0.16,1,1
+CR000977,2019-02-14,03:05:02,3,Thursday,2,2019,12.902346,80.155631,South,Tambaram,Robbery,8,Hot,0,0,1,3.23,Medium,Poor,0.31,0,1
+CR000978,2019-11-03,07:54:25,7,Sunday,11,2019,13.018887,80.276701,Central,Mylapore,Kidnapping,10,Foggy,0,1,0,1.52,Low,Good,0.07,1,1
+CR000979,2023-04-26,07:17:30,7,Wednesday,4,2023,13.021873,80.24191,Central,Mylapore,Theft,5,Hot,0,0,0,5.08,Medium,Poor,0.13,0,1
+CR000980,2022-03-24,23:19:16,23,Thursday,3,2022,13.124369,80.291756,North,Washermanpet,Fraud,5,Rainy,0,0,1,2.1,High,Poor,0.2,0,1
+CR000981,2021-05-02,13:46:57,13,Sunday,5,2021,13.060125,80.211386,West,K.K. Nagar,Eve-teasing,5,Clear,0,1,0,4.87,Low,Moderate,0.16,0,1
+CR000982,2021-07-18,07:58:42,7,Sunday,7,2021,12.926664,80.108151,South,Tambaram,Assault,6,Foggy,0,1,0,1.02,Medium,Poor,0.13,1,1
+CR000983,2020-10-04,02:37:36,2,Sunday,10,2020,13.042074,80.219734,Central,Nungambakkam,Burglary,5,Foggy,0,1,1,3.5,Low,Moderate,0.3,0,1
+CR000984,2019-02-23,15:03:46,15,Saturday,2,2019,13.005751,80.224255,South,Guindy,Kidnapping,8,Clear,0,1,0,2.7,Very High,Poor,0.27,1,1
+CR000985,2019-07-05,18:29:58,18,Friday,7,2019,13.124551,80.304249,North,Royapuram,Robbery,7,Hot,0,0,0,3.15,Medium,Moderate,0.05,1,1
+CR000986,2023-03-13,15:18:22,15,Monday,3,2023,13.103073,80.291234,North,Washermanpet,Fraud,4,Foggy,0,0,0,4.29,High,Moderate,0.22,0,1
+CR000987,2020-07-21,17:44:01,17,Tuesday,7,2020,13.002968,80.238601,South,Adyar,Drug-offense,6,Foggy,0,0,0,4.73,Medium,Poor,0.27,0,1
+CR000988,2020-02-15,01:38:31,1,Saturday,2,2020,13.045911,80.220108,South,Guindy,Eve-teasing,2,Rainy,0,1,1,2.19,Very High,Good,0.18,0,1
+CR000989,2023-01-06,17:22:49,17,Friday,1,2023,13.061773,80.281348,Central,Triplicane,Assault,5,Rainy,0,0,0,4.17,Very High,Moderate,0.13,0,1
+CR000990,2019-04-26,16:26:47,16,Friday,4,2019,13.159142,80.290548,North,Tiruvottiyur,Robbery,8,Hot,0,0,0,4.49,Medium,Moderate,0.28,0,1
+CR000991,2020-08-23,09:59:09,9,Sunday,8,2020,12.997631,80.252766,East,Thiruvanmiyur,Vehicle-theft,7,Rainy,0,1,0,1.51,Low,Moderate,0.37,0,1
+CR000992,2022-09-22,02:12:08,2,Thursday,9,2022,13.037869,80.296911,East,Marina,Murder,8,Hot,0,0,1,5.59,Low,Moderate,0.36,1,1
+CR000993,2020-04-16,02:24:15,2,Thursday,4,2020,12.990907,80.2415,South,Adyar,Vehicle-theft,6,Foggy,0,0,1,1.31,Low,Poor,0.22,0,1
+CR000994,2020-08-21,00:17:27,0,Friday,8,2020,13.146932,80.277222,North,Tiruvottiyur,Vehicle-theft,4,Rainy,0,0,1,1.23,Medium,Good,0.18,0,1
+CR000995,2019-07-27,13:24:55,13,Saturday,7,2019,13.052599,80.032569,West,Porur,Eve-teasing,4,Clear,0,1,0,4.13,Low,Poor,0.24,1,1
+CR000996,2023-10-23,01:24:39,1,Monday,10,2023,13.050643,80.265681,Central,Nungambakkam,Assault,7,Hot,1,0,1,1.21,Very High,Moderate,0.15,1,1
+CR000997,2019-06-09,21:15:24,21,Sunday,6,2019,13.071721,80.23822,Central,Nungambakkam,Robbery,7,Clear,0,1,1,2.05,Medium,Moderate,0.19,1,1
+CR000998,2022-10-20,01:35:12,1,Thursday,10,2022,13.090139,80.279564,Central,Triplicane,Vehicle-theft,5,Rainy,1,0,1,2.25,Low,Moderate,0.25,0,1
+CR000999,2020-07-11,05:42:56,5,Saturday,7,2020,13.005224,80.270018,East,Besant Nagar,Vehicle-theft,7,Foggy,0,1,1,4.64,Low,Good,0.14,1,1
+CR001000,2022-02-22,04:38:18,4,Tuesday,2,2022,12.976326,80.242172,South,Velachery,Theft,3,Foggy,0,0,1,5.33,Low,Poor,0.39,0,1
